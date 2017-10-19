@@ -1,24 +1,24 @@
-import ReactDOM from "react-dom";
-import React, { Component } from "react";
-import logo from "./logo.svg";
+import ReactDOM from 'react-dom';
+import React, { Component } from 'react';
+import logo from './logo.svg';
 
-import Index from "./pages/Index.js";
-import Conclusions from "./pages/Conclusions.js";
-import Aboutme from "./pages/Aboutme.js";
-import Education from "./pages/Education.js";
-import Theproblem from "./pages/Theproblem.js";
-import Why from "./pages/Why.js";
-import References from "./pages/References.js";
-import Input from "./pages/Input.js";
-import Contact from "./pages/Contact.js";
-import Intro from "./pages/Intro.js";
+import Index from './pages/Index.js';
+import Conclusions from './pages/Conclusions.js';
+import Aboutme from './pages/Aboutme.js';
+import Education from './pages/Education.js';
+import Theproblem from './pages/Theproblem.js';
+import Why from './pages/Why.js';
+import References from './pages/References.js';
+import Input from './pages/Input.js';
+import Contact from './pages/Contact.js';
+import Intro from './pages/Intro.js';
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 // import Notes from './pages/Notes.js';
 
-import NavComponent from "./components/Navbar.js";
-import JumboComponent from "./components/Jumbotron.js";
-import Footer from "./components/Footer.js";
+import NavComponent from './components/Navbar.js';
+import JumboComponent from './components/Jumbotron.js';
+import Footer from './components/Footer.js';
 
 class App extends Component {
   render() {

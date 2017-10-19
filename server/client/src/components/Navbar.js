@@ -1,13 +1,13 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 class NavComponent extends React.Component {
   dropToggle() {
-    let links = document.querySelector(".dropdown-menu");
-    if (links.style.display === "block") {
-      links.style.display = "none";
+    let links = document.querySelector('.dropdown-menu');
+    if (links.style.display === 'block') {
+      links.style.display = 'none';
     } else {
-      links.style.display = "block";
+      links.style.display = 'block';
     }
   }
   render() {

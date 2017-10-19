@@ -1,6 +1,6 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import styled from "styled-components";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import styled from 'styled-components';
 
 const Education = () => {
   return (
@@ -25,7 +25,7 @@ const Education = () => {
         </div>
       </div>
       <div>
-        <Link to={"/theproblem"}>Next!</Link>
+        <Link to={'/theproblem'}>Next!</Link>
       </div>
     </div>
   );

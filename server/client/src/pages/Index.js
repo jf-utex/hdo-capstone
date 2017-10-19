@@ -1,10 +1,10 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Index = () => {
   const styles = {
     p: {
-      fontSize: "23px"
+      fontSize: '23px'
     }
   };
   return (
@@ -25,7 +25,7 @@ const Index = () => {
         </div>
       </div>
       <div>
-        <Link to={"/education"}>Next!</Link>
+        <Link to={'/education'}>Next!</Link>
       </div>
     </div>
   );

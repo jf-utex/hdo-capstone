@@ -1,5 +1,5 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Conclusions = () => {
   return (
@@ -13,7 +13,7 @@ const Conclusions = () => {
             organizational culture withing the field of Orthotics and
             Prosthetics
           </p>
-          <Link to={"/education"} className="btn btn-primary">
+          <Link to={'/education'} className="btn btn-primary">
             Next!
           </Link>
         </div>

@@ -1,10 +1,10 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Aboutme = () => {
   const styles = {
     p: {
-      fontSize: "23px"
+      fontSize: '23px'
     }
   };
   return (
