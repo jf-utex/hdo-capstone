@@ -20,7 +20,7 @@ app.use(
 
 app.use(passport.initialize());
 app.use(passport.session());
-
+app.use(express.static(path.join(__dirname, 'client/build')));
 require('./routes/authRoutes')(app);
 
 app.get('*', (req, res) => {
