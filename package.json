@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "asyncawait": "^1.0.6",
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.2",
@@ -19,8 +20,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node index.js",
-    "heroku-postbuild":
-      "cd client && npm install --only=dev && npm install && npm run build",
+    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build",
     "test": "node index.js",
     "server": "nodemon index.js",
     "client": "npm run start --prefix client",
