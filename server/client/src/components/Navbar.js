@@ -13,6 +13,11 @@ class NavComponent extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-inverse">
+        <img
+          src="../../../../css/img/logo.png"
+          alt="Orthotics and Prosthetics"
+        />
+        {/* //need this to be right justified */}
         <div className="container-fluid">
           <div className="navbar-header">
             <a className="navbar-brand" href="/">
