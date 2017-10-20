@@ -23,17 +23,16 @@ passport.use(
       proxy: true
     },
     (accessToken, refreshToken, profile, done) => {
-    User.findOne({ googleId: profile.id }).then(existingUser)
+      User.findOne({ googleId: profile.id }).then(existingUser);
 
       if (existingUser) {
         done(null, existingUser);
       } else {
         //const user = await new User({ googleId: profile.id }).save();
-        new User ({ googleId: profile.id })
-        .save()
-        .then(user => done(null, user));
+        new User({ googleId: profile.id })
+          .save()
+          .then(user => done(null, user));
       }
-    });
-  }
+    }
   )
 );
