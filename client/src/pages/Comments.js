@@ -29,9 +29,9 @@ class Comments extends Component {
     <div>
       <div className="panel panel-default">
         <div className="panel-body">
-          <h4 className="panel">Here's my feedback to date</h4>
+          <h4 className="panel">Here are your comments to date</h4>
           <hr />
-          <img src="/css/img/construction.png" alt="some text" height="250" />
+          {/* <img src="/css/img/construction.png" alt="some text" height="250" /> */}
           <input
             onChange={this.onInput}
             name="comment"
