@@ -104,7 +104,7 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="Input" onClick={this.dropToggle}>
+                  <a href="Comments" onClick={this.dropToggle}>
                     Tell me what YOU think
                   </a>
                 </li>

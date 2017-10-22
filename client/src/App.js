@@ -12,6 +12,7 @@ import References from './pages/References.js';
 import Input from './pages/Input.js';
 import Contact from './pages/Contact.js';
 import Intro from './pages/Intro.js';
+import Comments from './pages/Comments.js';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 // import Notes from './pages/Notes.js';
@@ -28,6 +29,7 @@ class App extends Component {
           <NavComponent />
           <JumboComponent />
           <Switch>
+            <Route exact path="/comments" component={Comments} />
             <Route exact path="/" component={Index} />
             <Route exact path="/intro" component={Intro} />
             <Route exact path="/education" component={Education} />

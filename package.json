@@ -5,17 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "asyncawait": "^1.0.6",
+    "body-parser": "^1.18.2",
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.2",
     "mongoose": "^4.12.3",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0"
-  },
-  "proxy": {
-    "/auth/google": {
-      "target": "http://localhost:5000"
-    }
   },
   "devDependencies": {},
   "scripts": {
