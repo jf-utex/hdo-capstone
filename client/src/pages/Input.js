@@ -13,6 +13,9 @@ const Input = () => {
           <img src="/css/img/construction.png" alt="some text" height="250" />
         </div>
       </div>
+      <div>
+        <Link to={'/comments'}>Tell me what YOU think!</Link>
+      </div>
     </div>
   );
 };

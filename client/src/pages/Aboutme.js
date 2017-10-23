@@ -23,7 +23,6 @@ const Aboutme = () => {
               HDO, Internship, Residency, jobs throughout career, coding and
               career shift.
             </p>
-
             <p>
               Just to set perspective, I am an orthotist. I have been a
               practitioner for almost 30 years and have never desired to be duel
@@ -32,6 +31,9 @@ const Aboutme = () => {
               and should not be considered a slight to those who are prostetists
               or duel certified.
             </p>
+          </div>
+          <div>
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
           </div>
         </div>
       </div>

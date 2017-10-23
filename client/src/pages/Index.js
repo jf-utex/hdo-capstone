@@ -22,10 +22,10 @@ const Index = () => {
               eveidence of prosthetic toes
             </p>
           </div>
+          <div>
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </div>
         </div>
-      </div>
-      <div>
-        <Link to={'/education'}>Next!</Link>
       </div>
     </div>
   );

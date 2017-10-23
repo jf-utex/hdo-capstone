@@ -31,7 +31,6 @@ class Comments extends Component {
         <div className="panel-body">
           <h4 className="panel">Here are your comments to date</h4>
           <hr />
-          {/* <img src="/css/img/construction.png" alt="some text" height="250" /> */}
           <input
             onChange={this.onInput}
             name="comment"

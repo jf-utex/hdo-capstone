@@ -18,7 +18,7 @@ const Intro = () => {
       </div>
 
       <div>
-        <Link to={'/education'}>Next!</Link>
+        <Link to={'/comments'}>Tell me what YOU think!</Link>
       </div>
     </div>
   );

@@ -1,5 +1,5 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Why = () => {
   return (
@@ -8,7 +8,6 @@ const Why = () => {
         {/* <div className="panel-body"> */}
 
         <div class="panel panel-default">
-          {/* <div class="panel-heading">The Why Pages--Capstone - Points</div> */}
           <div class="panel-body">
             The Why Pages--Capstone - Points
             <div class="row">
@@ -70,8 +69,8 @@ const Why = () => {
             </div>
             <div class="row">
               <div class="col-md-6">
-                {" "}
-                {" "}
+                {' '}
+                {' '}
                 <li>
                   Because of this lack of research, I will use the nursing field
                   as a parallel. They have done research and have a gender
@@ -123,7 +122,7 @@ const Why = () => {
                   National Institute on Disability and Rehabilitation Research
                   (NIDRR), the Department of Defense, the Orthotic and
                   Prosthetic Education and Research Foundation (OPERF) and
-                  private industry grants." You can see this directly at:{" "}
+                  private industry grants." You can see this directly at:{' '}
                   {/* <a href="http://www.nupoc.northwestern.edu/research/index.html"></a>  */}
                 </p>
               </div>
@@ -134,11 +133,9 @@ const Why = () => {
             </div>
           </div>
         </div>
-        <p />
-      </div>
-      {/* </div> */}
-      <div>
-        <Link to={"/"}>Next!</Link>
+        <div>
+          <Link to={'/comments'}>Tell me what YOU think!</Link>
+        </div>
       </div>
     </div>
   );

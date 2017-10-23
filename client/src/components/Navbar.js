@@ -13,10 +13,6 @@ class NavComponent extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-inverse">
-        <img
-          src="../../../../css/img/logo.png"
-          alt="Orthotics and Prosthetics"
-        />
         {/* //need this to be right justified */}
         <div className="container-fluid">
           <div className="navbar-header">
@@ -106,11 +102,6 @@ class NavComponent extends React.Component {
                 <li>
                   <a href="Comments" onClick={this.dropToggle}>
                     Tell me what YOU think
-                  </a>
-                </li>
-                <li>
-                  <a href="Contact" onClick={this.dropToggle}>
-                    Send an email
                   </a>
                 </li>
               </ul>
