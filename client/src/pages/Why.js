@@ -131,10 +131,10 @@ const Why = () => {
               <div class="col-md-6">col1</div>
               <div class="col-md-6">col2</div>
             </div>
+            <div>
+              <Link to={'/comments'}>Tell me what YOU think!</Link>
+            </div>
           </div>
-        </div>
-        <div>
-          <Link to={'/comments'}>Tell me what YOU think!</Link>
         </div>
       </div>
     </div>

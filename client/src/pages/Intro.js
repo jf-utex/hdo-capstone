@@ -13,12 +13,11 @@ const Intro = () => {
               the o and p community is comprosed of approximatly 6000
               professionals
             </p>
+            <div>
+              <Link to={'/comments'}>Tell me what YOU think!</Link>
+            </div>
           </div>
         </div>
-      </div>
-
-      <div>
-        <Link to={'/comments'}>Tell me what YOU think!</Link>
       </div>
     </div>
   );

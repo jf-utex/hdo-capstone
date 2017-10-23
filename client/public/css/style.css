@@ -1,21 +1,23 @@
 body {
-
   background-image: url('/css/img/round.png');
   background-repeat: no-repeat;
   background-size: cover;
   margin-left: 5%;
   margin-right: 5%;
-
 }
 
-.jumbotron{
+.jumbotron {
   text-align: center;
-
 }
-#btn-sm{
+#btn-sm {
   align-items: right;
 }
 
+.panel-ref {
+  margin-top: 10%;
+  margin-right: 5%;
+  text-align: left;
+}
 .panel-body {
   margin-top: 10%;
   margin-right: 5%;
@@ -26,10 +28,9 @@ body {
   margin-left: 5%;
   text-align: left;
 }
-.card{
-  align-items: center;
+.center-hdo {
+  color: #a7531e !important;
 }
-
 /* CSS for login*/
 /* Below line is used for online Google font */
 /*@import url(http://fonts.googleapis.com/css?family=Raleway);

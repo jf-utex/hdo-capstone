@@ -15,17 +15,10 @@ function Footer(/*props*/) {
               alt=""
             />
           </NavItem>
-          <NavItem eventKey={2} title="Item" />
-          <NavItem eventKey={3}>
-            {/* <a className="foot-link" href="https://hdo.utexas.edu">
-              An HDO Capstone Project: A Master's Degree Project for HDO-UT
-            </a> */}
-          </NavItem>
+          <div className="text-center small copyright">
+            © JFlaherty copyright 2017
+          </div>
         </Nav>
-
-        <div className="text-center small copyright">
-          © JFlaherty copywrite 2017
-        </div>
       </Grid>
     </footer>
   );

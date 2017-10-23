@@ -5,7 +5,6 @@ const Conclusions = () => {
   return (
     <div>
       <div className="panel">
-        <div className="panel-header" />
         <div className="panel-body">
           <h4 className="panel-title">Conclusions</h4>
           <p className="panel-text">
@@ -13,9 +12,9 @@ const Conclusions = () => {
             organizational culture withing the field of Orthotics and
             Prosthetics
           </p>
-        </div>
-        <div>
-          <Link to={'/comments'}>Tell me what YOU think!</Link>
+          <div>
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </div>
         </div>
       </div>
     </div>

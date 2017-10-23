@@ -20,7 +20,7 @@ const Education = () => {
             mobility, and in coordination with physicians, physical therapists
             or other health care professionals provide an orthopedic device to
             benefit the patient. They either build a custom device or they will
-            have access to prefabricated devices to do this{' '}
+            have access to prefabricated devices to do this.
           </p>
 
           <p>

@@ -21,9 +21,9 @@ const Index = () => {
               The history of this field dates back to almost 650 B.C. There is
               eveidence of prosthetic toes
             </p>
-          </div>
-          <div>
-            <Link to={'/comments'}>Tell me what YOU think!</Link>
+            <div>
+              <Link to={'/comments'}>Tell me what YOU think!</Link>
+            </div>
           </div>
         </div>
       </div>

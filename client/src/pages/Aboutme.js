@@ -31,6 +31,10 @@ const Aboutme = () => {
               and should not be considered a slight to those who are prostetists
               or duel certified.
             </p>
+            <p>
+              HDO, Internship, Residency, jobs throughout career, coding and
+              career shift.
+            </p>
           </div>
           <div>
             <Link to={'/comments'}>Tell me what YOU think!</Link>
