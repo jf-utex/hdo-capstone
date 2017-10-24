@@ -12,7 +12,11 @@ body {
 #btn-sm {
   align-items: right;
 }
-
+.wrapper {
+  column-count: 2;
+  column-gap: 50px;
+  padding: 50px;
+}
 .panel-ref {
   margin-top: 10%;
   margin-right: 5%;

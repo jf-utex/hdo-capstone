@@ -72,8 +72,6 @@ const Why = () => {
             </div>
             <div class="row">
               <div class="col-md-6">
-                {' '}
-                {' '}
                 <li>
                   Because of this lack of research, I will use the nursing field
                   as a parallel. They have done research and have a gender
@@ -131,8 +129,8 @@ const Why = () => {
               </div>
             </div>
             <div class="row">
-              <div class="col-md-6">col1</div>
-              <div class="col-md-6">col2</div>
+              {/* <div class="col-md-6">col1</div>
+              <div class="col-md-6">col2</div> */}
             </div>
             <div>
               <Link to={'/theproblem'}>Next</Link>

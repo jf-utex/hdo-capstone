@@ -13,7 +13,6 @@ const Conclusions = () => {
             Prosthetics
           </p>
           <p>
-            {' '}
             Organizations are often complex and consist of individuals with
             different experiences, skills, and preferences Multiple generation
             in the workforce with differing experiences, education levels and
