@@ -24,6 +24,9 @@ const Intro = () => {
               hospitals we track are VA’s of which we have 2%.
             </p>
             <div>
+              <Link to={'/education'}>Next</Link>
+            </div>
+            <div>
               <Link to={'/comments'}>Tell me what YOU think!</Link>
             </div>
           </div>

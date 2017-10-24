@@ -407,7 +407,9 @@ const References = () => {
               https://doi.org/10.2146/ajhp130435
             </p>
           </div>
-
+          <div>
+            <Link to={'/aboutme'}>Next</Link>
+          </div>
           <div>
             <Link to={'/comments'}>Tell me what YOU think!</Link>
           </div>

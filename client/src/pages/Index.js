@@ -19,6 +19,9 @@ const Index = () => {
             <hr />
             <p>The history of this field dates back to almost 650 B.C.</p>
             <div>
+              <Link to={'/intro'}>Next</Link>
+            </div>
+            <div>
               <Link to={'/comments'}>Tell me what YOU think!</Link>
             </div>
           </div>

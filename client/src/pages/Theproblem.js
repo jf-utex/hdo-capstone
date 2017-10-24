@@ -154,10 +154,13 @@ const Theproblem = () => {
             impact of gender and ethnicity has on our workplace and patient
             management.
           </p>
+          <div>
+            <Link to={'/conclusions'}>Next</Link>
+          </div>
+          <div>
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </div>
         </div>
-      </div>
-      <div>
-        <Link to={'/comments'}>Tell me what YOU think!</Link>
       </div>
     </div>
   );

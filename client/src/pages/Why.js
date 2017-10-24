@@ -135,6 +135,9 @@ const Why = () => {
               <div class="col-md-6">col2</div>
             </div>
             <div>
+              <Link to={'/theproblem'}>Next</Link>
+            </div>
+            <div>
               <Link to={'/comments'}>Tell me what YOU think!</Link>
             </div>
           </div>

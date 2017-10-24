@@ -72,6 +72,9 @@ const Conclusions = () => {
             order to raise bottom line for sales)
           </p>
           <div>
+            <Link to={'/references'}>Next</Link>
+          </div>
+          <div>
             <Link to={'/comments'}>Tell me what YOU think!</Link>
           </div>
         </div>

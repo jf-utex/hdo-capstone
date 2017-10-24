@@ -55,6 +55,9 @@ const Education = () => {
             width="250"
           />
           <div>
+            <Link to={'/why'}>Next</Link>
+          </div>
+          <div>
             <Link to={'/comments'}>Tell me what YOU think!</Link>
           </div>
         </div>
