@@ -56,6 +56,11 @@ class NavComponent extends React.Component {
                     Why is Culture Important?
                   </a>
                 </li>
+                <li>
+                  <a href="Theproblem" onClick={this.dropToggle}>
+                    Here are the stats...does it make sense?
+                  </a>
+                </li>
                 {/* <li>
                   <a href="Discussion" onClick={this.dropToggle}>Discussion</a>
                 </li> */}

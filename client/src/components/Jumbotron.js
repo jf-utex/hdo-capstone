@@ -14,6 +14,7 @@ class JumboComponent extends React.Component {
               src="../../../../css/img//oxbackground.jpeg"
               alt="Orthotics and Prosthetics"
             />
+
             <div className="center-hdo">
               <a href={'https://hdo.utexas.edu'}>
                 An HDO Capstone Project: A Master's Degree Project for HDO-UT

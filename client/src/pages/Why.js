@@ -17,6 +17,9 @@ const Why = () => {
                   training in leadership.
                 </li>
                 <li>
+                  <h3>
+                    Multigenerational Workforce-THE MILLENNIALS ARE HERE!!
+                  </h3>
                   No training in multigenerational workforce interactions or
                   acknowledgement of peer to peer communication needs. Any
                   training that is provided is related to patient care.
