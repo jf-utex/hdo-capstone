@@ -71,6 +71,23 @@ const Conclusions = () => {
             test scores over learning (selling more expensive componentry in
             order to raise bottom line for sales)
           </p>
+          <p>
+            <h2>
+              Research Needs in O&P include examination of Culture in Leadership
+            </h2>
+          </p>
+          <ul>
+            <li>
+              Communication styles: Peer to Peer and with patient population
+              considering gender and generational differences
+            </li>
+            <li>Garner experience from incumbants in the field</li>
+            <li>Encourage ideas from younger generation</li>
+            <li>
+              Increase engagement => encourage growth of field/improved patient
+              care
+            </li>
+          </ul>
           <div>
             <Link to={'/references'}>Next</Link>
           </div>

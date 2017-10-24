@@ -11,10 +11,18 @@ class JumboComponent extends React.Component {
               Culture in Orthotics and Prosthetics
             </h2>
             <img
-              src="../../../../css/img//oxbackground.jpeg"
+              src="../../../../css/img/oxbackground.jpeg"
               alt="Orthotics and Prosthetics"
             />
-
+            <div className="center-hdo">
+              {/* <a
+                href={
+                  'https://comments.auth0.com/login?client=g1vjdYGnM4ly4TJJR_wpjQ3wbW8qEx3h'
+                }
+              >
+                Login with Google Account
+              </a> */}
+            </div>
             <div className="center-hdo">
               <a href={'https://hdo.utexas.edu'}>
                 An HDO Capstone Project: A Master's Degree Project for HDO-UT
