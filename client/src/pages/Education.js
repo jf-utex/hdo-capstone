@@ -48,6 +48,16 @@ const Education = () => {
             more about the requirements for certification, please visit the ABC
             website or the BOC website.
           </p>
+
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            <div>
+              <img
+                src="/css/img/MastersPrograms.png"
+                alt="current o&p Masters Programs"
+                width="650"
+              />
+            </div>
+          </div>
           <hr />
           <img
             src="../../../../css/img/abc-logo.png"

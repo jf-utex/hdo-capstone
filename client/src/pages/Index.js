@@ -12,12 +12,14 @@ const Index = () => {
       <div>
         <div className="panel panel-default">
           <div className="panel-body">
-            <h2 className="panel">
-              Learn About the Orthotic and Prosthetic Profession
-            </h2>
             <h3 className="panel">Profession or Trade</h3>
-            <hr />
-            <p>The history of this field dates back to almost 650 B.C.</p>
+
+            <p>
+              The field of Orthotics and Prosthetics (O&P) dates back to almost
+              650 B.C. <br /> Because of the long standing history of this
+              field, there has been discussion if this is a profession or a
+              trade.
+            </p>
             <div>
               <Link to={'/intro'}>Next</Link>
             </div>
