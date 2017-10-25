@@ -29,12 +29,12 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="Intro" onClick={this.dropToggle}>
+                  <a href="intro" onClick={this.dropToggle}>
                     Intro
                   </a>
                 </li>
                 <li>
-                  <a href="Education" onClick={this.dropToggle}>
+                  <a href="education" onClick={this.dropToggle}>
                     Education
                   </a>
                 </li>
@@ -52,12 +52,12 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="Why" onClick={this.dropToggle}>
+                  <a href="why" onClick={this.dropToggle}>
                     Why is Culture Important?
                   </a>
                 </li>
                 <li>
-                  <a href="Theproblem" onClick={this.dropToggle}>
+                  <a href="theproblem" onClick={this.dropToggle}>
                     Here are the stats...does it make sense?
                   </a>
                 </li>
@@ -65,7 +65,7 @@ class NavComponent extends React.Component {
                   <a href="Discussion" onClick={this.dropToggle}>Discussion</a>
                 </li> */}
                 <li>
-                  <a href="Conclusions" onClick={this.dropToggle}>
+                  <a href="conclusions" onClick={this.dropToggle}>
                     Conclusion
                   </a>
                 </li>
@@ -82,12 +82,12 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="References" onClick={this.dropToggle}>
+                  <a href="references" onClick={this.dropToggle}>
                     References
                   </a>
                 </li>
                 <li>
-                  <a href="Aboutme" onClick={this.dropToggle}>
+                  <a href="aboutme" onClick={this.dropToggle}>
                     About the Author and Acknowledgements
                   </a>
                 </li>
@@ -105,7 +105,7 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="Comments" onClick={this.dropToggle}>
+                  <a href="comments" onClick={this.dropToggle}>
                     Tell me what YOU think
                   </a>
                 </li>
