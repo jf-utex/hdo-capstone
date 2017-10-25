@@ -3,23 +3,15 @@ import ReactDOM from 'react-dom';
 import { NavLink } from 'react-router-dom';
 
 class NavComponent extends React.Component {
-  dropToggle() {
-    let links = document.querySelector('.dropdown-menu');
-    if (links.style.display === 'block') {
-      links.style.display = 'none';
-    } else {
-      links.style.display = 'block';
-    }
-  }
   render() {
     return (
       <nav className="navbar navbar-inverse">
         {/* //need this to be right justified */}
         <div className="container-fluid">
           <div className="navbar-header">
-            <a className="navbar-brand" href="/">
+            <NavLink className="navbar-brand" to="/">
               An HDO Capstone Project
-            </a>
+            </NavLink>
           </div>
 
           <ul className="nav navbar-nav">
@@ -32,16 +24,13 @@ class NavComponent extends React.Component {
                 Let's Get Started
                 <span className="caret" />
               </NavLink>
+
               <ul className="dropdown-menu">
                 <li>
-                  <a href="intro" onClick={this.dropToggle}>
-                    Intro
-                  </a>
+                  <NavLink to="intro">Intro</NavLink>
                 </li>
                 <li>
-                  <a href="education" onClick={this.dropToggle}>
-                    Education
-                  </a>
+                  <NavLink to="education">Education</NavLink>
                 </li>
               </ul>
             </li>
@@ -57,22 +46,16 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="why" onClick={this.dropToggle}>
-                    Why is Culture Important?
-                  </a>
+                  <NavLink to="/why">Why is Culture Important?</NavLink>
                 </li>
                 <li>
-                  <a href="theproblem" onClick={this.dropToggle}>
+                  <NavLink to="/theproblem">
                     Here are the stats...does it make sense?
-                  </a>
+                  </NavLink>
                 </li>
-                {/* <li>
-                  <a href="Discussion" onClick={this.dropToggle}>Discussion</a>
-                </li> */}
+
                 <li>
-                  <a href="conclusions" onClick={this.dropToggle}>
-                    Conclusion
-                  </a>
+                  <NavLink to="conclusions">Conclusion</NavLink>
                 </li>
               </ul>
             </li>
@@ -87,14 +70,12 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="references" onClick={this.dropToggle}>
-                    References
-                  </a>
+                  <NavLink to="references">References</NavLink>
                 </li>
                 <li>
-                  <a href="aboutme" onClick={this.dropToggle}>
+                  <NavLink to="aboutme">
                     About the Author and Acknowledgements
-                  </a>
+                  </NavLink>
                 </li>
               </ul>
             </li>
@@ -110,9 +91,7 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <a href="comments" onClick={this.dropToggle}>
-                    Tell me what YOU think
-                  </a>
+                  <NavLink to="comments">Tell me what YOU think</NavLink>
                 </li>
               </ul>
             </li>

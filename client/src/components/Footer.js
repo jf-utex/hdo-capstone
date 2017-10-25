@@ -9,11 +9,16 @@ function Footer(/*props*/) {
           <NavItem eventKey={1}>
             <img
               src={{
-                uri: '../../../../css/img/logo.png',
+                uri: '/css/img/logo.png',
                 height: 150
               }}
               alt=""
             />
+
+            {/* <img
+              src="/css/img/oxbackground.jpeg"
+              alt="Orthotics and Prosthetics"
+            /> */}
           </NavItem>
           <div className="text-center medium copyright">
             © JFlaherty copyright 2017
