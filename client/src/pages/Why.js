@@ -12,6 +12,7 @@ const Why = () => {
             The Why Pages--Capstone - Points
             <div class="row">
               <div class="col-md-6">
+                <p>
                 <li>
                   The field of orthotics and prosthetics does not provide
                   training in leadership.
@@ -101,6 +102,7 @@ const Why = () => {
                   therefore creative solutions for orthotic and prosthetic
                   problems are reduced. The patient in the end, pays for this.
                 </li>
+              </p>
               </div>
               <div class="col-md-6">
                 <p>
