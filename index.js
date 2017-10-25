@@ -7,7 +7,7 @@ require('./models/User');
 // require('./services/passport');
 const path = require('path');
 const Comment = require('./models/comment');
-// const bodyParser = require('body-parser');
+const bodyParser = require('body-parser');
 
 mongoose.connect(keys.mongoURI);
 
