@@ -57,7 +57,7 @@ const Education = () => {
           <div style={{ display: 'flex', justifyContent: 'center' }}>
             <div>
               <img
-                src="/css/img/MastersPrograms.png"
+                src="/css/img/mastersprograms.png"
                 alt="O&P Masters Programs-2017"
                 width="650"
               />
