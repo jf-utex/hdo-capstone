@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { NavLink } from 'react-router-dom';
 
 class NavComponent extends React.Component {
   dropToggle() {
@@ -23,10 +24,14 @@ class NavComponent extends React.Component {
 
           <ul className="nav navbar-nav">
             <li className="dropdown">
-              <a className="dropdown-toggle" data-toggle="dropdown" href="/">
+              <NavLink
+                activeClassName="dropdown-toggle"
+                data-toggle="dropdown"
+                to="/"
+              >
                 Let's Get Started
                 <span className="caret" />
-              </a>
+              </NavLink>
               <ul className="dropdown-menu">
                 <li>
                   <a href="intro" onClick={this.dropToggle}>
