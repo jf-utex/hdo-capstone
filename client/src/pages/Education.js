@@ -63,11 +63,7 @@ const Education = () => {
               />
             </div>
           </div>
-          <img
-            src="../../../../css/img/abc-logo.png"
-            alt="some text"
-            width="250"
-          />
+          <img src="/css/img/abc-logo.png" alt="some text" width="250" />
           <div>
             <Link to={'/why'}>Next</Link>
           </div>
