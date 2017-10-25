@@ -6,9 +6,9 @@ const Theproblem = () => {
     <div>
       <div className="panel panel-default">
         <div className="panel-body">
-          <h4 className="panel">
+          <h3 className="panel">
             What we can learn from other allied health professions
-          </h4>
+          </h3>
           <div className="wrapper">
             <p>
               Methods: Methods [based on these assumptions, here’s what we do] I
@@ -20,11 +20,13 @@ const Theproblem = () => {
               struggling with these concepts but have gone further to
               investigate and implement solutions.
             </p>
-            <p>Generational Gap in experience</p>
+            <p>
+              <h4>Generational Gap in Experience</h4>
+            </p>
             <div style={{ display: 'flex', justifyContent: 'left' }}>
               <div>
                 <img
-                  src="../../../../css/img/experience2015.png"
+                  src="/css/img/experience2015.png"
                   alt="some text"
                   width="650"
                 />
@@ -113,17 +115,16 @@ const Theproblem = () => {
               within O&P in the United States. Of the respondents, only 27% are
               female and 84% of the field is White/Caucasian.
             </p>
-          </div>
-          <div style={{ display: 'flex', justifyContent: 'left' }}>
-            <div>
-              <img
-                src="/css/img/genderop.png"
-                alt="FEMALE TO MALE distribution"
-                width="650"
-              />
+
+            <div style={{ display: 'flex', justifyContent: 'left' }}>
+              <div>
+                <img
+                  src="/css/img/genderop.png"
+                  alt="FEMALE TO MALE distribution"
+                  width="650"
+                />
+              </div>
             </div>
-          </div>
-          <div className="wrapper">
             <p>
               However, the age distribution, as indicated by Figure 1, shows
               that the workforce is evenly distributed between the ages of 25-64
@@ -172,6 +173,7 @@ const Theproblem = () => {
               ethnicity has on our workplace and patient management.
             </p>
           </div>
+
           <div>
             <Link to={'/conclusions'}>Next</Link>
           </div>

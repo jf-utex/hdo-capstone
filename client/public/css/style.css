@@ -5,6 +5,14 @@ body {
   margin-left: 5%;
   margin-right: 5%;
 }
+h3 {
+  text-align: center;
+}
+p {
+  text-align: left;
+  font-size: 20px;
+  border-radius: 10px 10px 0 0;
+}
 
 .jumbotron {
   text-align: center;
@@ -17,7 +25,7 @@ body {
   column-gap: 50px;
   padding: 50px;
 }
-.panel-ref {
+.panel-1 {
   margin-top: 10%;
   margin-right: 5%;
   text-align: left;
@@ -28,9 +36,6 @@ body {
   text-align: center;
 }
 
-.center-hdo {
-  color: #a7531e !important;
-}
 /* CSS for login*/
 /* Below line is used for online Google font */
 /*@import url(http://fonts.googleapis.com/css?family=Raleway);

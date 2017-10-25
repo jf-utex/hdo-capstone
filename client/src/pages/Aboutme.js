@@ -2,11 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Aboutme = () => {
-  const styles = {
-    p: {
-      fontSize: '20px'
-    }
-  };
+  // const styles = {
+  //   p: {
+  //     fontSize: '40px'
+  //   }
+  // };
   return (
     <div>
       <navbar />
@@ -14,8 +14,8 @@ const Aboutme = () => {
       <div className="panel panel-default">
         <div className="panel-body">
           <div className="panel-1">
-            <h4>About Me</h4>
-            <p style={styles.p} />
+            <h3>About Me</h3>
+            {/* <p style={styles.p} /> */}
             <p>
               Just to set perspective, I am an orthotist. I have been a
               practitioner for almost 30 years and have never desired to be duel

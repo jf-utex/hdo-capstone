@@ -6,7 +6,7 @@ const Conclusions = () => {
     <div>
       <div className="panel">
         <div className="panel-body">
-          <h4 className="panel-title">Conclusions</h4>
+          <h3 className="panel-title">Conclusions</h3>
           <p className="panel-text">
             Conclusions discussing the need for increased attention to
             organizational culture withing the field of Orthotics and

@@ -7,7 +7,7 @@ const Intro = () => {
       <div>
         <div className="panel panel-default">
           <div className="panel-body">
-            <h4 className="panel">History</h4>
+            <h3 className="panel">History</h3>
             <img src="/css/img/cairo-toe.jpg" alt="some text" width="150" />
             <p>
               the o and p community is comprosed of approximatly 6000

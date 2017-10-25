@@ -7,22 +7,14 @@ function Footer(/*props*/) {
       <Grid>
         <Nav justified>
           <NavItem eventKey={1}>
-            <img
-              src={{
-                uri: '/css/img/logo.png',
-                height: 150
-              }}
-              alt=""
-            />
-
-            {/* <img
-              src="/css/img/oxbackground.jpeg"
-              alt="Orthotics and Prosthetics"
-            /> */}
+            {/* <img src="/css/img/logo.png" alt="" width="100" /> */}
           </NavItem>
-          <div className="text-center medium copyright">
-            © JFlaherty copyright 2017
-          </div>
+          <NavItem eventKey={2}>
+            {/* <img src="/css/img/logo.png" alt="" width="100" /> */}
+          </NavItem>
+          <NavItem eventKey={3}>
+            <img src="/css/img/logo.png" alt="" width="100" />
+          </NavItem>
         </Nav>
       </Grid>
     </footer>
