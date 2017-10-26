@@ -5,7 +5,7 @@ class JumboComponent extends React.Component {
   render() {
     return (
       <div>
-        <div className="jumbotron">
+        <div className="jumbotron jumbotron-fluid">
           <div className="container">
             <h2 className="display-3 text-uppercase">
               Culture in Orthotics and Prosthetics
@@ -14,11 +14,13 @@ class JumboComponent extends React.Component {
               src="/css/img/oxbackground.jpeg"
               alt="Orthotics and Prosthetics"
             />
-            <div className="center-hdo" />
+
             <div className="center-hdo">
-              <a href={'https://hdo.utexas.edu'}>
-                An HDO Capstone Project: A Master's Degree Project for HDO-UT
-              </a>
+              <div class="card-panel">
+                <a href={'https://hdo.utexas.edu'}>
+                  An HDO Capstone Project: A Master's Degree Project for HDO-UT
+                </a>
+              </div>
             </div>
           </div>
         </div>

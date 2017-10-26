@@ -27,19 +27,24 @@ class Comments extends Component {
   postComments = () => {};
   render = () => (
     <div>
-      <div className="panel panel-default">
-        <div className="panel-body">
+      <div className="panel-body">
+        Please share your thoughts about anything you have read here. From
+        generational differences in the workplace to your feelings about your
+        own workplace. It is anonymous if you don't sign your post.
+        <hr />
+        <input
+          onChange={this.onInput}
+          name="comment"
+          type="text"
+          value={this.state.commentInput}
+        />
+        <input onClick={this.onSubmit} type="submit" value="Submit Comment" />
+        <div className="panel panel-default">
           <hr />
-          <input
-            onChange={this.onInput}
-            name="comment"
-            type="text"
-            value={this.state.commentInput}
-          />
-          <input onClick={this.onSubmit} type="submit" value="Submit Comment" />
-          <h4 className="panel">Here are your comments to date</h4>
+          <h4 className="panel">Thank you for all the input to date:</h4>
+
           {this.state.comments.map(comment => (
-            <p key={comment._id}>{comment.comment}</p>
+            <p key={comment._id}>"{comment.comment}"</p>
           ))}
         </div>
       </div>

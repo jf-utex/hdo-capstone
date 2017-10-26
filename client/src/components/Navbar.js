@@ -6,7 +6,6 @@ class NavComponent extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-inverse">
-        {/* //need this to be right justified */}
         <div className="container-fluid">
           <div className="navbar-header">
             <NavLink className="navbar-brand" to="/">
