@@ -28,7 +28,7 @@ const Theproblem = () => {
                 <img
                   src="/css/img/experience2015.png"
                   alt="some text"
-                  width="650"
+                  width="500"
                 />
               </div>
             </div>
@@ -121,7 +121,7 @@ const Theproblem = () => {
                 <img
                   src="/css/img/genderop.png"
                   alt="FEMALE TO MALE distribution"
-                  width="650"
+                  width="500"
                 />
               </div>
             </div>
