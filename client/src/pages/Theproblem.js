@@ -11,6 +11,13 @@ const Theproblem = () => {
           </h3>
           <div className="wrapper">
             <p>
+              <p>
+                As of 2017, the O&P community is composed of approximatly 6000
+                professionals. Of those 6,000 practitioners, females make up
+                just 27%. The male to female ratio has been historically higher
+                in males. The patient gender distribution is relatively evenly
+                distributed. That said, why is the field so unbalanced?
+              </p>
               Methods: Methods [based on these assumptions, here’s what we do] I
               have done a literature review as outlined by (Webster and Watson
               2017) in order to pull concepts of Leadership, multigenerational
@@ -174,13 +181,23 @@ const Theproblem = () => {
             </p>
           </div>
 
-          <div>
+          {/* <div>
             <Link to={'/conclusions'}>Next</Link>
           </div>
           <div>
             <Link to={'/comments'}>Tell me what YOU think!</Link>
-          </div>
+          </div> */}
         </div>
+      </div>
+      <div className="card">
+        <ul className="list-group list-group-flush">
+          <li className="list-group-item">
+            <Link to={'/conclusions'}>Next</Link>
+          </li>
+          <li className="list-group-item">
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </li>
+        </ul>
       </div>
     </div>
   );

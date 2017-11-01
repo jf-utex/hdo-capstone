@@ -7,7 +7,6 @@ const References = () => {
       <div className="panel-body">
         {/* <div className="panel-body"> */}
         <h3 className="panel">References/Bibliography</h3>
-
         <ul>
           <p>
             Highsmith, M. J. (2015). Is orthotics and prosthetics a profession?
@@ -393,14 +392,16 @@ const References = () => {
             American Society of Health-System Pharmacists.
           </p>
         </ul>
-
-        <div>
-          <Link to={'/aboutme'}>Next</Link>
-        </div>
-        <div>
-          <Link to={'/comments'}>Tell me what YOU think!</Link>
-        </div>
-        {/* </div> */}
+      </div>
+      <div className="card">
+        <ul className="list-group list-group-flush">
+          <li className="list-group-item">
+            <Link to={'/aboutme'}>Next</Link>
+          </li>
+          <li className="list-group-item">
+            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </li>
+        </ul>
       </div>
     </div>
   );

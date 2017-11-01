@@ -34,11 +34,15 @@ const Aboutme = () => {
             Eric Pelagio and Brandon Simon for their help with this project.
           </p>
         </div>
-        <div>
-          <Link to={'/'}>Next</Link>
-        </div>
-        <div>
-          <Link to={'/comments'}>Tell me what YOU think!</Link>
+        <div className="card">
+          <ul className="list-group list-group-flush">
+            <li className="list-group-item">
+              <Link to={'/'}>Next</Link>
+            </li>
+            <li className="list-group-item">
+              <Link to={'/comments'}>Tell me what YOU think!</Link>
+            </li>
+          </ul>
         </div>
       </div>
     </div>

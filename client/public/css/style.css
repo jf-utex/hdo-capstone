@@ -1,7 +1,4 @@
 body {
-  /*background-image: url('/css/img/round.png');
-  background-repeat: no-repeat;
-  background-size: cover;*/
   background-color: #222222;
   margin-left: 5%;
   margin-right: 5%;
@@ -16,9 +13,11 @@ p {
   font-size: 18px;
   border-radius: 10px 10px 0 0;
 }
-.center-hdo {
-  color: black;
+.card {
+  text-align: center;
+  background-color: #222222;
 }
+
 .jumbotron {
   text-align: center;
   background-color: #222222;
@@ -32,24 +31,42 @@ p {
   column-gap: 50px;
   padding: 50px;
 }
-.panel {
-  background-color: #222222;
-}
 
 .panel-1 {
   margin-top: 10%;
   margin-right: 5%;
   text-align: left;
 }
-.panel-body {
+.panel-bodyindex {
+  text-align: center;
+  font-style: italic;
   margin-top: 10%;
   margin-right: 5%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.panel-bodyintro {
   text-align: center;
-  background-color: #222222;
+  font-weight: lighter;
+  /*margin-top: 10%;
+  margin-right: 5%;*/
 }
-.panel-default {
-  background-color: #222222;
+.row-2 {
+  text-align: center;
 }
+.panel-nupoc {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  font-style: italic;
+}
+.panel-list {
+  margin-left: 40%;
+  margin-right: 30%;
+  text-align: center;
+}
+
 .overlay {
   position: absolute;
   width: 100%;

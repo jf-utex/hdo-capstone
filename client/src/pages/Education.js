@@ -74,11 +74,15 @@ const Education = () => {
             </div>
           </div>
           <img src="/css/img/abc-logo.png" alt="some text" width="250" />
-          <div>
-            <Link to={'/why'}>Next</Link>
-          </div>
-          <div>
-            <Link to={'/comments'}>Tell me what YOU think!</Link>
+          <div className="card">
+            <ul className="list-group list-group-flush">
+              <li className="list-group-item">
+                <Link to={'/why'}>Next</Link>
+              </li>
+              <li className="list-group-item">
+                <Link to={'/comments'}>Tell me what YOU think!</Link>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
