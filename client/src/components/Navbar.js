@@ -45,12 +45,10 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <NavLink to="/why">Why is Culture Important?</NavLink>
+                  <NavLink to="/allied">What are others saying?</NavLink>
                 </li>
                 <li>
-                  <NavLink to="/theproblem">
-                    Here are the stats...does it make sense?
-                  </NavLink>
+                  <NavLink to="/why">Why is Culture Important?</NavLink>
                 </li>
 
                 <li>

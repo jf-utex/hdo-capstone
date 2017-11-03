@@ -4,6 +4,27 @@ import { Link } from 'react-router-dom';
 const References = () => {
   return (
     <div>
+      <a href="http://www.pewresearch.org/fact-tank/2015/05/11/millennials-surpass-gen-xers-as-the-largest-generation-in-u-s-labor-force/ft_15-05-04_genlaborforcecomposition-2/">
+        <img
+          width="440"
+          // height="429"
+          src="http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1.png"
+          class="attachment-large size-large"
+          alt="U.S. Labor Force by Generation, 1995-2015"
+          srcset="http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1.png 640w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-300x201.png 300w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-200x133.png 200w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-260x174.png 260w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-50x34.png 50w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-160x107.png 160w"
+          sizes="(max-width: 640px) 100vw, 640px"
+        />
+      </a>
+      <div style={{ display: 'flex', justifyContent: 'right' }}>
+        <div>
+          <img
+            src="/css/img/mastersprograms.png"
+            alt="O&P Masters Programs-2017"
+            width="650"
+          />
+        </div>
+        {/* </div> */}
+      </div>
       <div className="panel-body">
         {/* <div className="panel-body"> */}
         <h3 className="panel">References/Bibliography</h3>

@@ -11,10 +11,6 @@ const Why = () => {
             <div className="col-md-6">
               <p>
                 <li>
-                  The field of orthotics and prosthetics does not provide
-                  training in leadership.
-                </li>
-                <li>
                   <h3>
                     Multigenerational Workforce-THE MILLENNIALS ARE HERE!!
                   </h3>
@@ -135,7 +131,7 @@ const Why = () => {
         <div className="card">
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
-              <Link to={'/theproblem'}>Next</Link>
+              <Link to={'/conclusion'}>Next</Link>
             </li>
             <li className="list-group-item">
               <Link to={'/comments'}>Tell me what YOU think!</Link>

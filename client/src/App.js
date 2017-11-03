@@ -6,7 +6,7 @@ import Index from './pages/Index.js';
 import Conclusions from './pages/Conclusions.js';
 import Aboutme from './pages/Aboutme.js';
 import Education from './pages/Education.js';
-import Theproblem from './pages/Theproblem.js';
+import Allied from './pages/Allied.js';
 import Why from './pages/Why.js';
 import References from './pages/References.js';
 // import Input from './pages/Input.js';
@@ -33,7 +33,7 @@ class App extends Component {
             <Route exact path="/" component={Index} />
             <Route exact path="/intro" component={Intro} />
             <Route exact path="/education" component={Education} />
-            <Route exact path="/theproblem" component={Theproblem} />
+            <Route exact path="/allied" component={Allied} />
             <Route exact path="/why" component={Why} />
             <Route exact path="/conclusions" component={Conclusions} />
             <Route exact path="/aboutme" component={Aboutme} />
