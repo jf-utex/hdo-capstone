@@ -44,7 +44,7 @@ class Comments extends Component {
           <h4 className="panel">Thank you for all the input to date:</h4>
 
           {this.state.comments.map(comment => (
-            <p key={comment._id}>"{comment.comment}"</p>
+            <p key={comment._id}>{comment.comment}"</p>
           ))}
         </div>
       </div>

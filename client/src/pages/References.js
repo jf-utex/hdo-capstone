@@ -31,31 +31,31 @@ const References = () => {
         <ul>
           <p>
             Highsmith, M. J. (2015). Is orthotics and prosthetics a profession?
-            Journal of Prosthetics and Orthotics, 27(4), 115–117.{' '}
+            Journal of Prosthetics and Orthotics, 27(4), 115–117.
           </p>
           <p>
-            Condie, D. N. (2008). The modern era of orthotics. Prosthetics and
-            Orthotics International, 32(3), 313–323.
+            ** Condie, D. N. (2008). The modern era of orthotics. Prosthetics
+            and Orthotics International, 32(3), 313–323.
             https://doi.org/10.1080/03093640802113006
           </p>
-          <p>Sinek, S. (2011). Start With Why. Portfolio. </p>
+          <p>** Sinek, S. (2011). Start With Why. Portfolio. </p>
           <p>
             Cronin, P., Ryan, F., & Coughlan, M. (2004). Undertaking a
             Literature Review. Doing Postgraduate Research, 4(4), 411–429.
             https://doi.org/10.1177/107808747000500401
           </p>
           <p>
-            Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W. D.,
-            Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000). Practice
-            Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN ORTHOTICS
-            AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE. Retrieved
-            from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
+            ** Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W.
+            D., Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000).
+            Practice Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN
+            ORTHOTICS AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE.
+            Retrieved from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
           </p>
           <p>
-            Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P. Dunn,
-            Christopher J. Fairman, Stephen B. Fletcher, Michelle J. Hall, Carol
-            J. Hentges, Robert S. Lin, T. E. M. (2015). Practice Analysis of
-            Certified Practitioners in the Disciplines of Orthotics and
+            ** Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P.
+            Dunn, Christopher J. Fairman, Stephen B. Fletcher, Michelle J. Hall,
+            Carol J. Hentges, Robert S. Lin, T. E. M. (2015). Practice Analysis
+            of Certified Practitioners in the Disciplines of Orthotics and
             Prosthetics. Retrieved from
             https://www.abcop.org/individual-certification/Documents/ABC
             Practice Analysis of the Discipline of Orthotics and Prosthetics.pdf
@@ -74,14 +74,7 @@ const References = () => {
             institutional, international. Research in Organizational Behavior,
             35. https://doi.org/10.1016/j.riob.2015.10.003
           </p>
-          <p>Kupperschmidt, B. R. (n.d.). Con f licts e r a y r, 25(1). </p>
-          <p>
-            Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare
-            for the future : Writing a literature review Reproduced with
-            permission of the copyright owner . Further reproduction prohibited
-            without permission . MIS Quarterly, 26(2), xiii–xxiii.
-            https://doi.org/10.2307/4132319
-          </p>
+
           <p>
             Information, M. (2017). Acceptance Model Gender Differences in Use
             of E-Mail : An Extension to the Technology Acceptance Model1, 21(4),
@@ -107,11 +100,17 @@ const References = () => {
             http://www.jstor.org/stable/pdf/2787014.pdf?refreqid=excelsior%3A981e7df190f9750230d1d310051c5429
           </p>
           <p>
-            Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
+            ** Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
             Development Are leadership values different across generations?: A
             comparative leadership analysis of CEOs v. MBAs. Journal of
             Management Development Organization Development Journal, 33(2),
             977–990. Retrieved from http://dx.doi.org/10.1108/JMD-10-2012-0131
+          </p>
+
+          <p>
+            ** Ahn, M. J., & Ettner, L.W. (2014). Are leadership values
+            different across generations? Journal of Management Development,
+            33(10), 977–990. https://doi.org/10.1108/JMD-10-2012-0131
           </p>
           <p>
             Robinson, R. V., & Jackson, E. F. (2001). Is Trust in Others
@@ -142,13 +141,16 @@ const References = () => {
             of orthotics : biomechanical principles and application. C.V. Mosby
             Co.{' '}
           </p>
+
           <p>
-            Webster, J., & Watson, R. T. (n.d.). Analyzing the Past to Prepare
-            for the Future: Writing a Literature Review. MIS Quarterly, 26.
+            ** Webster, J., & Watson, R. T. (2002). Analyzing the past to
+            prepare for the future : Writing a literature review Reproduced with
+            permission of the copyright owner . Further reproduction prohibited
+            without permission . MIS Quarterly, 26(2), xiii–xxiii.
             https://doi.org/10.2307/4132319
           </p>
           <p>
-            Macky, K., Gardner, D., & Forsyth, S. (2008). Generational
+            ** Macky, K., Gardner, D., & Forsyth, S. (2008). Generational
             Differences at work: introduction and overview. Journal of
             Managerial Psychology. Retrieved from
             http://www.emeraldinsight.com.ezproxy.lib.utexas.edu/doi/pdfplus/10.1108/02683940810904358
@@ -163,15 +165,7 @@ const References = () => {
             Leading Generation X: Do the Old Rules Apply? (n.d.).
             /doi/pdf/10.1177/107179190300900406
           </p>
-          <p>
-            J. Ahn, M., & W. Ettner, L. (2014). Are leadership values different
-            across generations? Journal of Management Development, 33(10),
-            977–990. https://doi.org/10.1108/JMD-10-2012-0131
-          </p>
-          <p>
-            What Makes a Leader? (n.d.). Retrieved June 25, 2017, from
-            https://hbr.org/2004/01/what-makes-a-leader
-          </p>
+
           <p>
             Bennett, J., Pitt, M., & Price, S. (1108). Understanding the impact
             of generational issues in the workplace. Facilities Journal of
@@ -188,12 +182,7 @@ const References = () => {
             June 25, 2017, from
             https://www.healio.com/orthotics-prosthetics/orthotics/news/print/o-and-p-news/%7Bc152a840-cde4-4131-9203-afa61be4f0a6%7D/avoid-stress-and-burnout-among-op-professionals
           </p>
-          <p>
-            Del Watson, by. (n.d.). Generation Y and Leadership How will
-            leadership be defined by this generation? A capstone research
-            project in fulfillment of the Masters in Human Dimensions of
-            Organizations.
-          </p>
+
           <p>
             Hahn, J. A. (2011). Managing Multiple Generations: Scenarios From
             the Workplace. Nursing Forum.
@@ -204,10 +193,7 @@ const References = () => {
             multigenerational staff. Nursing Management.
             https://doi.org/10.1097/01.NUMA.0000335251.85671.eb
           </p>
-          <p>
-            Dean, E. (2012). Clinical leadership course earns praise from
-            students. Nursing Management (Harrow, London, England : 1994).{' '}
-          </p>
+
           <p>
             Dwyer, R. J., & Azevedo, A. (2016). Preparing leaders for the
             multi-generational workforce. Journal of Enterprising Communities:
@@ -256,17 +242,7 @@ const References = () => {
             http://delivery.acm.org/10.1145/1300000/1294104/p240-mcintosh-elkins.pdf?ip=128.62.61.196&id=1294104&acc=ACTIVE
             SERVICE&key=603D2E7028CD4EF5.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=943405368&CFTOKEN=82361897&__acm__=1496346149_ee65474becca214b183b90ad3891323e
           </p>
-          <p>
-            Haynes, B. P. (2011). Journal of Corporate Real Estate The impact of
-            generational differences on the workplace. Journal of Corporate Real
-            Estate Journal of Managerial Psychology Iss Facilities, (12),
-            98–108. Retrieved from http://dx.doi.org/10.1108/14630011111136812
-          </p>
-          <p>
-            Kapoor, C., & Solomon, N. (2011). Understanding and managing
-            generational differences in the workplace. Worldwide Hospitality and
-            Tourism Themes, 3(4). https://doi.org/10.1108/17554211111162435
-          </p>
+
           <p>
             Becton, J. B., Walker, H. J., & Jones-Farmer, A. (2014).
             Generational differences in workplace behavior. Journal of Applied
@@ -284,23 +260,24 @@ const References = () => {
             https://doi.org/10.1002/jls.20235
           </p>
           <p>
-            Lyons, S., & Kuron, L. (2014). Generational differences in the
+            ** Lyons, S., & Kuron, L. (2014). Generational differences in the
             workplace: A review of the evidence and directions for future
             research. Journal of Organizational Behavior, 35(S1), S139–S157.
             https://doi.org/10.1002/job.1913
           </p>
           <p>
-            Kuron, L. K. J., Lyons, S. T., Schweitzer, L., & Ng, E. S. W.
+            ** Kuron, L. K. J., Lyons, S. T., Schweitzer, L., & Ng, E. S. W.
             (2015). Millennials’ work values: differences across the school to
             work transition. Personnel Review, 44(6), 991–1009.
             https://doi.org/10.1108/PR-01-2014-0024
           </p>
           <p>
-            Joshi, A., Dencker, J. C., Franz, G., & Martocchio, J. J. (2010).
+            ** Joshi, A., Dencker, J. C., Franz, G., & Martocchio, J. J. (2010).
             Unpacking generational identity in organizations. Academy of
             Management Review, 35(3), 392–414.
             https://doi.org/10.5465/AMR.2010.51141800
           </p>
+
           <p>
             Treuren, G., & Anderson, K. (2010). The Employment Expectations of
             Different Age Cohorts: Is Generation Y Really that Different?
@@ -314,8 +291,8 @@ const References = () => {
             https://doi.org/10.1080/10887156.2012.730444
           </p>
           <p>
-            Weingarten, R. M. (2009). Four Generations, One Workplace: A Gen X-Y
-            Staff Nurse’s View of Team Building in the Emergency Department.
+            ** Weingarten, R. M. (2009). Four Generations, One Workplace: A Gen
+            X-Y Staff Nurse’s View of Team Building in the Emergency Department.
             Journal of Emergency Nursing, 35(1), 27–30.
             https://doi.org/10.1016/j.jen.2008.02.017
           </p>
@@ -351,12 +328,7 @@ const References = () => {
             Ismail, M. (2016). Cultural Values and Career Goal of Gen-X and Gen-
             Y: A Conceptual Framework. An International Journal, 8(2).{' '}
           </p>
-          <p>
-            Joshi, A., Dencker, J. C., Franz, G., Joseph, J., Dencker, J. C.,
-            Martocchio, J. I., & Franz, G. (2016). Published by : Academy of
-            Management UNPACKING GENERATIONAL IDENTITIES IN ORGANIZATIONS,
-            35(3), 392–414.{' '}
-          </p>
+
           <p>
             Zopiatis, A., Krambia-Kapardis, M., & Varnavas, A. (2012). Y-ers,
             X-ers and Boomers: Investigating the multigenerational
@@ -364,16 +336,10 @@ const References = () => {
             Hospitality Research, 12(2), 101–121.
             https://doi.org/10.1177/1467358412466668
           </p>
+
           <p>
-            Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
-            Development Are leadership values different across generations?: A
-            comparative leadership analysis of CEOs v. MBAs Are leadership
-            values different across generations? A comparative leadership
-            analysis of CEOs v. MBAs, 33, 977–990.
-          </p>
-          <p>
-            Cennamo, L., & Gardner, D. (2011). Generational differences in work
-            values, outcomes and person-organisation values fit. IEEE
+            ** Cennamo, L., & Gardner, D. (2011). Generational differences in
+            work values, outcomes and person-organisation values fit. IEEE
             Engineering Management Review, 39(2), 24–36.
           </p>
           <p>

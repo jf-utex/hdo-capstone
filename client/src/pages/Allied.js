@@ -121,7 +121,7 @@ const Theproblem = () => {
               />
             </div>
           </div>
-          <br />
+          {/* <br /> */}
           <p>
             This is a question that could be answered with a look into our
             culture. As we move toward requiring a Master’s and PhD level of
@@ -161,41 +161,48 @@ const Theproblem = () => {
           </div>
           <br />
           <p>
-            To grow the field and encourage new applicants to our O&P schools,
-            two things must happen, we must first understand what traits or
-            behaviors seem to be associated with each generation in the
-            workforce, and how they perceive effective leadership. By examining
-            these expectations, we will be closer to easing the transition as
-            one group leaves and the other replaces it as well as potentially
-            identifying factors that may help with recruitment and retention.
-            The labor force is affected by a number of people retiring each year
-            with a direct impact on the economy’s capacity to produce goods and
-            services (Ahn &amp; Ettner, 2017). We must be careful not to
-            stereotype a particular generation instead, we must consider that an
-            individual employee’s preferences may be related to maturity,
-            life‐cycle and career stage. This will help us to avoid developing
-            generationally specific management policies and practices (Macky,
-            Gardner, &amp; Forsyth, 2008) Jeannie FlahertyStructure of
-            Organizations22-Aug- 17 Second, we must take a critical look at how
-            we have been operating and why we are not more diverse with regards
-            to gender and ethnicity. As we begin to examine our own clinical
-            workforce we must take into account individual preferences for
-            leadership behavior and acknowledge that this may require a shift in
-            leadership attitude, policy, and implementation. (Ahn &amp; Ettner,
-            2017) The accepted leadership behavior in most organizations outside
-            Orthotics and Prosthetics is transformational leadership, a style
-            of leadership where a leader works with subordinates to identify
-            needed change, creating a vision to guide the change through
-            inspiration, and executing the change in tandem with committed
-            members of a group. (Ahn &amp; Ettner, 2017) This model of
-            leadership would work well in this profession that maintains a need
-            for mentorship in the clinical practice. As we move forward, to
-            advance the profession and best care for our diverse patient
-            population as well as to promote a more engaged workforce, I would
-            suggest that the O&amp;P community focus resources to research
-            specifically the leadership needs of the next generation, and the
-            impact of gender and ethnicity has on our workplace and patient
-            management.
+            <p>
+              {' '}
+              To grow the field and encourage new applicants to our O&P schools,
+              two things must happen, we must first understand what traits or
+              behaviors seem to be associated with each generation in the
+              workforce, and how they perceive effective leadership. By
+              examining these expectations, we will be closer to easing the
+              transition as one group leaves and the other replaces it as well
+              as potentially identifying factors that may help with recruitment
+              and retention. The labor force is affected by a number of people
+              retiring each year with a direct impact on the economy’s capacity
+              to produce goods and services (Ahn & Ettner, 2017). We must be
+              careful not to stereotype a particular generation instead, we must
+              consider that an individual employee’s preferences may be related
+              to maturity, life‐cycle and career stage. This will help us to
+              avoid developing generationally specific management policies and
+              practices (Macky, Gardner, & Forsyth, 2008){' '}
+            </p>
+
+            <p>
+              {' '}
+              Second, we must take a critical look at how we have been operating
+              and why we are not more diverse with regards to gender and
+              ethnicity. As we begin to examine our own clinical workforce we
+              must take into account individual preferences for leadership
+              behavior and acknowledge that this may require a shift in
+              leadership attitude, policy, and implementation. (Ahn & Ettner,
+              2017) The accepted leadership behavior in most organizations
+              outside Orthotics and Prosthetics is transformational leadership,
+              a style of leadership where a leader works with subordinates to
+              identify needed change, creating a vision to guide the change
+              through inspiration, and executing the change in tandem with
+              committed members of a group. (Ahn & Ettner, 2017) This model of
+              leadership would work well in this profession that maintains a
+              need for mentorship in the clinical practice. As we move forward,
+              to advance the profession and best care for our diverse patient
+              population as well as to promote a more engaged workforce, I would
+              suggest that the O& P community focus resources to research
+              specifically, the leadership needs of the next generation, and the
+              impact of gender and ethnicity has on our workplace and patient
+              management.{' '}
+            </p>
           </p>
         </div>
 

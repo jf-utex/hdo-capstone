@@ -33,14 +33,22 @@ const Intro = () => {
           </div>
         </div>
         <br />
-        <p>
-          “Research strives to improve quantification and objective scientific
-          evidence that informs P&O clinical decision-making; and to develop new
-          concepts and devices that will improve the quality,
-          cost-effectiveness, and delivery of P&O fittings.“ (Northwestern
-          University Prosthetic and Orthotice Center, 2017)
-        </p>
-        <br />
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'center',
+            fontStyle: 'italic'
+          }}
+        >
+          <p>
+            “Research strives to improve quantification and objective scientific
+            evidence that informs P&O clinical decision-making; and to develop
+            new concepts and devices that will improve the quality,
+            cost-effectiveness, and delivery of P&O fittings.“ (Northwestern
+            University Prosthetic and Orthotice Center, 2017)
+          </p>
+          <br />
+        </div>
       </div>
       <div className="row">
         <div className="col-md-6">

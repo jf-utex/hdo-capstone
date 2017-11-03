@@ -2,7 +2,7 @@ body {
   background-color: #222222;
   margin-left: 5%;
   margin-right: 5%;
-  font: italic 12px/30px Georgia, serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h3 {
@@ -11,8 +11,10 @@ h3 {
 }
 
 p {
-  font: 16px Georgia, serif;
-  color: grey;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  /*font: 16px 'Montserrat thin', serif;*/
+  color: lightgrey;
   text-align: left;
   border-radius: 10px 10px 0 0;
 }
@@ -45,13 +47,16 @@ p {
 }
 .panel-bodyindex {
   /*line-height: 21em;*/
-  font-size: 14px;
+  font-size: 16px;
+  color: #51b88f;
+  font-family: 'Raleway', sans-serif;
 }
 
 .panel-bodyintro {
   font-size: 14px;
   line-height: 1.5em;
   letter-spacing: 0.5px;
+  color: #51b88f;
 }
 .row-2 {
   text-align: center;
