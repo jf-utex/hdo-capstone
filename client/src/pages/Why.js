@@ -73,28 +73,36 @@ const Why = () => {
                 (Macky, Gardner, & Forsyth, 2008)
               </p>
               <p>
-                We must take a critical look at how we have been operating and
-                why we are not more diverse with regards to gender and
-                ethnicity. As we begin to examine our own clinical workforce we
-                must take into account individual preferences for leadership
-                behavior and acknowledge that this may require a shift in
-                leadership attitude, policy, and implementation. (Ahn & Ettner,
-                2017) The accepted leadership behavior in most organizations
-                outside Orthotics and Prosthetics is transformational
-                leadership, a style of leadership where a leader works with
-                subordinates to identify needed change, creating a vision to
-                guide the change through inspiration, and executing the change
-                in tandem with committed members of a group. (Ahn & Ettner,
-                2017) This model of leadership would work well in this
-                profession that maintains a need for mentorship in the clinical
-                practice.
+                Second, we must take a critical look at how we have been
+                operating and why we are not more diverse with regards to gender
+                and ethnicity. We should also look at the level of engagement in
+                our current practitioners. Are they looking to transition out of
+                the field? Are they fulfilled in their practice? How can
+                Leadership and Management facilitate engagement? As we begin to
+                examine our own clinical workforce we must take into account
+                individual preferences for leadership behavior and acknowledge
+                that this may require a shift in leadership attitude, policy,
+                and implementation. (Ahn & Ettner, 2017) The accepted leadership
+                behavior in most organizations outside Orthotics and Prosthetics
+                is transformational leadership, a style of leadership where
+                a leader works with subordinates to identify needed change,
+                creating a vision to guide the change through inspiration, and
+                executing the change in tandem with committed members of a
+                group. (Ahn & Ettner, 2017) This model of leadership would work
+                well in this profession that maintains a need for mentorship in
+                the clinical practice.
               </p>
               <p>
-                <li>
-                  No training in multigenerational workforce interactions or
-                  acknowledgement of peer to peer communication needs. Any
-                  training that is provided is related to patient care.
-                </li>
+                The field of Nursing specifically has examined the concept of
+                circular communication as a next step toward engagement. There
+                is an understanding that peer to peer communication as well as
+                supervisor to subordinate communication should be circular - a
+                two way dialoge with follow up. acknowledgement of peer to peer
+                communication needs. Using tools such as the Maslach's Burnout
+                Inventory and the Multifactor Leadership Questionnaire may
+                provide insight to employee burnout and the leadership style
+                percieved to be most effective. (Zopiatis, Krambia-Kapardis, &
+                Varnavas, 2012)
                 <li>
                   Comparatively, the field of nursing is looking at these issues
                   and has done some research to work through these issues. How
@@ -189,18 +197,19 @@ const Why = () => {
                 through creative applications of science and engineering to the
                 field of P&O and to disseminate new knowledge in P&O to the
                 public through publications in professional journals,
-                presentations at symposia, webinars and other media. Research
-                strives to improve quantification and objective scientific
-                evidence that informs P&O clinical decision-making; and to
-                develop new concepts and devices that will improve the quality,
-                cost-effectiveness, and delivery of P&O fittings. Research is
+                presentations at symposia, webinars and other media. Research is
                 funded through competitive grants from agencies that have
                 included the Department of Veteran's Affairs, the National
                 Institute on Disability and Rehabilitation Research (NIDRR), the
                 Department of Defense, the Orthotic and Prosthetic Education and
                 Research Foundation (OPERF) and private industry grants." You
-                can see this directly at:{' '}
-                {/* <a href="http://www.nupoc.northwestern.edu/research/index.html"></a>  */}
+                can see this directly at:
+                <a
+                  href={'http://www.nupoc.northwestern.edu/research/index.html'}
+                >
+                  {' '}
+                  The Northwestern University Prosthetic and Orthotic Center
+                </a>{' '}
               </p>
             </div>
           </div>

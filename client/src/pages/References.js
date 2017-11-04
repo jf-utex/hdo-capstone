@@ -29,28 +29,100 @@ const References = () => {
         {/* <div className="panel-body"> */}
         <h3 className="panel">References/Bibliography</h3>
         <ul>
+          <h3>References directly used for this site</h3>
+          <li>
+            Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
+            Development Are leadership values different across generations?: A
+            comparative leadership analysis of CEOs v. MBAs. Journal of
+            Management Development Organization Development Journal, 33(2),
+            977–990. Retrieved from http://dx.doi.org/10.1108/JMD-10-2012-0131
+          </li>
+          <li>
+            Condie, D. N. (2008). The modern era of orthotics. Prosthetics and
+            Orthotics International, 32(3), 313–323.
+            https://doi.org/10.1080/03093640802113006
+          </li>
+          <li>
+            Howe, N., & Strauss, W. (2000). Millennials Rising: The Next Great
+            Generation (3rd ed.). Vintage.
+          </li>
+          <li>
+            Macky, K., Gardner, D., & Forsyth, S. (2008). Generational
+            Differences at work: introduction and overview. Journal of
+            Managerial Psychology. Retrieved from
+            http://www.emeraldinsight.com.ezproxy.lib.utexas.edu/doi/pdfplus/10.1108/02683940810904358
+          </li>
+          <li>
+            Martin, C., & Tulgan, B. (2001). Managing Generation Y: Global
+            Citizens Born in the Late Seventies and Early Eighties. H R D Press;
+            1 edition (January 2001).
+          </li>
+          <li>
+            Mcintosh-Elkins, J., Mcintosh, J., Mcritchie, K., & Scoones, M.
+            (n.d.). From the Silent Generation to Generation X, Y and Z:
+            Strategies for Managing the Generation Mix. Retrieved from
+            http://delivery.acm.org/10.1145/1300000/1294104/p240-mcintosh-elkins.pdf?ip=128.62.61.196&id=1294104&acc=ACTIVE
+            SERVICE&key=603D2E7028CD4EF5.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=943405368&CFTOKEN=82361897&__acm__=1496346149_ee65474becca214b183b90ad3891323e
+          </li>
+          <li>
+            Northwestern University Prosthetics-Orthotics Center. (n.d.).
+            Retrieved from http://www.nupoc.northwestern.edu/
+          </li>
+          <li>
+            Robinson, R. V., & Jackson, E. F. (2001). Is Trust in Others
+            Declining in America? An Age–Period–Cohort Analysis. Social Science
+            Research, 30(1), 117–145. https://doi.org/10.1006/ssre.2000.0692
+          </li>
+          <li>United State Census Bureau. (n.d.).</li>
+          <li>
+            Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare
+            for the future : Writing a literature review Reproduced with
+            permission of the copyright owner . Further reproduction prohibited
+            without permission . MIS Quarterly, 26(2), xiii–xxiii.
+            https://doi.org/10.2307/4132319
+          </li>
+          <li>
+            Weingarten, R. M. (2009). Four Generations, One Workplace: A Gen X-Y
+            Staff Nurse’s View of Team Building in the Emergency Department.
+            Journal of Emergency Nursing, 35(1), 27–30.
+            https://doi.org/10.1016/j.jen.2008.02.017
+          </li>
+          <li>
+            Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P. Dunn,
+            Christopher J. Fairman, Stephen B. Fletcher, Michelle J. Hall, Carol
+            J. Hentges, Robert S. Lin, T. E. M. (2015). Practice Analysis of
+            Certified Practitioners in the Disciplines of Orthotics and
+            Prosthetics. Retrieved from
+            https://www.abcop.org/individual-certification/Documents/ABC
+            Practice Analysis of the Discipline of Orthotics and Prosthetics.pdf
+          </li>
+          <li>
+            Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W. D.,
+            Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000). Practice
+            Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN ORTHOTICS
+            AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE. Retrieved
+            from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
+          </li>
+          <li>
+            Zopiatis, A., Krambia-Kapardis, M., & Varnavas, A. (2012). Y-ers,
+            X-ers and Boomers: Investigating the multigenerational
+            (mis)perceptions in the hospitality workplace. Tourism and
+            Hospitality Research, 12(2), 101–121.
+            https://doi.org/10.1177/1467358412466668
+          </li>
+          <h3>Indirect references</h3>
           <p>
             Highsmith, M. J. (2015). Is orthotics and prosthetics a profession?
             Journal of Prosthetics and Orthotics, 27(4), 115–117.
           </p>
-          <p>
-            ** Condie, D. N. (2008). The modern era of orthotics. Prosthetics
-            and Orthotics International, 32(3), 313–323.
-            https://doi.org/10.1080/03093640802113006
-          </p>
-          <p>** Sinek, S. (2011). Start With Why. Portfolio. </p>
+
+          <p>Sinek, S. (2011). Start With Why. Portfolio. </p>
           <p>
             Cronin, P., Ryan, F., & Coughlan, M. (2004). Undertaking a
             Literature Review. Doing Postgraduate Research, 4(4), 411–429.
             https://doi.org/10.1177/107808747000500401
           </p>
-          <p>
-            ** Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W.
-            D., Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000).
-            Practice Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN
-            ORTHOTICS AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE.
-            Retrieved from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
-          </p>
+
           <p>
             ** Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P.
             Dunn, Christopher J. Fairman, Stephen B. Fletcher, Michelle J. Hall,
@@ -108,11 +180,6 @@ const References = () => {
           </p>
 
           <p>
-            ** Ahn, M. J., & Ettner, L.W. (2014). Are leadership values
-            different across generations? Journal of Management Development,
-            33(10), 977–990. https://doi.org/10.1108/JMD-10-2012-0131
-          </p>
-          <p>
             Robinson, R. V., & Jackson, E. F. (2001). Is Trust in Others
             Declining in America? An Age–Period–Cohort Analysis. Social Science
             Research, 30(1), 117–145. https://doi.org/10.1006/ssre.2000.0692
@@ -140,20 +207,6 @@ const References = () => {
             American Academy of Orthopaedic Surgeons., A. A. of O. (1975). Atlas
             of orthotics : biomechanical principles and application. C.V. Mosby
             Co.{' '}
-          </p>
-
-          <p>
-            ** Webster, J., & Watson, R. T. (2002). Analyzing the past to
-            prepare for the future : Writing a literature review Reproduced with
-            permission of the copyright owner . Further reproduction prohibited
-            without permission . MIS Quarterly, 26(2), xiii–xxiii.
-            https://doi.org/10.2307/4132319
-          </p>
-          <p>
-            ** Macky, K., Gardner, D., & Forsyth, S. (2008). Generational
-            Differences at work: introduction and overview. Journal of
-            Managerial Psychology. Retrieved from
-            http://www.emeraldinsight.com.ezproxy.lib.utexas.edu/doi/pdfplus/10.1108/02683940810904358
           </p>
 
           <p>
@@ -235,13 +288,6 @@ const References = () => {
             multigenerational perspectives. The Leadership Quarterly, 28, 22–23.
             https://doi.org/10.1016/j.leaqua.2017.01.007
           </p>
-          <p>
-            Mcintosh-Elkins, J., Mcintosh-, J., Mcritchie, K., & Scoones, M.
-            (n.d.). From the Silent Generation to Generation X, Y and Z:
-            Strategies for Managing the Generation Mix. Retrieved from
-            http://delivery.acm.org/10.1145/1300000/1294104/p240-mcintosh-elkins.pdf?ip=128.62.61.196&id=1294104&acc=ACTIVE
-            SERVICE&key=603D2E7028CD4EF5.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=943405368&CFTOKEN=82361897&__acm__=1496346149_ee65474becca214b183b90ad3891323e
-          </p>
 
           <p>
             Becton, J. B., Walker, H. J., & Jones-Farmer, A. (2014).
@@ -290,12 +336,7 @@ const References = () => {
             Psychologist-Manager Journal, 15(4), 237–246.
             https://doi.org/10.1080/10887156.2012.730444
           </p>
-          <p>
-            ** Weingarten, R. M. (2009). Four Generations, One Workplace: A Gen
-            X-Y Staff Nurse’s View of Team Building in the Emergency Department.
-            Journal of Emergency Nursing, 35(1), 27–30.
-            https://doi.org/10.1016/j.jen.2008.02.017
-          </p>
+
           <p>
             Strumwasser, S., & Virkstis, K. (2015). Perspectives on Engagement
             Meaningfully Incorporating Staff Input to Enhance Frontline
@@ -352,11 +393,7 @@ const References = () => {
             Menzies, R., Eisenhower, T., Miller, G., Gable, C., Smith, C. K.,
             Keefe, J. O., … Bieber, J. (2012). Generations Defined, 2012.
           </p>
-          <p>
-            Kuron, L. K. J., Lyons, S. T., Schweitzer, L., & Ng, E. S. W.
-            (2015). Millennials’ work values: differences across the school to
-            work transition. Personnel Review, 44(6), 991–1009.
-          </p>
+
           <p>
             Parry, E., & Urwin, P. (2011). Generational Differences in Work
             Values: A Review of Theory and Evidence. International Journal of

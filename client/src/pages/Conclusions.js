@@ -21,7 +21,7 @@ const Conclusions = () => {
               dubbed “the slacker generation.” Generation Y is viewed as
               demanding, impatient, and disloyal. When people do not understand
               each other’s generational culture, styles, and backgrounds,
-              conflict arises. (Weingarten, R. M. 2009).
+              conflict arises. (Weingarten, 2009).
             </p>
             <p>
               {' '}

@@ -98,7 +98,7 @@ const Allied = () => {
           <p>
             Above are two tables as printed in the "Practice Analysis of
             Certified Practitioners in the Disciplines of Orthotics and
-            Prosthetics" 2015 review (Whiteside, S, et. al, 2015). These tables
+            Prosthetics" 2015 review (Whiteside, S. et.al., 2015). These tables
             show the age distribution of practitioners and the ethnic make-up of
             the field. As indicated by the tables above, the workforce is evenly
             distributed between the ages of 25-64 years. Because of the

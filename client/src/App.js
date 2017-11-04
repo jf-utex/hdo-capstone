@@ -10,13 +10,11 @@ import Allied from './pages/Allied.js';
 import Generation from './pages/Generation.js';
 import Why from './pages/Why.js';
 import References from './pages/References.js';
-// import Input from './pages/Input.js';
-// import Contact from './pages/Contact.js';
+
 import Intro from './pages/Intro.js';
 import Comments from './pages/Comments.js';
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-// import Notes from './pages/Notes.js';
 
 import NavComponent from './components/Navbar.js';
 import JumboComponent from './components/Jumbotron.js';
@@ -40,7 +38,6 @@ class App extends Component {
             <Route exact path="/conclusions" component={Conclusions} />
             <Route exact path="/aboutme" component={Aboutme} />
             <Route exact path="/references" component={References} />
-            {/* <Route exact path="/input" component={Input} /> */}
           </Switch>
           <Footer />
         </div>

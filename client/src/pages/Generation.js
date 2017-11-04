@@ -26,14 +26,14 @@ const Generation = () => {
             an age range rather than a series of birth dates. Though this method
             of description may better address the lifetime needs and maturity of
             a cohort, that description may shift and cause confusion when
-            comparing data. (Robinson, R. V., & Jackson, E. F. 2001) For the
-            purpose of this study, I will discuss cohorts as a date range,
-            knowing full well that as these generations mature and encounter new
-            life events, their attitudes will invariably shift. A cohort or a
-            range of dates, is a soft indicator of a person belonging to a
-            specific age group or generation. Dates chosen for these descriptors
-            provide information about historical events that impact those born
-            around this same time and raised around the same place.
+            comparing data. (Robinson & Jackson, 2001) For the purpose of this
+            study, I will discuss cohorts as a date range, knowing full well
+            that as these generations mature and encounter new life events,
+            their attitudes will invariably shift. A cohort or a range of dates,
+            is a soft indicator of a person belonging to a specific age group or
+            generation. Dates chosen for these descriptors provide information
+            about historical events that impact those born around this same time
+            and raised around the same place.
           </p>
           <br />
           <p>
@@ -147,8 +147,8 @@ const Generation = () => {
               book. They can be counted on for their optimism, team orientation,
               work for personal fulfillment. (Weingarten, R. M. 2009) Boomers
               value simplicity, being in control. They are risk takers and
-              aggressive in their pursuits. (Mcintosh-Elkins, J., Mcritchie, K.,
-              & Scoones, M. 2007)
+              aggressive in their pursuits. (Mcintosh-Elkins, Mcritchie, &
+              Scoones,2007)
             </p1>
           </div>
           <br />
@@ -156,23 +156,23 @@ const Generation = () => {
             <h4>Generation X</h4>
           </p>
           <p>
-            These individuals were born 1965 to1976 and are a relatively smaller
-            demographic cohort sandwiched between the larger demographic cohorts
-            of Baby Boomers and Generation Y. Gen X is sometimes referred as the
-            “latchkey generation” because of the reduced adult supervision in
-            their childhood years compared to previous generations. This
-            generation saw an increasing number of two income households. This
-            generation is composed of individuals who know job stability is not
-            guaranteed and are fiercely independent. They were witness to the
-            introduction of the home computer and the internet, the impeachment
-            of President Richard M. Nixon, the fall of the Berlin Wall and the
-            break up of the Soviet Union. MTV was introduced and HIV/AIDS
-            emerged as a pandemic. (Weingarten, R. M. 2009) To some, these
-            adults are characterized as cynical, disaffected skeptics and
-            radically individualistic. For this generation, respect must be
-            earned by demonstration of expertise and a supportive attitude.
-            “Generation X individuals seem to value greater autonomy and freedom
-            with regard to how they work.
+            These individuals were born 1965 to 1976 and are a relatively
+            smaller demographic cohort sandwiched between the larger demographic
+            cohorts of Baby Boomers and Generation Y. Gen X is sometimes
+            referred as the “latchkey generation” because of the reduced adult
+            supervision in their childhood years compared to previous
+            generations. This generation saw an increasing number of two income
+            households. This generation is composed of individuals who know job
+            stability is not guaranteed and are fiercely independent. They were
+            witness to the introduction of the home computer and the internet,
+            the impeachment of President Richard M. Nixon, the fall of the
+            Berlin Wall and the break up of the Soviet Union. MTV was introduced
+            and HIV/AIDS emerged as a pandemic. (Weingarten, R. M. 2009) To
+            some, these adults are characterized as cynical, disaffected
+            skeptics and radically individualistic. For this generation, respect
+            must be earned by demonstration of expertise and a supportive
+            attitude. “Generation X individuals seem to value greater autonomy
+            and freedom with regard to how they work.
           </p>
           <p>
             Gen Xers, however, show a tendency to prefer safer paths of action
@@ -221,8 +221,8 @@ const Generation = () => {
             {' '}
             This group is commonly referred to as "Millennials" and were born
             during the 1980’s to early 1990’s. Some authorities state that
-            Generation Y workers were born as early as 1978 (Martin and Tulgan,
-            2002), whereas others have established a birth year for this
+            Generation Y workers were born as early as 1978 (Martin & Tulgan,
+            2001), whereas others have established a birth year for this
             generation as late as 1982. (Howe and Strauss, 2000) Interestingly,
             both of these sources define the end date for Generation Y as 2000.
             Other sources, such as The Center for Generational Kinetics, have
@@ -248,8 +248,8 @@ const Generation = () => {
             reality and obesity is epidemic. They value a work-personal life
             balance and they are willing to leave one job for another if it is
             beneficial for them. This generation is the hardest to recruit and
-            retain (Weingarten, R. M. 2009). This generation has less loyalty to
-            an organization than previous generations and they show a higher
+            retain (Weingarten, 2009) . This generation has less loyalty to an
+            organization than previous generations and they show a higher
             independence than their parents. They feel they must switch
             positions if needed in order to fulfill their aspirations for career
             growth. They have a strong desire to achieve work-life balance and a
@@ -280,7 +280,7 @@ const Generation = () => {
               impact, they want to achieve a work life balance. They do not
               expect their jobs to be their jobs for the rest of their life so
               they look forward to being excited about what they are doing now.
-              (Mcintosh-Elkins, J., Mcritchie, K., & Scoones, M. 2007) Unlike
+              (Mcintosh-Elkins, Mcintosh, Mcritchie, & Scoones, 2007) Unlike
               previous Generations, specifically Generation X, these workers
               will easily shift from one employer to the next if they are not
               fulfilled. They are comfortable with collaborative tools such as

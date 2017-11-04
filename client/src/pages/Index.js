@@ -24,7 +24,7 @@ const Index = () => {
           <br />
           <br />
           <p>
-            “Organizational culture refers to a system of shared assumptions,
+            “Organizational Culture refers to a system of shared assumptions,
             values, and beliefs that show employees what is appropriate and
             inappropriate behavior”
           </p>

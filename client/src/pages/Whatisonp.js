@@ -115,14 +115,7 @@ const Whatisonp = () => {
               </p>
             </div>
           </div>
-          {/* <div className="row">
-            <img
-              src="/css/img/abc-logo.png"
-              alt="some text"
-              justifyContent="center"
-              width="250"
-            />
-          </div> */}
+
           <div className="card">
             <ul className="list-group list-group-flush">
               <li className="list-group-item">
