@@ -15,67 +15,78 @@ const Conclusions = () => {
           organizational culture withing the field of Orthotics and Prosthetics */}
             {/* </p> */}
             <p>
-              Organizations are often complex and consist of individuals with
+              Misconceptions exist about every generation. Veterans are viewed
+              as old-fashioned and out of touch. Baby Boomers are stereotyped as
+              workaholics who are set in their ways. Generation X has been
+              dubbed “the slacker generation.” Generation Y is viewed as
+              demanding, impatient, and disloyal. When people do not understand
+              each other’s generational culture, styles, and backgrounds,
+              conflict arises. (Weingarten, R. M. 2009).
+            </p>
+            <p>
+              {' '}
+              It is the challenge and responsibility of future leaders to
+              understand the motivations of their workers and help sooth
+              conflict when generational values are at odds and causing distress
+              in the work environment. By understanding these motivations, they
+              can work to bring generations together thereby reducing the
+              "Generation Gap" that can tear teams apart. Leaders must keep in
+              mind, these are guidelines for general behaviors and attitudes and
+              are not defining features of an individual. Understanding the
+              reasoning behind generational differences may help leaders address
+              conflict in the workplace and approach problems in the language of
+              these cohorts. It takes some skill, however; a good leader will be
+              able to tap into and utilize the specific skills of their
+              employees to better serve the organization.
+            </p>
+            <p>
+              Organizations are complex and consist of individuals with
               different experiences, skills, and preferences. O&P is no
-              different as we are interacting with the aforementioned as well as
-              multiple generations in our clinics all with differing
-              experiences, education levels and backgrounds. We wall work with
-              seasoned clinicians, residents and the newly certified. We all
-              also have our specialties in pediatrics, scoliosis, diabetics or
-              footwear. Organization can be viewed as the coordination of
-              individual behaviors and decision making processes To think about
-              how it is possible, we first consider how individuals behave
-              Individuals make conscious calculation and decisions that would
-              lead to the Optimal outcome based on their preferences These
+              different. In fact, we may be more complex than the average
+              business. We interact with a special sector of the public that is
+              varied in experiences, genders, and generations just as our
+              clinicians come from these varied backgrounds, education and
+              training. We will work with seasoned clinicians, residents and the
+              newly certified as well as other allied health professionals that
+              may or may not recognize our expertise.
+            </p>
+            <p>
+              Organizations can be viewed as the coordination of individual
+              behaviors and decision-making processes. To think about how this
+              is possible, we first consider how individuals behave. Individuals
+              make conscious calculation and decisions that would lead to the
+              optimal outcome based on their preferences and experiences. These
               preferences are impacted by the points above relating to
-              generational attitudes, specialization and education To do so,
-              individuals need to have complete knowledge about: Those new to
-              clinical practice may not have the experiences necessary to have
-              complete knowledge. When an individual starts a new job, often
-              supervisors will place strong restrictions on the new clinicians
-              decisions and actions until they are certain the outcomes coincide
-              with the organizational expectations. This can be suffocating to a
-              seasoned clinician as well as a new clinician that “thinks they
-              know the outcomes to their actions”. It is imperative that the
-              communication around this “trial period” be circular and
-              supportive. The situation All potential options and their outcomes
-              Their own preference for each outcome We like to think how we make
-              decisions but more often what we do is rationalization In Reality
-              Individuals are cognitively bounded - Bounded rationality is the
-              idea that when individuals make decisions, their rationality is
-              limited by the tractability of the decision problem, the cognitive
-              limitations of their minds, and the time available to make the
-              decision. Decision-makers in this view act as satisficers, seeking
-              a satisfactory solution rather than an optimal one. Various
-              stimuli demand our attention and mental capacity Often we are
-              under time pressure To not go crazy, we in general prefer Habit
-              >Creativity Intuition > Calculation or Reasoning Potentially
-              Mistaken Judgement > Ambiguity Reference dependent Change>
-              Absolute State Noticeable Prototype > Full Data We seek
-              satisfactory/acceptable rather than optimal outcomes We simplify
-              and classify the situation with partial knowledge We think about a
-              low number of familiar options instead of all options When the
-              consequences of the options are not apparent, we “hope for the
-              best” Performance programs are used to coordinate across
-              individuals and produce consistency Routines that define the
-              situation, provide options, and help to select a response Make
-              judging and deciding manageable to individuals in a complex
-              operation Ensure that the inputs and outputs of individuals are
-              compatible with those of other individuals Organizational
-              decoupling refers to the gap between actual practices deviate from
-              the formal programs What we say versus what we do Reasons: Local
-              optimization Cope with multiple demands and conflicting interests
-              Program over Organization Individuals are evaluated based on how
-              successful they execute the assigned programs Input Problem
-              Individuals could “work to rule” even when they foresee negative
-              consequences Output Problem Sub-goals are pursued at the expense
-              of organizational goals (manager refusing to take Call schedule
-              because he “paid his dues” - expense to other employees work life
-              balance) - Directives presented by manager in demeaning way
-              causing disengagement. CEO seek to boost short-term stock price
-              over long-term success Teachers seek to boost test scores over
-              learning (selling more expensive componentry in order to raise
-              bottom line for sales)
+              generational attitudes, specialization and education. Expanding
+              our knowledge about our own organizational behavior and
+              organizational culture will allow us to first understand how we
+              interact with one another but shed light on how these actions may
+              need to change for the future of O&P and the wellness of our
+              patients.
+            </p>
+            <p>
+              {' '}
+              Mentoring those new to clinical practice is vital because they may
+              not have the experiences necessary to have complete knowledge in
+              how to handle situations. We do this with our Residency Programs.
+              It stands to reason we should do the same with our Leadership.
+            </p>
+            <p>
+              When an individual starts a new job, often supervisors will place
+              strong restrictions on the new clinicians decisions and actions
+              until they are certain the outcomes coincide with the
+              organizational expectations. This can be suffocating to a seasoned
+              clinician as well as a new clinician that “thinks they know the
+              outcomes to their actions”. It is imperative that the
+              communication be circular and supportive while providing feedback
+              in a timely manner.
+            </p>
+            <p>
+              It is good for a supervisor to keep in mind that no one person has
+              all the answers. We like to think we know how we make decisions
+              but more often what we do is rationalization based on our
+              available information. We all have cognitive limitations and
+              limited time available to make a decision.
             </p>
           </div>
           <div className="col-md-6">

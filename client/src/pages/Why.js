@@ -6,14 +6,91 @@ const Why = () => {
     <div>
       <div className="panel panel-default">
         <div className="panel-body">
-          <h3>The Why Pages--Capstone - Points</h3>
+          <h3>Why is culture important?</h3>
           <div className="row">
             <div className="col-md-6">
               <p>
+                As previously mentioned, an issue that faces the O&P profession
+                is that there is no current leadership training in our
+                curriculum or in practice. We, as a profession, are not looking
+                at our culture through a critical lens to isolate strengths and
+                weaknesses. Most of the literature to date reflects concern for
+                managing patient centered needs and concerns, patient compliance
+                and O&P technology. There is no peer reviewed research into
+                transformational leadership within O&P. This may be an
+                increasing concern as we compete for pay sources, attempt to
+                maintain a level of professionalism equal to that of other
+                allied health care groups and may be impacting our recruitment
+                and retention. I believe it is our responsibility to explore our
+                culture and behavior through a critical lens to better serve
+                ourselves and our public.
+              </p>
+              <br />
+              <div style={{ display: 'flex', justifyContent: 'center' }}>
+                <div>
+                  <img src="/css/img/yoe.png" alt="some text" width="500" />
+                </div>
+              </div>
+              <br />
+              <p>
+                Turning again to the “Practice Analysis of Certified
+                Practitioners in the Disciplines of Orthotics and Prosthetics”
+                we see that most practitioners have been in the field for more
+                than 11 years with a stark decrease in the number of clinicians
+                serving 10 years or less. I’m not sure what this indicates but
+                would lead me to wonder if there is a lack of interest in the
+                field or if individuals are leaving the field as I have. This is
+                a question that could be answered with a look into our culture.
+              </p>
+              <p>
+                As we move toward requiring a Master’s and PhD level of
+                education, it would seem our focus has shifted from encouraging
+                new practitioners to join the field, to maintaining and
+                educating those that are already established. With the O&P
+                workforce of just over 6,000 practitioners in 2017, we continue
+                to be a small division of medicine. Recruitment and retention
+                should be a focus to sustain, even grow the field, as qualified
+                O&P practitioners will be needed to care for our aging
+                population.
+              </p>
+              <p>
+                To grow the field and encourage new applicants to our O&P
+                schools, two things must happen, we must first understand what
+                traits or behaviors seem to be associated with each generation
+                in the workforce, and how they perceive effective leadership. We
+                have looked a little into that here, but there is more to be
+                done. By examining these expectations, we will be closer to
+                easing the transition as one group leaves and the other replaces
+                it as well as potentially identifying factors that may help with
+                recruitment and retention. The labor force is affected by a
+                number of people retiring each year with a direct impact on the
+                economy’s capacity to produce goods and services (Ahn & Ettner,
+                2017). We must be careful not to stereotype a particular
+                generation instead, we must consider that an individual
+                employee’s preferences may be related to maturity, life‐cycle
+                and career stage. This will help us to avoid developing
+                generationally specific management policies and practices
+                (Macky, Gardner, & Forsyth, 2008)
+              </p>
+              <p>
+                We must take a critical look at how we have been operating and
+                why we are not more diverse with regards to gender and
+                ethnicity. As we begin to examine our own clinical workforce we
+                must take into account individual preferences for leadership
+                behavior and acknowledge that this may require a shift in
+                leadership attitude, policy, and implementation. (Ahn & Ettner,
+                2017) The accepted leadership behavior in most organizations
+                outside Orthotics and Prosthetics is transformational
+                leadership, a style of leadership where a leader works with
+                subordinates to identify needed change, creating a vision to
+                guide the change through inspiration, and executing the change
+                in tandem with committed members of a group. (Ahn & Ettner,
+                2017) This model of leadership would work well in this
+                profession that maintains a need for mentorship in the clinical
+                practice.
+              </p>
+              <p>
                 <li>
-                  <h3>
-                    Multigenerational Workforce-THE MILLENNIALS ARE HERE!!
-                  </h3>
                   No training in multigenerational workforce interactions or
                   acknowledgement of peer to peer communication needs. Any
                   training that is provided is related to patient care.
@@ -39,33 +116,33 @@ const Why = () => {
                 </li>
               </p>
             </div>
-            <div className="col-md-6">
-              <p>
-                <li>
-                  We must be careful of stereotypes and realize these
-                  “generational” preferences may have more to do with stage of
-                  life than their “generational cohort”
-                </li>
-                <li>
-                  The generation gap has always existed. We need to find a way
-                  to close the gap and tap into the strengths of each generation
-                  while lending our experience to the next generation for
-                  operational excellence.
-                </li>
-                <li>
-                  Searching the library databases for “orthotics or prosthetics”
-                  AND “mentor*” turns up 39 results, very few are reflections or
-                  research about mentoring in the O&P workplace
-                </li>
-                <li>
-                  This demonstrates that very little research has been done in
-                  the O&P on its own professional culture. ● Other medical
-                  fields, such as nursing, regularly produce research reflecting
-                  on their own practices of mentoring, examinations of workplace
-                  culture and communication, and gender dynamics.
-                </li>
-              </p>
-            </div>
+            {/* <div className="col-md-6"> */}
+            <p>
+              <li>
+                We must be careful of stereotypes and realize these
+                “generational” preferences may have more to do with stage of
+                life than their “generational cohort”
+              </li>
+              <li>
+                The generation gap has always existed. We need to find a way to
+                close the gap and tap into the strengths of each generation
+                while lending our experience to the next generation for
+                operational excellence.
+              </li>
+              <li>
+                Searching the library databases for “orthotics or prosthetics”
+                AND “mentor*” turns up 39 results, very few are reflections or
+                research about mentoring in the O&P workplace
+              </li>
+              <li>
+                This demonstrates that very little research has been done in the
+                O&P on its own professional culture. ● Other medical fields,
+                such as nursing, regularly produce research reflecting on their
+                own practices of mentoring, examinations of workplace culture
+                and communication, and gender dynamics.
+              </li>
+            </p>
+            {/* </div> */}
           </div>
           <div className="row">
             <div className="col-md-6">

@@ -7,9 +7,7 @@ const Generation = () => {
     <div>
       {/* <div className="panel panel-default"> */}
       <div className="panel-body">
-        <h3 className="panel">
-          What can we learn from other organizations? Generational Studies
-        </h3>
+        <h3 className="panel">What can we learn from other generations?</h3>
         <div className="wrapper">
           <p>
             One thing is clear, there are not always precise dates for

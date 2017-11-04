@@ -40,26 +40,26 @@ const Allied = () => {
             that we earn a Master's Degree in order to enter the field.
           </p>
           <p>
-            I found that a literature search in Google Scholar returned 1,000’s
-            of results when searching “leadership in nursing or physical
-            therapy” however, only 1-2 relevant articles pertaining specifically
-            to O&P. I found a lack of peer reviewed research on the field of O&P
-            relating to our organizational behavior, organizational culture and
-            a lack of guidelines pertaining to our peer leadership/mentoring. I
-            then turned to the nursing community and found copious research on
-            these subjects. As it is today, current managerial leadership in
-            Orthotics and Prosthetics is taught by “do as I say and sometimes do
-            what I do”. As I have learned, this method of mentoring may not be
-            appropriate for those newly entering the field. I then began to
-            wonder as I reflect on my personal experience in the field, is this
-            method of mentoring ever appropriate?
+            I found that a literature search in Google Scholar returned
+            thousands of results when searching “leadership in nursing or
+            physical therapy” however, only 1-2 relevant articles pertaining
+            specifically to O&P. I found a lack of peer reviewed research on the
+            field of O&P relating to our organizational behavior, organizational
+            culture and a lack of guidelines pertaining to our peer
+            leadership/mentoring. I then turned to the nursing community and
+            found copious research on these subjects. As it is today, current
+            managerial leadership in Orthotics and Prosthetics is taught by “do
+            as I say and sometimes do what I do”. As I have learned, this method
+            of mentoring may not be appropriate for those newly entering the
+            field. I then began to wonder as I reflect on my personal experience
+            in the field, is this method of mentoring ever appropriate?
           </p>
           <p>
-            Zero articles pertaining to O&P.... If we are to maintain
-            professionalism and improve our patient care practices, we are
-            obligated to move outside the NUPOC definition of "research" and
-            expand our sights to include how individuals in our organizations
-            behave.
+            Zero articles pertaining to organizational culture or organizational
+            behavior O&P.... If we are to maintain professionalism and improve
+            our patient care practices, we are obligated to move outside the
+            NUPOC definition of "research" and expand our sights to include how
+            individuals in our organizations behave.
           </p>
           <br />
           <p>
@@ -119,8 +119,8 @@ const Allied = () => {
             <ul className="list-group list-group-flush">
               <li className="list-group-item">
                 What are the differences between the Baby Boomers, Generation X,
-                Generation Y, and Generation Z regarding their workplace
-                expectations?
+                Generation Y, and eventually Generation Z regarding their
+                workplace expectations?
               </li>
               <li className="list-group-item">
                 What is the difference between management and leadership?
@@ -129,9 +129,9 @@ const Allied = () => {
                 How can leadership promote employee engagement?
               </li>
               <li className="list-group-item">
-                More specifically, how can we engage Generation Y and Generation
-                Z while addressing their needs in employment without alienating
-                previous generations in the workplace?
+                How can we engage Generation Y and Generation Z while addressing
+                their needs in employment without alienating previous
+                generations in the workplace?
               </li>
               <li className="list-group-item">
                 Can we find commonalities in each generation, strong enough to
