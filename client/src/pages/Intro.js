@@ -6,17 +6,14 @@ const Intro = () => {
     <div className="panel-bodyintro">
       <h3>Orthotic Leadership Today</h3>
       <p>
-        The O&P profession currently offers no formalized training in leadership
-        to our professionals. We do not discuss organizational culture or
-        organizational behavior in peer reviewed literature. In sort, we are not
-        adding to an important conversation that is ongoing in other
+        In my personal experience, the O&P profession has not offered training
+        in leadership through our education platform to our professionals. I
+        have found that we do not discuss organizational culture or
+        organizational behavior in peer-reviewed literature. In short, we are
+        not adding to an important conversation that is ongoing in other
         professions. We are missing an opportunity to add to the body of
-        knowledge regarding how we treat one another, how we can improve our
-        interpersonal relationships in the clinic. We are missing out on
-        critically assessing how we do business with internal customers and as a
-        result, losing the opportunity to engage with other professions missing
-        out on knowledge that is critical in recruiting new talent, keeping
-        grandfathered talent and improving our patient relational skills.
+        knowledge regarding how we treat one another and how we can improve our
+        interpersonal relationships in the clinic.
       </p>
       <p>
         We, as a profession, are not looking at our culture through a critical
@@ -45,7 +42,7 @@ const Intro = () => {
             evidence that informs P&O clinical decision-making; and to develop
             new concepts and devices that will improve the quality,
             cost-effectiveness, and delivery of P&O fittings.“ (Northwestern
-            University Prosthetic and Orthotice Center, 2017)
+            University Prosthetic and Orthotic Center, 2017)
           </p>
           <br />
         </div>
@@ -54,11 +51,11 @@ const Intro = () => {
         <div className="col-md-6">
           <p>
             We encourage our patients to adapt to changing technology and
-            re-fabricated devices. Often we are changing how we manage a patient
-            or fabricate a device according to new information, fabrication
-            designs or progression of deformities. Shouldn't we also be applying
-            these principles to how we engage with each other outside of the
-            exam room? Our current perspective ignores the need for internal
+            re-fabricated devices. Often, we change how we manage a patient or
+            fabricate a device according to new information, fabrication designs
+            or progression of deformities. Shouldn't we also be applying these
+            principles to how we engage with each other outside of the exam
+            room? Our current perspective ignores the need for internal
             examination of policies, practice, culture and leadership. Without
             examining who we are and why we do what we do, we are missing the
             opportunity to improve our interpersonal relationships with each
@@ -70,15 +67,17 @@ const Intro = () => {
         </div>
         <div className="col-md-6">
           <p>
-            Currently, we aren't adding to the body of research in these areas.
-            While we fail to do so, other allied health organizations are
-            researching and implimenting changes that allow them to move forward
-            with current technology and attracting fresh talent. Ignoring the
-            fact that other allied health care organizations are looking at
-            Organizational Culture/Organizational Behavior sets us apart from
-            our health care peers. As long as we are not involved in this
-            discussion, we will continue to face the question of whether we are
-            a profession or a trade.
+            Because, we aren't adding to the body of research in these areas, we
+            fall behind our allied health colleagues. The field of Nursing and
+            Physical Therapy, for example, are actively researching and
+            implementing changes that allow them to move forward with current
+            available technology, harness the value of incumbent human capital
+            and attract fresh talent. Ignoring the fact that other allied health
+            care organizations are looking at Organizational
+            Culture/Organizational Behavior sets us apart from our health care
+            peers. As long as we are not involved in this discussion, we will
+            continue to face the question of whether we are a profession or a
+            trade.
           </p>
         </div>
       </div>
@@ -90,9 +89,14 @@ const Intro = () => {
         profession are:
         <ul className="list-group list-group-flush">
           <li className="list-group-item">Gender Communication Styles</li>
-          <li className="list-group-item">Generational Differences</li>
+          <li className="list-group-item">
+            Generational Differences in Perspective
+          </li>
           <li className="list-group-item">Employee Engagement</li>
-          <li className="list-group-item">Communication Between Collegues</li>
+          <li className="list-group-item">
+            Appropriate Communication: between colleagues, leadership and
+            management
+          </li>
           <li className="list-group-item">
             Effective Mentoring and Leadership
           </li>
@@ -106,7 +110,7 @@ const Intro = () => {
       <div className="card">
         <ul className="list-group list-group-flush">
           <li className="list-group-item">
-            <Link to={'/education'}>Next</Link>
+            <Link to={'/whatisonp'}>Next</Link>
           </li>
           <li className="list-group-item">
             <Link to={'/comments'}>Tell me what YOU think!</Link>

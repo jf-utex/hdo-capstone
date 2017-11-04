@@ -5,8 +5,9 @@ import logo from './logo.svg';
 import Index from './pages/Index.js';
 import Conclusions from './pages/Conclusions.js';
 import Aboutme from './pages/Aboutme.js';
-import Education from './pages/Education.js';
+import Whatisonp from './pages/Whatisonp.js';
 import Allied from './pages/Allied.js';
+import Generation from './pages/Generation.js';
 import Why from './pages/Why.js';
 import References from './pages/References.js';
 // import Input from './pages/Input.js';
@@ -32,8 +33,9 @@ class App extends Component {
             <Route exact path="/comments" component={Comments} />
             <Route exact path="/" component={Index} />
             <Route exact path="/intro" component={Intro} />
-            <Route exact path="/education" component={Education} />
+            <Route exact path="/whatisonp" component={Whatisonp} />
             <Route exact path="/allied" component={Allied} />
+            <Route exact path="/generation" component={Generation} />
             <Route exact path="/why" component={Why} />
             <Route exact path="/conclusions" component={Conclusions} />
             <Route exact path="/aboutme" component={Aboutme} />

@@ -29,7 +29,9 @@ class NavComponent extends React.Component {
                   <NavLink to="intro">Intro</NavLink>
                 </li>
                 <li>
-                  <NavLink to="education">Education</NavLink>
+                  <NavLink to="whatisonp">
+                    What is Orthotics and Prosthetics?
+                  </NavLink>
                 </li>
               </ul>
             </li>
@@ -46,6 +48,9 @@ class NavComponent extends React.Component {
               <ul className="dropdown-menu">
                 <li>
                   <NavLink to="/allied">What are others saying?</NavLink>
+                </li>
+                <li>
+                  <NavLink to="/generation">Some Generational Research</NavLink>
                 </li>
                 <li>
                   <NavLink to="/why">Why is Culture Important?</NavLink>
