@@ -10,14 +10,14 @@ const Whatisonp = () => {
           <div className="row">
             <div className="col-md-2">
               <br />
-              <img src="/css/img/kafo.jpeg" alt="some text" width="150" />
+              <img src="/css/img/kafo.png" alt="some text" width="150" />
               <br />
               <img src="/css/img/hand.jpeg" alt="some text" width="150" />
 
               <br />
-              <img src="/css/img/spine.jpeg" alt="some text" width="150" />
+              <img src="/css/img/spine.png" alt="some text" width="150" />
               <br />
-              <img src="/css/img/halo.jpeg" alt="some text" width="150" />
+              <img src="/css/img/halo.png" alt="some text" width="150" />
               <br />
             </div>
 
