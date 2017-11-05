@@ -23,7 +23,7 @@ const Aboutme = () => {
             for the future of O&P is real. My practice in Pediatric Orthotics
             has been my life and my passion for almost my whole career. It
             should also be said that I have recently left the field in persuit
-            of a technical career. My hope is that Leadership opprotunities or
+            of a technical career. My hope is that leadership opprotunities or
             at least a more open conversation will be found.
           </p>
 
@@ -33,11 +33,11 @@ const Aboutme = () => {
             need to leave stable employment in search of better opportunity
             because the training and positions were not available. I know there
             are some of you who detest the phrase "the good old boy network" but
-            my experience throughout my career is that is prevelant to day in
+            my experience throughout my career is that is prevelant today in
             O&P.{' '}
           </p>
 
-          <p>
+          {/* <p>
             My first mentor as I was coming into the field as an orthotic fitter
             (circa 1995) informed me that my hands were too small for orthotics
             and that a woman could never learn the physics required to do the
@@ -47,7 +47,7 @@ const Aboutme = () => {
             "they need a woman to fit a spinal brace". Being the only woman, it
             fell to me to work spinal. I always found it interesting how the job
             got done when I was on vacation or out of the clinic.
-          </p>
+          </p> */}
           <p>
             I don't wish to give the impression that I didn't have some very
             good mentors. The instructors at Northwestern University who
@@ -56,9 +56,11 @@ const Aboutme = () => {
             Clinic and provided stern direction and encouragement. He led by
             example and walked the walk with his team. Everyone on the team was
             trained in fabrication as well as spinal. I have had some excellent
-            mentors in my career but more often than not, I was degraded and
-            insulted. ** HDO, Internship, Residency, jobs throughout career,
-            coding and career shift.
+            mentors in my career
+            {/* but more often than not, I was degraded and
+            insulted.  */}
+            ** HDO, Internship, Residency, jobs throughout career, coding and
+            career shift.
           </p>
           <p>
             It took a lot of soul searching until I happened on to the Human
