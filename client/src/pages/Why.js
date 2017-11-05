@@ -217,7 +217,7 @@ const Why = () => {
         <div className="card">
           <ul className="list-group list-group-flush">
             <li className="list-group-item">
-              <Link to={'/conclusion'}>Next</Link>
+              <Link to={'/conclusions'}>Next</Link>
             </li>
             <li className="list-group-item">
               <Link to={'/comments'}>Tell me what YOU think!</Link>
