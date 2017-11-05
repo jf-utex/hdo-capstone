@@ -47,7 +47,7 @@ const Whatisonp = () => {
                 patients' homes. “After completion of the master's degree
                 program, you must complete a residency in orthotics,
                 prosthetics, or both. To learn more about residencies, visit{' '}
-                <a href={'https://www.ncope.org/'}>NCOPE</a>. To become
+                <a href={'http://www.ncope.org/'}>NCOPE</a>. To become
                 certified, candidates must pass certification exams in
                 orthotics, prosthetics, or both from the
                 <a href={'https://www.abcop.org/Pages/default.aspx'}>
@@ -61,7 +61,7 @@ const Whatisonp = () => {
                   the Board of Certification/Accreditation, International
                 </a>.” For more information on O & P Careers
                 <a
-                  href={'https://www.opcareers.org/professionals/practitioners'}
+                  href={'http://www.opcareers.org/professionals/practitioners'}
                 >
                   {' '}
                   go here.
