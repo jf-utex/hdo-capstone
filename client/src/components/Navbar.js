@@ -47,7 +47,7 @@ class NavComponent extends React.Component {
               </a>
               <ul className="dropdown-menu">
                 <li>
-                  <NavLink to="/allied">What are others saying?</NavLink>
+                  <NavLink to="/allied">What is the O&P data?</NavLink>
                 </li>
                 <li>
                   <NavLink to="/generation">Some Generational Research</NavLink>
