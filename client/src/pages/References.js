@@ -124,14 +124,13 @@ const References = () => {
           </p>
 
           <p>
-            ** Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P.
-            Dunn, Christopher J. Fairman, Stephen B. Fletcher, Michelle J. Hall,
-            Carol J. Hentges, Robert S. Lin, T. E. M. (2015). Practice Analysis
-            of Certified Practitioners in the Disciplines of Orthotics and
-            Prosthetics. Retrieved from
-            https://www.abcop.org/individual-certification/Documents/ABC
-            Practice Analysis of the Discipline of Orthotics and Prosthetics.pdf
+            Ginsburg, L., Berta, W., Baumbusch, J., Dass, A. R., Laporte, A.,
+            Reid, R. C., … Taylor, D. (2016). Measuring work engagement,
+            psychological empowerment, and organizational citizenship behavior
+            among health care aides. Gerontologist, 56(2), e1–e11.
+            https://doi.org/10.1093/geront/gnv129
           </p>
+
           <p>
             Currie, G. (2006). Management development and a mismatch of
             objectives: the culture change process in the NHS. Leadership &

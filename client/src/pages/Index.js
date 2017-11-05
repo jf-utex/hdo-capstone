@@ -13,6 +13,37 @@ const Index = () => {
         style={{
           display: 'flex',
           justifyContent: 'center',
+          fontStyle: 'bold',
+          fontSize: 20
+        }}
+      >
+        <div>
+          <h3>
+            There is a difference between Leadership and Management.
+            <br />
+            <br />
+            <li>Leaders inspire while Managers direct.</li>
+            <br />
+            <li>
+              {' '}
+              Management is about coping with complexity while Leadership is
+              about coping with change.
+            </li>
+            <br />
+            <li>
+              {' '}
+              A manager does the THING right while a Leader does the RIGHT
+              thing.
+            </li>
+            <br />
+          </h3>
+        </div>
+      </div>
+      <br />
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'center',
           fontStyle: 'italic'
         }}
       >

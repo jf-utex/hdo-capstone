@@ -15,13 +15,11 @@ const Intro = () => {
         knowledge regarding how we treat one another and how we can improve our
         interpersonal relationships in the clinic.
       </p>
-      <p>
-        We, as a profession, are not looking at our culture through a critical
-        lens to isolate strengths and weaknesses. This shortcoming may extend
-        from the cornerstone of our industry’s education stated purpose of
-        research.
-      </p>
-
+      <br />
+      <h3>
+        This shortcoming may extend from the cornerstone of our industry’s
+        education stated purpose of research.
+      </h3>
       <div className="panel-nupoc">
         <br />
         <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -47,6 +45,14 @@ const Intro = () => {
           <br />
         </div>
       </div>
+      <br />
+      <p>
+        We, as a profession, are not looking at our culture through a critical
+        lens to isolate strengths and weaknesses. We are not learning how to be
+        good leaders, we are not mentoring in leadership and we are failing to
+        keep pace with others on understanding our own organization.
+      </p>
+      <br />
       <div className="row">
         <div className="col-md-6">
           <p>
@@ -68,16 +74,16 @@ const Intro = () => {
         <div className="col-md-6">
           <p>
             Because, we aren't adding to the body of research in these areas, we
-            fall behind our allied health colleagues. The field of Nursing and
-            Physical Therapy, for example, are actively researching and
+            fall behind our allied health colleagues. The fields of nursing and
+            physical therapy, among others, are actively researching and
             implementing changes that allow them to move forward with current
             available technology, harness the value of incumbent human capital
-            and attract fresh talent. Ignoring the fact that other allied health
-            care organizations are looking at Organizational
-            Culture/Organizational Behavior sets us apart from our health care
-            peers. As long as we are not involved in this discussion, we will
-            continue to face the question of whether we are a profession or a
-            trade.
+            and attract fresh talent. Ignoring the fact that there is a
+            conversation being had about Organizational Culture/Organizational
+            Behavior sets us apart from our health care peers and other
+            organizations that are competing with us for new talent. As long as
+            we are not involved in this discussion, we will continue to face the
+            question of whether we are a profession or a trade.
           </p>
         </div>
       </div>

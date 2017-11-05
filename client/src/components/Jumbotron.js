@@ -11,8 +11,9 @@ class JumboComponent extends React.Component {
               Culture in Orthotics and Prosthetics
             </h2>
             <img
-              src="/css/img/oxbackground.jpeg"
+              src="/css/img/wordart.png"
               alt="Orthotics and Prosthetics"
+              width="450"
             />
 
             <div className="center-hdo">
