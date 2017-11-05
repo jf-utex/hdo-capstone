@@ -24,7 +24,7 @@ const Intro = () => {
         <br />
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <div>
-            <img src="/css/img/cairo-toe.jpg" alt="some text" width="170" />
+            <img src="/css/img/research.jpg" alt="some text" width="170" />
           </div>
         </div>
         <br />

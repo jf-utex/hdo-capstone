@@ -9,8 +9,15 @@ const Whatisonp = () => {
         <div className="panel-body">
           <div className="row">
             <div className="col-md-2">
-              <img src="/css/img/poliokafo.jpg" alt="some text" width="150" />
               <br />
+              <img src="/css/img/kafo.jpeg" alt="some text" width="150" />
+              <br />
+              <img src="/css/img/hand.jpeg" alt="some text" width="150" />
+
+              <br />
+              <img src="/css/img/spine.jpeg" alt="some text" width="150" />
+              <br />
+              <img src="/css/img/halo.jpeg" alt="some text" width="150" />
               <br />
             </div>
 
