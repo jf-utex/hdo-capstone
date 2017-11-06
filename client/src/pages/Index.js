@@ -32,7 +32,7 @@ const Index = () => {
             <br />
             <li>
               {' '}
-              A manager does the THING right while a Leader does the RIGHT
+              A manager does the THING right while a leader does the RIGHT
               thing.
             </li>
             <br />

@@ -6,24 +6,24 @@ const Why = () => {
     <div>
       <div className="panel panel-default">
         <div className="panel-body">
-          <h3>Why is culture important?</h3>
+          <h3>Leadership, Generation Mix and Culture</h3>
           <div className="row">
             <div className="col-md-6">
               <p>
-                As previously mentioned, an issue that faces the O&P profession
-                is that there is no current leadership training in our
-                curriculum or in practice. We, as a profession, are not looking
-                at our culture through a critical lens to isolate strengths and
-                weaknesses. Most of the literature to date reflects concern for
-                managing patient centered needs and concerns, patient compliance
-                and O&P technology. There is no peer reviewed research into
-                transformational leadership within O&P. This may be an
-                increasing concern as we compete for pay sources, attempt to
-                maintain a level of professionalism equal to that of other
-                allied health care groups and may be impacting our recruitment
-                and retention. I believe it is our responsibility to explore our
-                culture and behavior through a critical lens to better serve
-                ourselves and our public.
+                In order to be an effective leader, one must be able to motivate
+                the constituency. The leader must understand a person whether it
+                be the influences of their generational cohort, personal history
+                or previous experience at work. Having this information can help
+                foster connections As previously mentioned, an issue that faces
+                the O&P profession is that there is no current leadership
+                training in our curriculum or in practice. There is no peer
+                reviewed research into transformational leadership within O&P.
+                This may be an increasing concern as we compete for pay sources,
+                attempt to maintain a level of professionalism equal to that of
+                other allied health care groups and may be impacting our
+                recruitment and retention. I believe it is our responsibility to
+                explore our culture and behavior through a critical lens to
+                better serve ourselves and our public.
               </p>
               <br />
               <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -47,12 +47,12 @@ const Why = () => {
                 a question that could be answered with a look into our culture.
               </p>
               <p>
-                Now that we requiring a Master’s and PhD level of education to
+                Now that we require a Master’s or PhD level of education to
                 enter the field, it would seem our focus has shifted from
                 encouraging new practitioners to join the field, to maintaining
                 and educating those that are already established. With the O&P
                 workforce of just over 6,000 practitioners in 2017, we continue
-                to be a small division of medicine. Recruitment and retention
+                to be a small division of medicine. Recruiting and retention
                 should be a focus to sustain, even grow the field, as qualified
                 O&P practitioners will be needed to care for our aging
                 population.
@@ -63,18 +63,22 @@ const Why = () => {
                 traits or behaviors seem to be associated with each generation
                 in the workforce, and how they perceive effective leadership. We
                 have looked a little into that here, but there is more to be
-                done. By examining these expectations, we will be closer to
-                easing the transition as one group leaves and the other replaces
-                it as well as potentially identifying factors that may help with
-                recruitment and retention. The labor force is affected by a
-                number of people retiring each year with a direct impact on the
-                economy’s capacity to produce goods and services (Ahn & Ettner,
-                2017). We must be careful not to stereotype a particular
-                generation instead, we must consider that an individual
-                employee’s preferences may be related to maturity, life‐cycle
-                and career stage. This will help us to avoid developing
-                generationally specific management policies and practices
-                (Macky, Gardner, & Forsyth, 2008)
+                done as Generation Z ages fully into the workforce and
+                expectations that come with “stage of life” shift in other
+                generations. By keeping pace with our employees, we will be
+                closer to easing the transition as one group leaves and the
+                other replaces it as well as possibly identifying factors that
+                may help with recruiting and retention.{' '}
+              </p>
+              <p>
+                The labor force is affected by a number of people retiring each
+                year with a direct impact on the economy’s capacity to produce
+                goods and services (Ahn & Ettner, 2017). We must be careful not
+                to stereotype a particular generation instead, we must consider
+                that an individual employee’s preferences may be related to
+                maturity, life‐cycle and career stage. This will help us to
+                avoid developing generationally specific management policies and
+                practices (Macky, Gardner, & Forsyth, 2008)
               </p>
               <p>
                 Second, we must take a critical look at how we have been
@@ -101,11 +105,11 @@ const Why = () => {
                 circular communication as a next step toward engagement. There
                 is an understanding that peer to peer communication as well as
                 supervisor to subordinate communication should be circular - a
-                two way dialoge with follow up. acknowledgement of peer to peer
-                communication needs. Using tools such as the Maslach's Burnout
-                Inventory and the Multifactor Leadership Questionnaire may
-                provide insight to employee burnout and the leadership style
-                percieved to be most effective. (Zopiatis, Krambia-Kapardis, &
+                two-way dialogue with follow up and acknowledgement of peer to
+                peer communication needs. Using tools such as the Maslach's
+                Burnout Inventory and the Multifactor Leadership Questionnaire
+                may provide insight to employee burnout and the leadership style
+                perceived to be most effective. (Zopiatis, Krambia-Kapardis, &
                 Varnavas, 2012)
                 <li>
                   Comparatively, the field of nursing is looking at these issues

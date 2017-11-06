@@ -102,23 +102,6 @@ const Whatisonp = () => {
                   now understand the needs and motivations of O&P professionals
                   will change over time?{' '}
                 </h4>
-                We should understand the needs and motivations of O&P
-                professionals will change over time. We should understand that
-                communication differences are present within genders, what works
-                for a male may not work for a female. Each person regardless of
-                gender possesses their own strengths and individual weaknesses.
-                Now with a workforce of "Millennial" adults quickly out
-                numbering “Generation X", we may need to do business differently
-                due to a generation gap or perceived generational differences.
-                What if we maximized the strengths of our co-workers the same as
-                we maximize the muscle group that is not impacted by a disease
-                process? How will those strengths change over time as a
-                clinician becomes more seasoned in their practice? Just as we
-                encourage our patients to participate in physical therapy for
-                strengthening or avoidance of contracture shouldn’t we consider
-                the long-term goals of our practitioners and provide ”therapy”
-                in the form of leadership training or at the very least
-                mentoring?
               </p>
             </div>
           </div>

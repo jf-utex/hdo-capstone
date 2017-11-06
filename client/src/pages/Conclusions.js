@@ -51,18 +51,18 @@ const Conclusions = () => {
               may or may not recognize our expertise.
             </p>
             <p>
-              Organizations can be viewed as the coordination of individual
-              behaviors and decision-making processes. To think about how this
-              is possible, we first consider how individuals behave. Individuals
-              make conscious calculation and decisions that would lead to the
-              optimal outcome based on their preferences and experiences. These
-              preferences are impacted by the points above relating to
-              generational attitudes, specialization and education. Expanding
-              our knowledge about our own organizational behavior and
-              organizational culture will allow us to first understand how we
-              interact with one another but shed light on how these actions may
-              need to change for the future of O&P and the wellness of our
-              patients.
+              Organizations are the coordination of individual behaviors and
+              decision-making processes. To understand the impact of this on our
+              organizations, we need to consider how and why individuals behave
+              the way they do. Individuals make conscious decisions that lead to
+              what they think are the optimal outcomes based on their
+              preferences and experiences. These preferences are impacted by
+              generational attitudes, specialization, education and the
+              organizational expectations. Expanding our knowledge about our own
+              organizational behavior and organizational culture will allow us
+              to first understand how we interact with one another but shed
+              light on how these actions may need to change for the future of
+              O&P and the wellness of our patients.
             </p>
             <p>
               {' '}

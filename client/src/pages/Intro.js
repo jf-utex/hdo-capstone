@@ -17,7 +17,7 @@ const Intro = () => {
       </p>
       <br />
       <h3>
-        This shortcoming may extend from the cornerstone of our industry’s
+        This shortcoming may extend from a cornerstone of our industry’s
         education stated purpose of research.
       </h3>
       <div className="panel-nupoc">

@@ -17,6 +17,32 @@ const Allied = () => {
             however; the patient gender distribution is relatively evenly
             distributed. That said, why is the field so unbalanced?
           </p>
+
+          <p>
+            We should understand the needs and motivations of O&P professionals
+            will change over time and understand that communication differences
+            are present within genders as well as within different generations.
+            What works for a male may not work for a female. Each person
+            regardless of gender possesses their own strengths and individual
+            weaknesses. Now with a workforce of "Millennial" adults quickly out
+            numbering “Generation X", we may need to do business differently due
+            to a generation gap or perceived generational differences. What if
+            we maximized the strengths of our co-workers the same as we maximize
+            the muscle group that is not impacted by a disease process? How will
+            those strengths change over time as a clinician becomes more
+            seasoned in their practice? Just as we encourage our patients to
+            participate in physical therapy for strengthening or avoidance of
+            contracture shouldn’t we consider the long-term goals of our
+            practitioners and provide ”therapy” in the form of leadership
+            training or at the very least mentoring?
+          </p>
+          <p>
+            As of 2017, the O&P community is composed of approximately 6,000
+            professionals. Of those 6,000 practitioners, females make up just
+            27%. The male to female ratio has historically favored males
+            however; the patient gender distribution is relatively evenly
+            distributed. That said, why is the field so unbalanced?
+          </p>
           <br />
           <div style={{ display: 'flex', justifyContent: 'center' }}>
             <div>
@@ -43,23 +69,25 @@ const Allied = () => {
             I found that a literature search in Google Scholar returned
             thousands of results when searching “leadership in nursing or
             physical therapy” however, only 1-2 relevant articles pertaining
-            specifically to O&P. I found a lack of peer reviewed research on the
-            field of O&P relating to our organizational behavior, organizational
-            culture and a lack of guidelines pertaining to our peer
-            leadership/mentoring. I then turned to the nursing community and
-            found copious research on these subjects. As it is today, current
-            managerial leadership in Orthotics and Prosthetics is taught by “do
-            as I say and sometimes do what I do”. As I have learned, this method
-            of mentoring may not be appropriate for those newly entering the
-            field. I then began to wonder as I reflect on my personal experience
-            in the field, is this method of mentoring ever appropriate?
+            specifically, to O&P. I found a lack of peer reviewed research on
+            the field of O&P relating to our organizational behavior,
+            organizational culture and a lack of guidelines pertaining to our
+            peer leadership/mentoring. I then turned to the nursing community
+            and found copious research on these subjects. As it is today,
+            current managerial leadership in Orthotics and Prosthetics is taught
+            by “do as I say and sometimes do what I do”. As I have learned, this
+            method of mentoring may not be appropriate for those newly entering
+            the field. I then began to wonder as I reflect on my personal
+            experience in the field, is this method of mentoring ever
+            appropriate?
           </p>
           <p>
-            Zero articles pertaining to organizational culture or organizational
-            behavior O&P.... If we are to maintain professionalism and improve
-            our patient care practices, we are obligated to move outside the
-            NUPOC definition of "research" and expand our sights to include how
-            individuals in our organizations behave.
+            I was able to find one article (a thesis project) that pertains to
+            organizational culture or organizational behavior O&P.... If we are
+            to maintain professionalism and improve our patient care practices,
+            we are obligated to move outside the NUPOC definition of "research"
+            and expand our sights to include how individuals in our
+            organizations behave.
           </p>
           <br />
           <p>

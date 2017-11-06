@@ -89,6 +89,7 @@ const References = () => {
             Hospitality Research, 12(2), 101–121.
             https://doi.org/10.1177/1467358412466668
           </li>
+          <br />
           <h3>Indirect references</h3>
           <p>
             Highsmith, M. J. (2015). Is orthotics and prosthetics a profession?

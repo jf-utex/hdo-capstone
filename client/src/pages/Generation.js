@@ -10,6 +10,15 @@ const Generation = () => {
         <h3 className="panel">What can we learn from other generations?</h3>
         <div className="wrapper">
           <p>
+            Currently there are five generations in the workforce. This
+            represents the largest distribution of experience in history. I will
+            focus here on the Boomers, Gen X and Gen Y. These three groups make
+            up the largest part of the population. We shouldn’t forget that the
+            Traditionals have experience to teach us and Gen Z will bring their
+            own values to the workplace as they increase in numbers. Keep your
+            eye’s on them!
+          </p>
+          <p>
             One thing is clear, there are not always precise dates for
             determining the beginning and the end of a generational cohort.{' '}
           </p>
@@ -75,10 +84,8 @@ const Generation = () => {
             meaning and birth range in Japan. As our workplaces become more
             diverse we must be careful not to overgeneralize our expectations of
             our peers and their perspectives. This raises the point that we need
-            to understand why caucasians represent 82% of the O&P field while
-            the US Census reports caucasians at 67% of the general population.
-            Why isn't the O&P field a better representation of the general
-            population we serve?
+            to understand why Caucasians represent 82% of the O&P field while
+            the US Census reports Caucasians at 67% of the general population.
           </p>
           <br />
           <div style={{ display: 'flex', justifyContent: 'center' }}>
