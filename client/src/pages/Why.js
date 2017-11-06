@@ -28,7 +28,11 @@ const Why = () => {
               <br />
               <div style={{ display: 'flex', justifyContent: 'center' }}>
                 <div>
-                  <img src="/css/img/yoe.png" alt="some text" width="500" />
+                  <img
+                    src="/css/img/yoe.png"
+                    alt="Years of Expereince in O&P"
+                    width="500"
+                  />
                 </div>
               </div>
               <br />
@@ -43,10 +47,10 @@ const Why = () => {
                 a question that could be answered with a look into our culture.
               </p>
               <p>
-                As we move toward requiring a Master’s and PhD level of
-                education, it would seem our focus has shifted from encouraging
-                new practitioners to join the field, to maintaining and
-                educating those that are already established. With the O&P
+                Now that we requiring a Master’s and PhD level of education to
+                enter the field, it would seem our focus has shifted from
+                encouraging new practitioners to join the field, to maintaining
+                and educating those that are already established. With the O&P
                 workforce of just over 6,000 practitioners in 2017, we continue
                 to be a small division of medicine. Recruitment and retention
                 should be a focus to sustain, even grow the field, as qualified
