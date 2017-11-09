@@ -26,7 +26,7 @@ const Index = () => {
             <br />
             <li>
               {' '}
-              Management is about coping with complexity while Leadership is
+              MANAGEMENT is about coping with complexity while LEADERSHIP is
               about coping with change.
             </li>
             <br />
