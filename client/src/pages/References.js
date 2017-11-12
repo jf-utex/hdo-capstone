@@ -415,7 +415,7 @@ const References = () => {
         <div style={{ display: 'flex', justifyContent: 'left' }}>
           <div>
             <img
-              src="/css/img/mastersprograms.png"
+              src="/css/img/masters.png"
               alt="O&P Masters Programs-2017"
               width="500px"
             />
