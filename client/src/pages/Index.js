@@ -2,18 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Index = () => {
-  // const styles = {
-  // p: {
-  //   font-style: 'italic'
-  // }
-  // };
   return (
     <div className="panel-bodyindex">
       <div
         style={{
           display: 'flex',
           justifyContent: 'center',
-          fontStyle: 'bold',
           fontSize: 20
         }}
       >

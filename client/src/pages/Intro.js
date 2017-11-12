@@ -98,7 +98,7 @@ const Intro = () => {
             Generational Differences in Perspective
           </li>
           <li className="list-group-item">
-            • Employee Engagement/Employee Citizenship
+            Employee Engagement/Employee Citizenship
           </li>
           <li className="list-group-item">
             Appropriate Communication: between colleagues, leadership and

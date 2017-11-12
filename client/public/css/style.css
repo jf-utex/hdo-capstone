@@ -2,7 +2,6 @@ body {
   background-color: #222222;
   margin-left: 5%;
   margin-right: 5%;
-  font-family: 'Roboto', sans-serif;
 }
 a {
   font-size: 18px;
@@ -21,7 +20,7 @@ h4 {
 
 p {
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   /*font: 16px 'Montserrat thin', serif;*/
   color: lightgrey;
   text-align: left;
