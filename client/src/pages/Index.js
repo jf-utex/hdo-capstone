@@ -68,6 +68,16 @@ const Index = () => {
             principles from OB studies can be used to optimize productivity.”
           </p>
           <p>(Patel, 2015)</p>
+          <br />
+          <br />
+          <p>
+            “Superior efforts that employees make on behalf of their
+            organizations is organizational citizenship behavior. These
+            behaviors are not directly enforceable and they are representative
+            of the extra efforts that organizations need from their workforce in
+            order to be successful.”
+          </p>
+          <p>(Bolino & Turnley, 2003)</p>
         </p>
       </div>
       <div className="row" />

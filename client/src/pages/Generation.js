@@ -12,37 +12,38 @@ const Generation = () => {
           <p>
             Currently there are five generations in the workforce. This
             represents the largest distribution of experience in history. I will
-            focus here on the Boomers, Gen X and Gen Y. These three groups make
-            up the largest part of the population. We shouldn’t forget that the
-            Traditionals have experience to teach us and Gen Z will bring their
-            own values to the workplace as they increase in numbers. Keep your
-            eye’s on them!
+            focus here on the Boomers, Gen X and Gen Y. Though these three
+            groups make up the largest part of the working population, we
+            shouldn’t forget that the Traditional’s have experience to teach us
+            and Gen Z will bring their own values to the workplace as they
+            increase in numbers. Keep your eyes on them!
           </p>
           <p>
-            One thing is clear, there are not always precise dates for
-            determining the beginning and the end of a generational cohort.{' '}
+            One thing is clear, when studying generations, there are not always
+            precise dates for determining the beginning and the end of a
+            generational cohort. “A generation traditionally is interpreted as a
+            span of about 20 years, although shorter periods can produce vast
+            differences in culture. Away from work and in family situations,
+            people of different generations relate to each other according to
+            their roles as grandparents, parents, and children. Each role has
+            different behaviors and expectations.” (Weingarten, 2009)
           </p>
           <p>
-            “A generation traditionally is interpreted as a span of about 20
-            years, although shorter periods can produce vast differences in
-            culture. Away from work and in family situations, people of
-            different generations relate to each other according to their roles
-            as grandparents, parents, and children. Each role has different
-            behaviors and expectations.” (Weingarten,2009){' '}
+            There is literature that argues for a description of each generation
+            by an age range rather than a series of birth dates. Though this
+            method of description may better address the lifetime needs and
+            maturity of a cohort, that description may shift and cause confusion
+            when comparing data. (Robinson & Jackson, 2001)
           </p>
           <p>
-            There is literature that argues, a description of each generation by
-            an age range rather than a series of birth dates. Though this method
-            of description may better address the lifetime needs and maturity of
-            a cohort, that description may shift and cause confusion when
-            comparing data. (Robinson & Jackson, 2001) For the purpose of this
-            study, I will discuss cohorts as a date range, knowing full well
-            that as these generations mature and encounter new life events,
-            their attitudes will invariably shift. A cohort or a range of dates,
-            is a soft indicator of a person belonging to a specific age group or
-            generation. Dates chosen for these descriptors provide information
-            about historical events that impact those born around this same time
-            and raised around the same place.
+            For the purpose of this study, I will discuss cohorts as a date
+            range, knowing full well that as these generations mature and
+            encounter new life events, their attitudes will invariably shift. A
+            cohort or a range of dates, is a soft indicator of a person
+            belonging to a specific age group or generation. Dates chosen for
+            these descriptors provide information about historical events that
+            impact those born around this same time and raised around the same
+            place.
           </p>
           <br />
           <p>
@@ -83,47 +84,46 @@ const Generation = () => {
             “Baby Boomer” in the United States may have a completely different
             meaning and birth range in Japan. As our workplaces become more
             diverse we must be careful not to overgeneralize our expectations of
-            our peers and their perspectives. This raises the point that we need
-            to understand why Caucasians represent 82% of the O&P field while
-            the US Census reports Caucasians at 67% of the general population.
+            our peers and their perspectives.
           </p>
           <br />
           <div style={{ display: 'flex', justifyContent: 'center' }}>
             <div>
-              <img src="/css/img/uscensus.png" alt="some text" width="500" />
+              <img src="/css/img/uscensus.png" alt="some text" width="650" />
             </div>
           </div>
           <br />
           <p>
-            Though each generation claims common influence by the events they
-            experienced, there are certainly similarities that can and do cross
-            the generational timeline and can be capitalized upon to pull
-            workers together in the workplace. Though some feel it is important
+            This raises the point that we need to understand why Caucasians
+            represent 82% of the O&P field while the US Census reports
+            Caucasians at 67% of the general population.
+          </p>
+          <br />
+          <h3>
+            Why isn't the O&P field a better representation of the general
+            population we serve?
+          </h3>
+          <p>
+            Though each generation claim common influence through events they
+            experience, there are similarities that can and do cross the
+            generational timeline and can be capitalized upon to pull workers
+            together in the workplace. Though some feel it is important
             acknowledge our differences, I believe it is equally important to
             focus on our similarities. By changing our focus to the common
             things that are important for each generation, an organization can
-            better adopt procedures to be more inclusive and tap into
-            generational knowledge for the growth of the organization.
+            better adopt procedures to be more inclusive and tap into our
+            understanding of the generation for the growth of the organization.
           </p>
-          <br />
           <p>
             <h4>Baby Boomers</h4>
           </p>
           <p>
             Most sources agree that this generation was born in 1946 to 1964,
-            post WWII. Reasons for the high birth rate during this time,
-            according to History.com was “a desire for normalcy after 16 years
-            of depression and war, they suggest this spike in birth rate may
-            have been a part of a Cold War campaign to fight communism by
-            outnumbering communist. There was a claim that postponed marriage
-            and childbirth during the Great Depression and World War II had an
-            impact on this large post war baby boom.” This generation lived
-            through the Cold War and the Vietnam War. The significant milestones
-            seen during their formative years was the assassination of President
-            John F. Kennedy, Senator Robert F. Kennedy and Martin Luther King,
-            Jr., and the Civil Rights and Women’s Rights movements. Suburban
-            living, plentiful automobiles, and the development of television
-            were major influences on this generation. (Weingarten, R. M. 2009)
+            post WWII. This generation lived through the Cold War and the
+            Vietnam War. The significant milestones seen during their formative
+            years was the assassination of President John F. Kennedy, Senator
+            Robert F. Kennedy and Martin Luther King, Jr., and the Civil Rights
+            and Women’s Rights movements. (Weingarten, R. M. 2009)
           </p>
           <p>
             {' '}
@@ -166,20 +166,15 @@ const Generation = () => {
             These individuals were born 1965 to 1976 and are a relatively
             smaller demographic cohort sandwiched between the larger demographic
             cohorts of Baby Boomers and Generation Y. Gen X is sometimes
-            referred as the “latchkey generation” because of the reduced adult
-            supervision in their childhood years compared to previous
-            generations. This generation saw an increasing number of two income
-            households. This generation is composed of individuals who know job
-            stability is not guaranteed and are fiercely independent. They were
-            witness to the introduction of the home computer and the internet,
-            the impeachment of President Richard M. Nixon, the fall of the
-            Berlin Wall and the break up of the Soviet Union. MTV was introduced
-            and HIV/AIDS emerged as a pandemic. (Weingarten, R. M. 2009) To
-            some, these adults are characterized as cynical, disaffected
-            skeptics and radically individualistic. For this generation, respect
-            must be earned by demonstration of expertise and a supportive
-            attitude. “Generation X individuals seem to value greater autonomy
-            and freedom with regard to how they work.
+            referred as the “latchkey generation” and saw an increasing number
+            of two income households. This generation is composed of individuals
+            who know job stability is not guaranteed and are fiercely
+            independent. They were witness to the introduction of the home
+            computer and the internet. These adults are characterized as
+            cynical, disaffected skeptics and radically individualistic. For
+            this generation, respect must be earned by demonstration of
+            expertise and a supportive attitude. “Generation X individuals seem
+            to value greater autonomy and freedom with regard to how they work.
           </p>
           <p>
             Gen Xers, however, show a tendency to prefer safer paths of action
@@ -187,14 +182,14 @@ const Generation = () => {
             implementation of technology, Gen Xers are technologically adept and
             tend to use technology to personalize and humanize everything.
             (Reisenwitz & Iyer, 2009) They have a high preference for web
-            applications and e-mail-based communication. (Mhatre, K. H., &
-            Conger, J. A. 2011) From everything we know about them, X’s are
+            applications and e-mail-based communication. (Mhatre, K. H.,
+            &Conger, J. A. 2011) From everything we know about them, X’s are
             savvy, skeptical and self-reliant; they’re not into preening or
             pampering, and they just might not give much of a hoot what others
             think of them or if others think of them at all.” (Pew Research)
             Generation X-ers show a greater need for power than their younger
             cohort who tend to have a higher need for affiliation and
-            achievement.{' '}
+            achievement.
           </p>
           <div
             style={{
@@ -225,44 +220,42 @@ const Generation = () => {
             <h4>Generation Y</h4>
           </p>
           <p>
-            {' '}
             This group is commonly referred to as "Millennials" and were born
             during the 1980’s to early 1990’s. Some authorities state that
-            Generation Y workers were born as early as 1978 (Martin & Tulgan,
-            2001), whereas others have established a birth year for this
+            Generation Y workers were born as early as 1978 (Martin &
+            Tulgan,2001), whereas others have established a birth year for this
             generation as late as 1982. (Howe and Strauss, 2000) Interestingly,
             both of these sources define the end date for Generation Y as 2000.
             Other sources, such as The Center for Generational Kinetics, have
             rational for classifying the dates for Gen Y as 1977 to 1995. They
-            note, "This birth range is slightly different from some other
-            sources that believe the ending cutoff for Millennials is 2000. We
-            strongly believe that the 2000 birth year is incorrect. The reason:
-            the most important, generation-defining moment for Millennials
-            (particularly in the U.S.), was September 11, 2001. It’s extremely
-            difficult, if not impossible, to be born between 1996 and 2000 and
-            have a strong, emotional connection to 9/11. Your brain is simply
-            too young to put the event in a cultural, geographic, or other
-            context. From our research-based vantage point, if you were born in
-            the U.S. and 9/11 has always been history to you—something you
-            literally cannot remember—then you are not a Millennial but a member
-            of Generation Z."
+            note, "…birth range is slightly different from some other sources
+            that believe the ending cutoff for Millennials is 2000. We strongly
+            believe that the 2000 birth year is incorrect. The reason: the most
+            important, generation-defining moment for Millennials (particularly
+            in the U.S.), was September 11, 2001. It’s extremely difficult, if
+            not impossible, to be born between 1996 and 2000 and have a strong,
+            emotional connection to 9/11. Your brain is simply too young to put
+            the event in a cultural, geographic, or other context. From our
+            research-based vantage point, if you were born in the U.S. and 9/11
+            has always been history to you—something you literally cannot
+            remember—then you are not a Millennial but a member of Generation
+            Z." (“The Center for Generational Kinetics”, 2017)
           </p>
 
           <p>
             Generation Y has grown up in a world where massive amounts of
             information and entertainment is readily available as cell phones,
-            internet and video games are in every household. Terrorism is a
-            reality and obesity is epidemic. They value a work-personal life
-            balance and they are willing to leave one job for another if it is
-            beneficial for them. This generation is the hardest to recruit and
-            retain (Weingarten, 2009) . This generation has less loyalty to an
-            organization than previous generations and they show a higher
+            internet and video games are in every household. They value a
+            work-personal life balance and they are willing to leave one job for
+            another if it is beneficial for them. This generation is the hardest
+            to recruit and retain (Weingarten, 2009) and has less loyalty to an
+            organization than previous generations. They show a higher
             independence than their parents. They feel they must switch
             positions if needed in order to fulfill their aspirations for career
-            growth. They have a strong desire to achieve work-life balance and a
-            need for altruistic activities. They prefer to work for an employer
-            that garners their respect and will foster learning. These are
-            important points to keep in mind as we recruit and try to retain
+            growth. With a strong desire to achieve work-life balance they feel
+            a need for altruistic activities. They prefer to work for an
+            employer that garners their respect and will foster learning. These
+            are important points to keep in mind as we recruit and try to retain
             these talented individuals. Communication on their terms is
             important and will likely require a shift in how we have always done
             things.

@@ -86,21 +86,22 @@ const Whatisonp = () => {
               <p>
                 After Jacqueline Perry, there is now a recognition that patients
                 change and as a consequence, so do their needs. The
-                International Standards Organization formalized an approach to
-                use terminology that describes the clinical objectives of an
-                orthosis/prosthesis and the functional requirements of a device
-                needed to fulfill those objectives. This was a pivotal change in
-                how we think about orthopedic bracing and limb replacement. By
-                understanding that our patent needs change or can be different
-                from patient to patient instead of giving a “one size fits all”
-                prescription, we allow ourselves to be better clinicians.
+                International Standards Organization (ISO) formalized an
+                approach to use terminology that describes the clinical
+                objectives of an orthosis/prosthesis and the functional
+                requirements of a device needed to fulfill those objectives.
+                This was a pivotal change in how we think about orthopedic
+                bracing and limb replacement. By understanding that our patent
+                needs change or can be different from patient to patient instead
+                of giving a “one size fits all” prescription, we allow ourselves
+                to be better clinicians.
               </p>
               <p>
                 <h4>
                   If we can see our way clear to understand that multiple
                   patients with the same diagnosis have different needs, can we
                   now understand the needs and motivations of O&P professionals
-                  will change over time?{' '}
+                  will change over time?
                 </h4>
               </p>
             </div>

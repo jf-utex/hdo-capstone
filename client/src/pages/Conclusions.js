@@ -11,9 +11,6 @@ const Conclusions = () => {
         {/* <p className="panel-text"> */}
         <div className="row">
           <div className="col-md-6">
-            {/* Conclusions discussing the need for increased attention to
-          organizational culture withing the field of Orthotics and Prosthetics */}
-            {/* </p> */}
             <p>
               Misconceptions exist about every generation. Veterans are viewed
               as old-fashioned and out of touch. Baby Boomers are stereotyped as
@@ -24,13 +21,12 @@ const Conclusions = () => {
               conflict arises. (Weingarten, 2009).
             </p>
             <p>
-              {' '}
               It is the challenge and responsibility of future leaders to
               understand the motivations of their workers and help sooth
               conflict when generational values are at odds and causing distress
               in the work environment. By understanding these motivations, they
               can work to bring generations together thereby reducing the
-              "Generation Gap" that can tear teams apart. Leaders must keep in
+              “Generation Gap" that can tear teams apart. Leaders must keep in
               mind, these are guidelines for general behaviors and attitudes and
               are not defining features of an individual. Understanding the
               reasoning behind generational differences may help leaders address
@@ -59,42 +55,43 @@ const Conclusions = () => {
               preferences and experiences. These preferences are impacted by
               generational attitudes, specialization, education and the
               organizational expectations. Expanding our knowledge about our own
-              organizational behavior and organizational culture will allow us
-              to first understand how we interact with one another but shed
-              light on how these actions may need to change for the future of
-              O&P and the wellness of our patients.
-            </p>
-            <p>
-              {' '}
-              Mentoring those new to clinical practice is vital because they may
-              not have the experiences necessary to have complete knowledge in
-              how to handle situations. We do this with our Residency Programs.
-              It stands to reason we should do the same with our Leadership.
-            </p>
-            <p>
-              When an individual starts a new job, often supervisors will place
-              strong restrictions on the new clinicians decisions and actions
-              until they are certain the outcomes coincide with the
-              organizational expectations. This can be suffocating to a seasoned
-              clinician as well as a new clinician that “thinks they know the
-              outcomes to their actions”. It is imperative that the
-              communication be circular and supportive while providing feedback
-              in a timely manner.
-            </p>
-            <p>
-              It is good for a supervisor to keep in mind that no one person has
-              all the answers. We like to think we know how we make decisions
-              but more often what we do is rationalization based on our
-              available information. We all have cognitive limitations and
-              limited time available to make a decision.
+              organizational behavior and culture will allow us to first
+              understand how we interact with one another but shed light on how
+              these actions may need to change for the future of O&P and the
+              wellness of our patients.
             </p>
           </div>
           <div className="col-md-6">
             <p>
-              <h2>
+              <p>
+                Mentoring those new to clinical practice is vital because they
+                may not have the experiences necessary to have complete
+                knowledge in how to handle situations. We do this with our
+                Residency Programs. It stands to reason we should do the same
+                with our leadership.
+              </p>
+              <p>
+                When an individual starts a new job, often supervisors will
+                place strong restrictions on the new clinicians’ decisions and
+                actions until they are certain the outcomes coincide with the
+                organizational expectations. This can be suffocating to a
+                seasoned clinician as well as a new clinician that “thinks they
+                know the outcomes to their actions”. It is imperative that the
+                communication be circular and supportive while providing
+                feedback in a timely manner.
+              </p>
+              <p>
+                It is good for a supervisor to keep in mind that no one person
+                has all the answers. We like to think we know how we make
+                decisions but more often what we do is rationalization based on
+                our available information. We all have cognitive limitations and
+                limited time available to make a decision.
+              </p>
+              <br />
+              <h3>
                 Research Needs in O&P include examination of Culture in
                 Leadership
-              </h2>
+              </h3>
             </p>
             <ul>
               <li>
