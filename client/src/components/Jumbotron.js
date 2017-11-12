@@ -17,7 +17,7 @@ class JumboComponent extends React.Component {
             />
 
             <div className="center-hdo">
-              <div class="card-panel">
+              <div className="card-panel">
                 <a href={'https://hdo.utexas.edu'}>
                   An HDO Capstone Project: A Master's Degree Project for HDO-UT
                 </a>

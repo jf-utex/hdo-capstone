@@ -26,19 +26,37 @@ class Comments extends Component {
   };
   postComments = () => {};
   render = () => (
-    <div>
-      <div className="panel-body">
+    <div className="panel panel-default">
+      <div
+        className="panel-body"
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          flexDirection: 'column'
+        }}
+      >
         Please share your thoughts about anything you have read here. From
         generational differences in the workplace to your feelings about your
         own workplace. It is anonymous if you don't sign your post.
         <hr />
-        <input
+        <textarea
           onChange={this.onInput}
           name="comment"
-          type="text"
           value={this.state.commentInput}
+          style={{
+            flex: 5,
+            width: '50%'
+          }}
         />
-        <input onClick={this.onSubmit} type="submit" value="Submit Comment" />
+        <input
+          onClick={this.onSubmit}
+          type="submit"
+          value="Submit Comment"
+          style={{
+            flex: 1
+          }}
+        />
         <div className="panel panel-default">
           <hr />
           <h4 className="panel">Thank you for all the input to date:</h4>

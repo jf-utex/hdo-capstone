@@ -148,7 +148,7 @@ const Generation = () => {
               color: 'mediumaquamarine'
             }}
           >
-            <p1>
+            <p>
               Tips for Leadership: This generation needs promises to be kept.
               They provide personal expertise that cannot be learned from a
               book. They can be counted on for their optimism, team orientation,
@@ -156,12 +156,10 @@ const Generation = () => {
               value simplicity, being in control. They are risk takers and
               aggressive in their pursuits. (Mcintosh-Elkins, Mcritchie, &
               Scoones,2007)
-            </p1>
+            </p>
           </div>
           <br />
-          <p>
-            <h4>Generation X</h4>
-          </p>
+          <h4>Generation X</h4>
           <p>
             These individuals were born 1965 to 1976 and are a relatively
             smaller demographic cohort sandwiched between the larger demographic
@@ -200,7 +198,7 @@ const Generation = () => {
               color: 'mediumaquamarine'
             }}
           >
-            <p1>
+            <p>
               Tips for Leadership: Working with individuals associated with the
               Generation X cohort, it may be helpful for leaders to recognize
               these individuals can be skeptical, independent, and informal.
@@ -213,7 +211,7 @@ const Generation = () => {
               composed of individuals that are self-reliant and
               entrepreneurial.” (Mcintosh Elkins, J., Mcritchie, K., & Scoones,
               M. 2007)
-            </p1>
+            </p>
           </div>
           <br />
           <p>
@@ -269,7 +267,7 @@ const Generation = () => {
               color: 'mediumaquamarine'
             }}
           >
-            <p1>
+            <p>
               Tips for Leadership: We must remember not to stereotype any
               Generation, instead to assess the individual at face value.
               Generation Y individuals seem to be self-confident and like
@@ -287,7 +285,7 @@ const Generation = () => {
               cell phones, laptops, multimedia, instant messaging and may need
               businesses to acknowledge that in the work place as well as in
               communication with their patients.
-            </p1>
+            </p>
           </div>
         </div>
         <div className="row" />
