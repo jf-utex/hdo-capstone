@@ -9,12 +9,21 @@ const References = () => {
         <h3 className="panel">References/Bibliography</h3>
         <ul>
           <h3>References directly used for this site</h3>
+
           <li>
-            Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
-            Development Are leadership values different across generations?: A
-            comparative leadership analysis of CEOs v. MBAs. Journal of
-            Management Development Organization Development Journal, 33(2),
-            977–990. Retrieved from http://dx.doi.org/10.1108/JMD-10-2012-0131
+            Ahn, M.J, & W. Ettner, L. (2014). Are leadership values different
+            across generations? Journal of Management Development, 33(10),
+            977–990. https://doi.org/10.1108/JMD-10-2012-0131
+          </li>
+          <li>
+            Bolino, M. C., & Turnley, W. H. (2003). Going the extra mile:
+            Cultivating and managing employee citizenship behavior. Academy of
+            Management Executive, 17(3), 60–71.
+            https://doi.org/10.5465/AME.2003.10954754
+          </li>
+          <li>
+            Chatman, J. ., & Eunyoung Cha, S. (2003). Leading by leveraging
+            culture. Claifornia Management Review, 45, 19–34.
           </li>
           <li>
             Condie, D. N. (2008). The modern era of orthotics. Prosthetics and
@@ -25,6 +34,7 @@ const References = () => {
             Howe, N., & Strauss, W. (2000). Millennials Rising: The Next Great
             Generation (3rd ed.). Vintage.
           </li>
+
           <li>
             Macky, K., Gardner, D., & Forsyth, S. (2008). Generational
             Differences at work: introduction and overview. Journal of
@@ -37,34 +47,48 @@ const References = () => {
             1 edition (January 2001).
           </li>
           <li>
-            Mcintosh-Elkins, J., Mcintosh, J., Mcritchie, K., & Scoones, M.
+            Mcintosh-Elkins, J., Mcintosh-, J., Mcritchie, K., & Scoones, M.
             (n.d.). From the Silent Generation to Generation X, Y and Z:
             Strategies for Managing the Generation Mix. Retrieved from
             http://delivery.acm.org/10.1145/1300000/1294104/p240-mcintosh-elkins.pdf?ip=128.62.61.196&id=1294104&acc=ACTIVE
             SERVICE&key=603D2E7028CD4EF5.4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35&CFID=943405368&CFTOKEN=82361897&__acm__=1496346149_ee65474becca214b183b90ad3891323e
           </li>
           <li>
+            Mhatre, K. H., & Conger, J. A. (2011). Bridging the gap between Gen
+            X and Gen Y. Journal of Leadership Studies, 5(3), 72–76.
+            https://doi.org/10.1002/jls.20235
+          </li>
+          <li>
             Northwestern University Prosthetics-Orthotics Center. (n.d.).
             Retrieved from http://www.nupoc.northwestern.edu/
+          </li>
+          <li>
+            Patel, B. N. (2015). Organizational Behavior: A Primer. Journal of
+            the American College of Radiology, 12(8), 805–807.
+            https://doi.org/10.1016/j.jacr.2015.03.009
+          </li>
+          <li>
+            Reisenwitz, T. H., & Iyer, R. (2009). Differences in Generation X
+            and Generation Y: Implications for the organization and marketers.
+            Marketing Management Journal, 19(2), 91–103.
           </li>
           <li>
             Robinson, R. V., & Jackson, E. F. (2001). Is Trust in Others
             Declining in America? An Age–Period–Cohort Analysis. Social Science
             Research, 30(1), 117–145. https://doi.org/10.1006/ssre.2000.0692
           </li>
-          <li>United State Census Bureau. (n.d.).</li>
-          <li>
-            Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare
-            for the future : Writing a literature review Reproduced with
-            permission of the copyright owner . Further reproduction prohibited
-            without permission . MIS Quarterly, 26(2), xiii–xxiii.
-            https://doi.org/10.2307/4132319
-          </li>
           <li>
             Weingarten, R. M. (2009). Four Generations, One Workplace: A Gen X-Y
             Staff Nurse’s View of Team Building in the Emergency Department.
             Journal of Emergency Nursing, 35(1), 27–30.
             https://doi.org/10.1016/j.jen.2008.02.017
+          </li>
+          <li>
+            Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W. D.,
+            Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000). Practice
+            Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN ORTHOTICS
+            AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE. Retrieved
+            from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
           </li>
           <li>
             Whiteside, Steven , Allen, Michael Jennifer A. Bick, Keven P. Dunn,
@@ -76,19 +100,13 @@ const References = () => {
             Practice Analysis of the Discipline of Orthotics and Prosthetics.pdf
           </li>
           <li>
-            Whiteside, S. R., Alaimo, J., Barringer, W. J., Beiswenger, W. D.,
-            Bulgarelli, T., Hentges, C. J., … Sawtell, B. A. (2000). Practice
-            Analysis Task Force AMERICAN BOARD FOR CERTIFICATION IN ORTHOTICS
-            AND PROSTHETICS, INC. PROFESSIONAL EXAMINATION SERVICE. Retrieved
-            from http://www.ncope.org/summit/pdf/PracticeAnalysis.pdf
-          </li>
-          <li>
             Zopiatis, A., Krambia-Kapardis, M., & Varnavas, A. (2012). Y-ers,
             X-ers and Boomers: Investigating the multigenerational
             (mis)perceptions in the hospitality workplace. Tourism and
             Hospitality Research, 12(2), 101–121.
             https://doi.org/10.1177/1467358412466668
           </li>
+
           <br />
           <h3>Indirect references</h3>
           <p>
@@ -150,19 +168,7 @@ const References = () => {
             Retrieved from
             http://www.jstor.org/stable/pdf/2787014.pdf?refreqid=excelsior%3A981e7df190f9750230d1d310051c5429
           </p>
-          <p>
-            ** Ahn, M. J., & Ettner, L. W. (2017). Journal of Management
-            Development Are leadership values different across generations?: A
-            comparative leadership analysis of CEOs v. MBAs. Journal of
-            Management Development Organization Development Journal, 33(2),
-            977–990. Retrieved from http://dx.doi.org/10.1108/JMD-10-2012-0131
-          </p>
 
-          <p>
-            Robinson, R. V., & Jackson, E. F. (2001). Is Trust in Others
-            Declining in America? An Age–Period–Cohort Analysis. Social Science
-            Research, 30(1), 117–145. https://doi.org/10.1006/ssre.2000.0692
-          </p>
           <p>
             Clark, A. K., & Eisenstein, M. A. (2013). Interpersonal trust: An
             age–period–cohort analysis revisited. Social Science Research,
@@ -279,25 +285,21 @@ const References = () => {
             and Professional Workers. Current Psychology, 34(2), 346–362.
             https://doi.org/10.1007/s12144-014-9261-2
           </p>
+
           <p>
-            Mhatre, K. H., & Conger, J. A. (2011). Bridging the gap between Gen
-            X and Gen Y. Journal of Leadership Studies, 5(3), 72–76.
-            https://doi.org/10.1002/jls.20235
-          </p>
-          <p>
-            ** Lyons, S., & Kuron, L. (2014). Generational differences in the
+            Lyons, S., & Kuron, L. (2014). Generational differences in the
             workplace: A review of the evidence and directions for future
             research. Journal of Organizational Behavior, 35(S1), S139–S157.
             https://doi.org/10.1002/job.1913
           </p>
           <p>
-            ** Kuron, L. K. J., Lyons, S. T., Schweitzer, L., & Ng, E. S. W.
+            Kuron, L. K. J., Lyons, S. T., Schweitzer, L., & Ng, E. S. W.
             (2015). Millennials’ work values: differences across the school to
             work transition. Personnel Review, 44(6), 991–1009.
             https://doi.org/10.1108/PR-01-2014-0024
           </p>
           <p>
-            ** Joshi, A., Dencker, J. C., Franz, G., & Martocchio, J. J. (2010).
+            Joshi, A., Dencker, J. C., Franz, G., & Martocchio, J. J. (2010).
             Unpacking generational identity in organizations. Academy of
             Management Review, 35(3), 392–414.
             https://doi.org/10.5465/AMR.2010.51141800
@@ -350,16 +352,8 @@ const References = () => {
           </p>
 
           <p>
-            Zopiatis, A., Krambia-Kapardis, M., & Varnavas, A. (2012). Y-ers,
-            X-ers and Boomers: Investigating the multigenerational
-            (mis)perceptions in the hospitality workplace. Tourism and
-            Hospitality Research, 12(2), 101–121.
-            https://doi.org/10.1177/1467358412466668
-          </p>
-
-          <p>
-            ** Cennamo, L., & Gardner, D. (2011). Generational differences in
-            work values, outcomes and person-organisation values fit. IEEE
+            Cennamo, L., & Gardner, D. (2011). Generational differences in work
+            values, outcomes and person-organisation values fit. IEEE
             Engineering Management Review, 39(2), 24–36.
           </p>
           <p>
