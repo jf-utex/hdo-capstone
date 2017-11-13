@@ -108,7 +108,7 @@ const References = () => {
           </li>
 
           <br />
-          <h3>Indirect references</h3>
+          <h3>Indirect References</h3>
           <p>
             Highsmith, M. J. (2015). Is orthotics and prosthetics a profession?
             Journal of Prosthetics and Orthotics, 27(4), 115–117.
