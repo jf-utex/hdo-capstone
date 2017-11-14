@@ -6,6 +6,8 @@ function Footer(/*props*/) {
   return (
     <footer>
       <div className="row">
+        <br />
+        <br />
         <Grid>
           <Nav justified>
             <NavItem eventKey={1} href="https://github.com/jf-utex" />
