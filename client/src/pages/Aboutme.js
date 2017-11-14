@@ -2,17 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Aboutme = () => {
-  // const styles = {
-  //   p: {
-  //     fontSize: '40px'
-  //   }
-  // };
   return (
-    <div>
-      <navbar />
-      <jumbotron />
-      <div className="panel-body">
-        <div className="panel-1">
+    <div id="container">
+      <div className="panel panel-default">
+        <div className="panel-body">
           <h3>About Me</h3>
           {/* <p style={styles.p} /> */}
           <p>
