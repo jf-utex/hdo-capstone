@@ -2,11 +2,6 @@ import React from 'react';
 import { Grid, Nav, NavItem } from 'react-bootstrap';
 import ReactDOM from 'react-dom';
 
-// ReactDOM.render(
-//   <SocialIcon url="http://twitter.com/jaketrent" />,
-//   document.body
-// );
-
 function Footer(/*props*/) {
   return (
     <footer>
