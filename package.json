@@ -11,13 +11,15 @@
     "mongoose": "^4.12.3",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0",
-    "react-linkify": "^0.2.1"
+    "react-linkify": "^0.2.1",
+    "react-mailto": "^0.4.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "react-social-icons": "^2.7.0"
+  },
   "scripts": {
     "start": "node index.js",
-    "heroku-postbuild":
-      "cd client && npm install --only=dev && npm install && npm run build",
+    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build",
     "test": "node index.js",
     "server": "nodemon index.js",
     "client": "npm run start --prefix client",
