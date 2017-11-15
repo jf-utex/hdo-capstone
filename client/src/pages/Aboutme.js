@@ -48,8 +48,7 @@ const Aboutme = () => {
             The Cleveland Clinic and provided stern direction and encouragement.
             He led by example and walked the walk with his team. Everyone on the
             team was trained in fabrication as well as spinal. I have had some
-            excellent mentors in my career ** HDO, Internship, Residency, jobs
-            throughout career, coding and career shift.
+            excellent mentors in my career.
           </p>
           <p>
             It took a lot of soul searching until I happened on to the Human
@@ -59,6 +58,19 @@ const Aboutme = () => {
             was the best day when I was accepted to HDO. Little did I know how
             completely right my feelings were but also how disenchanted I had
             become with Orthotics. Life as I knew it was ruined!
+          </p>
+          <p>
+            It was through my work in earning my MA-HDO that I re-discovered my
+            connection to technology and gained the confidence to move out of
+            Orthotics and into Full Stack Web Development. The technology scene
+            is much different now than when I was first introduced in college.
+            Today it is agile, flexible, collaborative and quite
+            honestly...exciting. The communication is more circular with a
+            healthy respect for opinion and creativity. I thought I would be
+            experiencing these things when I entered Orthotics. Sadly, I did
+            not. My hope is that the future leaders of O&P will see clear to
+            change the status quo and take greater stock in the human capital
+            available to them.
           </p>
           <p>
             I want to extend a big thanks to the University of Texas Human

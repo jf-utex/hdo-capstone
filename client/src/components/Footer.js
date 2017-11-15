@@ -18,7 +18,7 @@ function Footer(/*props*/) {
 
             <NavItem eventKey={3} href="https://jf-utex.github.io">
               Visit Me Here!
-              <img src="/css/img/bearlogo.png" alt="" width="50" />
+              <img src="/css/img/bearlogo1.png" alt="" width="50" />
             </NavItem>
           </Nav>
         </Grid>

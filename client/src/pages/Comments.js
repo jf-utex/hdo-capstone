@@ -66,6 +66,7 @@ class Comments extends Component {
           ))}
         </div>
       </div>
+      <div />
     </div>
   );
 }
