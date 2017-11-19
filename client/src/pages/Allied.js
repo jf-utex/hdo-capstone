@@ -232,14 +232,18 @@ const Allied = () => {
             </div>
 
             <div className="card">
-              <ul className="list-group list-group-flush">
-                <li className="list-group-item">
+              <div className="row">
+                <div className="col-md-4">
+                  <Link to={'/whatisonp'}>Back</Link>
+                </div>
+                <div className="col-md-4">
                   <Link to={'/generation'}>Next</Link>
-                </li>
-                <li className="list-group-item">
+                </div>
+
+                <div className="col-md-4">
                   <Link to={'/comments'}>Tell me what YOU think!</Link>
-                </li>
-              </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>

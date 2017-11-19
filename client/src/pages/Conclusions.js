@@ -109,14 +109,18 @@ const Conclusions = () => {
             </div>
           </div>
           <div className="card">
-            <ul className="list-group list-group-flush">
-              <li className="list-group-item">
-                <Link to={'/references'}>Next</Link>
-              </li>
-              <li className="list-group-item">
+            <div className="row">
+              <div className="col-md-4">
+                <Link to={'/generation'}>Back</Link>
+              </div>
+              <div className="col-md-4">
+                <Link to={'/aboutme'}>Next</Link>
+              </div>
+
+              <div className="col-md-4">
                 <Link to={'/comments'}>Tell me what YOU think!</Link>
-              </li>
-            </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -1,6 +1,8 @@
 import ReactDOM from 'react-dom';
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { Button } from 'reactstrap';
+
+// import logo from './logo.svg';
 
 import Index from './pages/Index.js';
 import Conclusions from './pages/Conclusions.js';

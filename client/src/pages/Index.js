@@ -74,9 +74,19 @@ const Index = () => {
           <p>(Bolino & Turnley, 2003)</p>
         </p>
       </div>
-      <div className="row" />
-      <div>
-        <Link to={'/intro'}>Next</Link>
+      <div className="card">
+        <div className="row">
+          {/* <div className="col-md-3">
+            <Link to={'/conclusions'}>Back</Link>
+          </div> */}
+          <div className="col-md-4">
+            <Link to={'/intro'}>Next</Link>
+          </div>
+
+          <div className="col-md-4">
+            {/* <Link to={'/comments'}>Tell me what YOU think!</Link> */}
+          </div>
+        </div>
       </div>
     </div>
   );

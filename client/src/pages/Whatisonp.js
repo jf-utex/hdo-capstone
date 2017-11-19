@@ -55,7 +55,7 @@ const Whatisonp = () => {
                   American Board for Certification in Orthotics, Prosthetics and
                   Pedorthics
                 </a>{' '}
-                , or {' '}
+                , or{' '}
                 <a href={'https://www.bocusa.org/boc-expands'}>
                   {' '}
                   the Board of Certification/Accreditation, International
@@ -106,16 +106,20 @@ const Whatisonp = () => {
               </p>
             </div>
           </div>
-
+          <br />
           <div className="card">
-            <ul className="list-group list-group-flush">
-              <li className="list-group-item">
+            <div className="row">
+              <div className="col-md-4">
+                <Link to={'/intro'}>Back</Link>
+              </div>
+              <div className="col-md-4">
                 <Link to={'/allied'}>Next</Link>
-              </li>
-              <li className="list-group-item">
+              </div>
+
+              <div className="col-md-4">
                 <Link to={'/comments'}>Tell me what YOU think!</Link>
-              </li>
-            </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

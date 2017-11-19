@@ -49,6 +49,7 @@ class Comments extends Component {
             width: '50%'
           }}
         />
+        <br />
         <input
           onClick={this.onSubmit}
           type="submit"
@@ -66,7 +67,13 @@ class Comments extends Component {
           ))}
         </div>
       </div>
-      <div />
+      <div className="card">
+        <div className="row">
+          <div className="col-md-12">
+            <Link to={'/'}>Back to Home</Link>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
