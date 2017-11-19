@@ -8,17 +8,24 @@ const Intro = () => {
         <div className="panel-bodyintro">
           <h3>Orthotic Leadership Today</h3>
           <p>
-            In my personal experience, the O&P profession has not offered
-            training in leadership through our education platform to our
-            professionals. I have found that we do not discuss organizational
-            culture or organizational behavior in peer-reviewed literature. In
-            short, we are not adding to an important conversation that is
-            ongoing in other professions like sales, insurance, machinery,
-            restaurant and hospitality or even other health care organizations.
-            We are missing an opportunity to add to the body of knowledge
-            regarding how we treat one another and how we can improve our
-            interpersonal relationships in the clinic. We are missing the
-            opportunity to garner a higher engagement from our employees.
+            Leadership is crucial in any organization. Perhaps this is even more
+            the case in a health care field like Orthotics and Prosthetics that
+            specifically provides a service requiring full attention to detail
+            and creativity in the solutions we provide. It is important for the
+            emotional wellbeing of patients, families and professionals alike.
+            Anyone searching for resources in O&P leadership, will generally
+            find them difficult to locate. In my direct experience, the O&P
+            profession has not offered training in leadership through our
+            education platform to our professionals. I have found that we do not
+            discuss organizational culture or organizational behavior in
+            peer-reviewed literature. In short, we are not adding to an
+            important conversation that is ongoing in other professions like
+            sales, insurance, machinery, restaurant and hospitality or even
+            other health care organizations. We are missing an opportunity to
+            add to the body of knowledge regarding how we treat one another and
+            how we can improve our interpersonal relationships in the clinic. We
+            are missing the opportunity to garner a higher engagement from our
+            employees.
           </p>
           <br />
           <h3>
