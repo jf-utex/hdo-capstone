@@ -8,7 +8,7 @@ class JumboComponent extends React.Component {
         <div className="jumbotron jumbotron-fluid">
           <div className="container">
             <h2 className="display-3 text-uppercase">
-              Culture in Orthotics and Prosthetics
+              Organizational Research in Orthotics and Prosthetics
             </h2>
             <img
               src="/css/img/wordart.png"
