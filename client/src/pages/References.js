@@ -402,33 +402,7 @@ const References = () => {
               </li>
             </ul>
           </div>
-          <div>
-            <h3>Index</h3>
-            <div>
-              <div style={{ display: 'flex', justifyContent: 'left' }}>
-                <a href="https://www.pewresearch.org/fact-tank/2015/05/11/millennials-surpass-gen-xers-as-the-largest-generation-in-u-s-labor-force/ft_15-05-04_genlaborforcecomposition-2/">
-                  <img
-                    width="500"
-                    src="https://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1.png"
-                    class="attachment-large size-large"
-                    alt="U.S. Labor Force by Generation, 1995-2015"
-                    srcset="https://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1.png 640w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-300x201.png 300w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-200x133.png 200w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-260x174.png 260w, https://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-50x34.png 50w, http://assets.pewresearch.org/wp-content/uploads/sites/12/2015/05/FT_15.05.04_genLaborForceComposition1-160x107.png 160w"
-                    sizes="(max-width: 640px) 100vw, 640px"
-                  />
-                </a>
-              </div>
-            </div>
-            <div style={{ display: 'flex', justifyContent: 'left' }}>
-              <div>
-                <img
-                  src="/css/img/masters.png"
-                  alt="O&P Masters Programs-2017"
-                  width="500px"
-                />
-              </div>
-              {/* </div> */}
-            </div>
-          </div>
+
           <div className="card">
             <div className="row">
               <div className="col-md-4">
