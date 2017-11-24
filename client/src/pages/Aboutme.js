@@ -10,7 +10,7 @@ const Aboutme = () => {
           {/* <p style={styles.p} /> */}
           <p>
             I have been a practicing orthotist for almost 30 years. I have
-            worked in most environments an orthotist can work. I am not duel
+            worked in most environments an orthotist can work. I am not dual
             certified and cannot speak to the perspective of a prosthetist. My
             biases are certainly reflected in my writings here but my concern
             for the future of O&P is real. My practice in Pediatric Orthotics
@@ -21,43 +21,37 @@ const Aboutme = () => {
           </p>
 
           <p>
-            I have gradually become disenchanted with O&P and have been looking
-            for a way to "move up" the ladder for several years. I have felt the
-            need to leave stable employment in search of better opportunity
-            because the training and positions were not available. I know there
-            are some of you who detest the phrase "the good old boy network" but
-            my experience throughout my career is that is prevalent today in
-            O&P.
+            I have gradually become disenchanted with the leadership options and
+            practices in O&P and have devoted the past year to analyzing the
+            field so as to offer an understanding of how more agile and
+            effective leadership could be imagined and implemented allowing
+            talented practitioners to be retained and to take on leadership
+            roles at higher management levels. I have felt the need to leave
+            stable employment in search of better opportunities for training and
+            promotion. My hope is to be part of the process of ensuring that the
+            phrase "the good old boy network" becomes a phrase that could not
+            describe O&P.
           </p>
 
-          {/* <p>
-            My first mentor as I was coming into the field as an orthotic fitter
-            (circa 1995) informed me that my hands were too small for orthotics
-            and that a woman could never learn the physics required to do the
-            job. Lucky for me, I took that as a challenge to prove him wrong.
-            But why was that allowed? I have been pigion holed into clinical
-            situations and unable to broaden my skills because I am a female and
-            "they need a woman to fit a spinal brace". Being the only woman, it
-            fell to me to work spinal. I always found it interesting how the job
-            got done when I was on vacation or out of the clinic.
-          </p> */}
           <p>
-            I did have some very good mentors. The instructors at Northwestern
-            University who insisted on professionalism and handled each of us
-            with respect. Leaders like Chris Piel, who showed me the ropes at
-            The Cleveland Clinic and provided stern direction and encouragement.
-            He led by example and walked the walk with his team. Everyone on the
-            team was trained in fabrication as well as spinal. I have had some
-            excellent mentors in my career.
+            The positive impact of the excellent mentors I had in my career is
+            evidence of the real difference that its implementation in the
+            organizational culture of O&P could make. The instructors at
+            Northwestern University insisted on professionalism and handled each
+            of us with respect. Leaders like Chris Piel at the Cleveland Clinic
+            Foundation provided stern direction and encouragement. He led by
+            example and walked the walk with his team. He insisted that each
+            team member be accountable for their actions all while having
+            respect and compassion for not only his patients but also the
+            individuals he works with.
           </p>
           <p>
             It took a lot of soul searching until I happened on to the Human
             Dimensions of Organizations Master's Degree program at the
             University of Texas. I knew the only way for me to prove I could do
-            more was to get another degree. This program was a perfect fit. It
-            was the best day when I was accepted to HDO. Little did I know how
-            completely right my feelings were but also how disenchanted I had
-            become with Orthotics. Life as I knew it was ruined!
+            more was to get another degree. This program was a perfect fit.
+            Little did I know how completely right my feelings were but also how
+            disenchanted I had become with Orthotics as I knew it.
           </p>
           <p>
             It was through my work in earning my MA-HDO that I re-discovered my
@@ -74,8 +68,11 @@ const Aboutme = () => {
           </p>
           <p>
             I want to extend a big thanks to the University of Texas Human
-            Dimensions of Organizations team and classmates, to my supportive
-            husband Tom for seeing me through this journey. Still working
+            Dimensions of Organizations team and classmates. I owe a huge thank
+            you to my advisor Elizabeth Richmond-Garza who heard my rantings and
+            was a rigid suporter of this project. Finaly, my sincerest, deepest
+            thanks to my supportive husband Tom for his encouragement beyond the
+            fear and for seeing me through this journey. I am still working
             through a tunnel but at least now there is a light at the end.
           </p>
         </div>

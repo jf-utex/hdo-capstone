@@ -10,18 +10,22 @@ const Why = () => {
           <div className="row">
             <div className="col-md-6">
               <p>
-                In order to be an effective leader, one must be able to
-                motivate. The leader must understand a person whether it be the
-                influences of their generational cohort, personal history or
-                previous experience at work. Having this information can help
-                foster connections between employees and develop an environment
-                that will encourage not only the organizational growth through
+                In order to be an effective leader, one must be able to create
+                the conditions in which others will feel motivated. The leader
+                must understand a person whether it be the influences of their
+                generational cohort, culture, personal history or previous
+                experience at work. Having this information can help foster
+                connections between employees and develop an environment that
+                will encourage not only the organizational growth through
                 mission and vision but also the growth of the individual
                 employee.
               </p>
               <p>
-                As previously mentioned, an issue that faces the O&P profession
-                is that there is no current leadership training in our
+                Moreover, this cultivation of expertise in eliciting individual
+                commitment and creating a shared culture within the
+                organization, must be an organizational priority and be
+                reflected in concrete ways. Within the O&P profession, however,
+                there is no current leadership training, neither in our
                 curriculum or in practice. There is no peer reviewed research
                 into transformational leadership within O&P. This may be an
                 increasing concern as we compete for pay sources, attempt to
@@ -42,47 +46,49 @@ const Why = () => {
                 </div>
               </div>
               <br />
-
               <p>
                 Turning again to the “Practice Analysis of Certified
                 Practitioners in the Disciplines of Orthotics and Prosthetics”
                 we see that most practitioners have been in the field for more
                 than 11 years with a stark decrease in the number of clinicians
-                serving 10 years or less. I’m not sure what this indicates but
-                would lead me to wonder if there is a lack of interest in the
-                field or if individuals are leaving the field. This is a
-                question that could be answered with a look into our culture.
-                Now that we require a Master’s level of education to enter the
-                field, we have the opportunity to expand the definition of
-                acceptable research to encourage examination of our
-                organization. With the O&P workforce of just over 6,000
-                practitioners in 2017, we continue to be a small division of
-                medicine. Recruiting and retention should be a focus to sustain,
-                even grow the field, as qualified O&P practitioners will be
-                needed to care for our aging population.
+                serving 10 years or less. The numbers suggest either a decline
+                in interest in the field or a self-sorting of individuals who
+                are leaving the field of their own accord. In either case, the
+                field is either not retaining certain practitioners or
+                recruiting new talent. We could analyze the causes and address
+                the retention issue by looking into our culture. Now that we
+                require a Master’s level of education to enter the field, we
+                have the opportunity to expand the definition of acceptable
+                research to encourage examination of our organization. With the
+                O&P workforce of just over 6,000 practitioners in 2017, we
+                continue to be a small division of medicine. Recruiting and
+                retention should be a focus to sustain, even grow the field, as
+                qualified O&P practitioners will be needed to care for our aging
+                population.
               </p>
               <p>
                 To grow the field and encourage new applicants to our O&P
                 schools, two things must happen, we must first understand what
                 traits or behaviors seem to be associated with each generation
-                in the workforce and how they perceive effective leadership. We
-                have looked a little into that here, but there is more to be
-                done as Generation Z ages fully into the workforce and
-                expectations that come with “stage of life” shift in other
-                generations. By keeping pace with our employees, we will be
-                closer to easing the transition as one group leaves and the
-                other replaces it as well as possibly identifying factors that
-                may help with recruiting and retention.
+                in the workforce and then customize our practices to reflect how
+                they perceive effective leadership. We have looked a little into
+                that here, but there is more to be done as Generation Z ages
+                fully into the workforce and expectations that come with “stage
+                of life” shift in other generations. By keeping pace with our
+                employees, we will be closer to easing the transition as one
+                group retirees and another replaces it. Additionally, we may be
+                able to identify factors that may help with recruiting and
+                retention.
               </p>
               <p>
                 The labor force is affected by a number of people retiring each
                 year with a direct impact on the economy’s capacity to produce
                 goods and services (Ahn & Ettner, 2017). We must be careful not
-                to stereotype a particular generation instead, we must consider
+                to stereotype a particular generation. Instead, we must consider
                 that an individual employee’s preferences may be related to
-                maturity, life‐cycle and career stage. This will help us to
-                avoid developing generationally specific management policies and
-                practices (Macky, Gardner, & Forsyth, 2008)
+                maturity, life‐cycle and career stage. Such attention will help
+                us to avoid developing generationally specific management
+                policies and practices (Macky, Gardner, & Forsyth, 2008)
               </p>
             </div>
 
@@ -123,23 +129,24 @@ const Why = () => {
               <p>
                 Within O&P leadership directives, there is no feedback loop in
                 peer to peer interactions relating to leadership. We are
-                responsible to have circular feedback with our patients however,
-                with employees and leaders/management, the same accountability
-                is not upheld. There is no closure to suggestions or issues that
-                are taken up the chain of command. This lack of accountability
-                may be interpreted as a lack of respect and concern for the
-                employee issues. Broadly, this affects all generations in the
-                workplace.
+                responsible for having circular feedback with our patients;
+                however, with employees and leaders/management, the same
+                accountability is not upheld. There is no closure to suggestions
+                or action in response to issues that are taken up the chain of
+                command. This lack of accountability may be interpreted as a
+                lack of respect and concern for the employee issues. Broadly,
+                this affects all generations in the workplace.
               </p>
 
               <p>
                 Without communication, the employee feels a lack of respect and
                 importance within their organizational role. If repeated over
-                time there may come a point of disengagement. When an employee
+                time they may come to a point of disengagement. When an employee
                 disengages, they are not as committed to the patients or the
                 organization, their creativity is dampened and creative
                 solutions for orthotic and prosthetic problems are reduced. The
-                patient in the end, pays for this.
+                patient in the end experiences the consequences of this
+                alienation.
               </p>
               <p>
                 Nursing is also looking at issues relating to guidance of the
@@ -154,9 +161,9 @@ const Why = () => {
                 as a first example of some of the questions we should ask in
                 future O&P research. Because nursing also deals with shift
                 differentials, on call and balancing patient needs with employee
-                needs and expectations there are enough similarities to pattern
+                needs and expectations, there are enough similarities to pattern
                 future O&P research into organizational culture and behavior and
-                how to encourage employee citizenship.
+                to use the nursing model to encourage employee citizenship.
               </p>
             </div>
           </div>

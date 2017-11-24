@@ -107,7 +107,7 @@ const Generation = () => {
               population we serve?
             </h3>
             <p>
-              Though each generation claim common influence through events they
+              Though each generation claims common influence through events they
               experience, there are similarities that can and do cross the
               generational timeline and can be capitalized upon to pull workers
               together in the workplace. Though some feel it is important
@@ -186,8 +186,8 @@ const Generation = () => {
               implementation of technology, Gen Xers are technologically adept
               and tend to use technology to personalize and humanize everything.
               (Reisenwitz & Iyer, 2009) They have a high preference for web
-              applications and e-mail-based communication. (Mhatre, K. H.,
-              &Conger, J. A. 2011) From everything we know about them, X’s are
+              applications and email-based communication. (Mhatre, K. H., &
+              Conger, J. A. 2011) From everything we know about them, X’s are
               savvy, skeptical and self-reliant; they’re not into preening or
               pampering, and they just might not give much of a hoot what others
               think of them or if others think of them at all.” (Pew Research)
@@ -249,17 +249,17 @@ const Generation = () => {
 
             <p>
               Generation Y has grown up in a world where massive amounts of
-              information and entertainment is readily available as cell phones,
-              internet and video games are in every household. They value a
-              work-personal life balance and they are willing to leave one job
-              for another if it is beneficial for them. This generation is the
-              hardest to recruit and retain (Weingarten, 2009) and has less
-              loyalty to an organization than previous generations. They show a
-              higher independence than their parents. They feel they must switch
-              positions if needed in order to fulfill their aspirations for
-              career growth. With a strong desire to achieve work-life balance
-              they feel a need for altruistic activities. They prefer to work
-              for an employer that garners their respect and will foster
+              information and entertainment are readily available as cell
+              phones, internet and video games are in every household. They
+              value a work-personal life balance and they are willing to leave
+              one job for another if it is beneficial for them. This generation
+              is the hardest to recruit and retain (Weingarten, 2009) and has
+              less loyalty to an organization than previous generations. They
+              show a higher independence than their parents. They feel they must
+              switch positions if needed in order to fulfill their aspirations
+              for career growth. With a strong desire to achieve work-life
+              balance they feel a need for altruistic activities. They prefer to
+              work for an employer that garners their respect and will foster
               learning. These are important points to keep in mind as we recruit
               and try to retain these talented individuals. Communication on
               their terms is important and will likely require a shift in how we
@@ -291,7 +291,7 @@ const Generation = () => {
                 they are not fulfilled. They are comfortable with collaborative
                 tools such as cell phones, laptops, multimedia, instant
                 messaging and may need businesses to acknowledge that in the
-                work place as well as in communication with their patients.
+                workplace as well as in communication with their patients.
               </p>
             </div>
           </div>

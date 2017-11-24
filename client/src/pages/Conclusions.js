@@ -26,15 +26,15 @@ const Conclusions = () => {
                 conflict when generational values are at odds and causing
                 distress in the work environment. By understanding these
                 motivations, they can work to bring generations together thereby
-                reducing the “Generation Gap" that can tear teams apart. Leaders
-                must keep in mind, these are guidelines for general behaviors
-                and attitudes and are not defining features of an individual.
-                Understanding the reasoning behind generational differences may
-                help leaders address conflict in the workplace and approach
-                problems in the language of these cohorts. It takes some skill,
-                however; a good leader will be able to tap into and utilize the
-                specific skills of their employees to better serve the
-                organization.
+                if not reducing at least bridging the “Generation Gap" that can
+                tear teams apart. Leaders must keep in mind, these are
+                guidelines for general behaviors and attitudes and are not
+                defining features of an individual. Understanding the reasoning
+                behind generational differences may help leaders address
+                conflict in the workplace and approach problems in the language
+                of these cohorts. It takes some skill, however; a good leader
+                will be able to tap into and utilize the specific skills of
+                their employees to better serve the organization.
               </p>
               <p>
                 Organizations are complex and consist of individuals with
@@ -49,37 +49,38 @@ const Conclusions = () => {
               </p>
               <p>
                 Organizations are the coordination of individual behaviors and
-                decision-making processes. To understand the impact of this on
-                our organizations, we need to consider how and why individuals
-                behave the way they do. Individuals make conscious decisions
-                that lead to what they think are the optimal outcomes based on
-                their preferences and experiences. These preferences are
-                impacted by generational attitudes, specialization, education
-                and the organizational expectations. Expanding our knowledge
-                about our own organizational behavior and culture will allow us
-                to first understand how we interact with one another but shed
-                light on how these actions may need to change for the future of
-                O&P and the wellness of our patients.
+                decision-making processes. To understand the impact of this
+                interconnectedness on our organizations, we need to consider how
+                and why individuals behave the way they do. Individuals make
+                conscious decisions that lead to what they think are the optimal
+                outcomes based on their preferences and experiences. These
+                preferences are affected by generational attitudes,
+                specialization, education and the organizational expectations.
+                Expanding our knowledge about our own organizational behavior
+                and culture will allow us to first understand how we interact
+                with one another but shed light on how these actions may need to
+                change for the future of O&P and the wellness of our patients.
               </p>
             </div>
             <div className="col-md-6">
               <p>
                 <p>
-                  Mentoring those new to clinical practice is vital because they
-                  may not have the experiences necessary to have complete
-                  knowledge in how to handle situations. We do this with our
-                  Residency Programs. It stands to reason we should do the same
-                  with our leadership.
+                  Systematically mentoring those new to clinical practice is
+                  vital because they lack the experiences necessary to have
+                  complete knowledge required to handle clinical situations. Our
+                  Residency Programs focus on mentoring the clinical aspect of a
+                  practitioner's practice. It stands to reason we should do the
+                  same with our leadership.
                 </p>
                 <p>
                   When an individual starts a new job, often supervisors will
                   place strong restrictions on the new clinicians’ decisions and
                   actions until they are certain the outcomes coincide with the
-                  organizational expectations. This can be suffocating to a
-                  seasoned clinician as well as a new clinician that “thinks
-                  they know the outcomes to their actions”. It is imperative
-                  that the communication be circular and supportive while
-                  providing feedback in a timely manner.
+                  organizational expectations. Such control may seem excessive
+                  and can even be suffocating to a seasoned clinician as well as
+                  a new clinician that “thinks they know the outcomes to their
+                  actions”. It is imperative that the communication be circular
+                  and supportive while providing feedback in a timely manner.
                 </p>
                 <p>
                   It is good for a supervisor to keep in mind that no one person
@@ -99,7 +100,7 @@ const Conclusions = () => {
                   Communication styles: Peer to Peer and with patient population
                   considering gender and generational differences
                 </li>
-                <li>Garner experience from incumbants in the field</li>
+                <li>Garner experience from incumbents in the field</li>
                 <li>Encourage ideas from younger generation</li>
                 <li>
                   Increase engagement => encourage growth of field/improved
