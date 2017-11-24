@@ -76,7 +76,7 @@ class NavComponent extends React.Component {
                 </li>
                 <li>
                   <NavLink to="aboutme">
-                    About the Author and Acknowledgements
+                    Connect with the Author and Acknowledgements
                   </NavLink>
                 </li>
               </ul>
@@ -88,7 +88,7 @@ class NavComponent extends React.Component {
                 data-toggle="dropdown"
                 href="index.js"
               >
-                Connect
+                Comments
                 <span className="caret" />
               </a>
               <ul className="dropdown-menu">
