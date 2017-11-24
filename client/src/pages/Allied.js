@@ -9,25 +9,27 @@ const Allied = () => {
           <div className="panel-body">
             <div className="wrapper">
               <p>
-                We should understand the needs and motivations of O&P
-                professionals will change over time and understand that
-                communication differences are present within genders and
-                different generations. What works for a male may not work for a
-                female. What works for a Baby Boomer will not always work for
-                Generation Y. Each person regardless of gender and generation
-                possesses their own strengths and individual weaknesses. Now
-                with a workforce of "Millennial" adults quickly out numbering
-                “Generation X", we may need to do business differently due to a
-                generation gap or perceived generational differences. What if we
-                maximized the strengths of our co-workers the same as we
-                maximize the muscle group that is not impacted by a disease
-                process? How will those strengths change over time as a
-                clinician becomes more seasoned in their practice? Just as we
-                encourage our patients to participate in physical therapy for
-                strengthening or avoidance of contracture shouldn’t we consider
-                the long-term goals of our practitioners and provide ”therapy”
-                in the form of leadership training or at the very least
-                mentoring?
+                We should understand the needs and motivations of O&P We should
+                understand the needs and motivations of O&P professionals will
+                change over time and understand that communication differences
+                are present across genders, sexualities, ethnicities, and
+                generations. What works for someone who identifies as male may
+                not work for a female-identified employee. What works for a Baby
+                Boomer will not always work for Generation Y. Each person
+                regardless of gender and generation possesses their own
+                strengths and individual weaknesses. Now with a workforce of
+                "Millennial" adults quickly outnumbering “Generation X", we may
+                need to do business differently due to a generation gap or
+                perceived generational differences. What if we maximized the
+                strengths of our co-workers in just the same way as we maximize
+                the muscle group that is not impacted by a disease process? How
+                will those strengths change over time as a clinician becomes
+                more seasoned in their practice? Just as we encourage our
+                patients to participate in physical therapy for strengthening or
+                avoidance of contracture shouldn’t we consider the long-term
+                goals of our practitioners and provide ”therapy” in the form of
+                leadership training or at the very least mentoring, so as to
+                ensure the health of our organization and each of its employees?
               </p>
               <h3>The Existing Research</h3>
               <p>
@@ -35,7 +37,8 @@ const Allied = () => {
                 professionals. Of those 6,000 practitioners, females make up
                 just 27%. The male to female ratio has historically favored
                 males however; the patient gender distribution is relatively
-                evenly distributed. That said, why is the field so unbalanced?
+                evenly distributed. That being said, why is the field so gender
+                unbalanced?
               </p>
               <br />
               <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -59,90 +62,87 @@ const Allied = () => {
                 by the O&P community now that research is a requirement to earn
                 a Master's Degree in Orthotics and Prosthetics and in order to
                 enter the field.
-                <p>
-                  The terms used for my literature search centered around
-                  “leadership”, “mentor”, “organizational culture” and
-                  “organizational behavior” in “nursing” and “physical therapy”.
-                  Hundreds of potential articles specifically relating to PT and
-                  Nursing were returned. A similar search with “orthotics”,
-                  “prosthetics”, or “O&P” resulted in less than ten specifically
-                  addressing organizational behavior and culture in O&P and very
-                  few reflections or research about mentoring in the O&P
-                  workplace.
-                </p>
-                <div
-                  style={{
-                    display: 'flex',
-                    justifyContent: 'center',
-                    fontStyle: 'italic'
-                  }}
-                >
-                  <p>
-                    <br />
-                    <p>
-                      “These results demonstrate that very little research has
-                      been done in the O&P on its own professional culture.
-                      Other industries as well as allied medical fields, such as
-                      nursing, regularly produce research reflecting on their
-                      own practices of mentoring, examinations of workplace
-                      culture and communication, and gender dynamics.”
-                    </p>
-                    <p>Carolyn Cunningham – University of Texas Libraries</p>
-                  </p>
-                </div>
-                <div
-                  style={{
-                    display: 'flex',
-                    justifyContent: 'left',
-                    fontSize: 15
-                  }}
-                >
-                  <p>
-                    The specific databases accessed through the University of
-                    Texas included:
-                  </p>
-                  <ul>
-                    <li>CINAHL Plus with Full Text</li>
-                    <li>Academic Search Complete</li>
-                    <li>Gender Studies Database</li>
-                    <li>Health Source: Nursing/Academic Edition</li>
-                    <li>MEDLINE</li>
-                    <li>PsycINFO</li>
-                    <li>SocINDEX with Full Text</li>
-                  </ul>
-                </div>
-                <p>
-                  Today, current managerial leadership in Orthotics and
-                  Prosthetics is taught by “do as I say and sometimes do what I
-                  do”. As I have learned, this method of mentoring may not be
-                  appropriate for those newly entering the field. I then began
-                  to wonder as I reflect on my personal experience in the field…
-                  is this method of mentoring ever appropriate? Due to recent
-                  change in the American health care system, it would be
-                  advisable to consider the available research in health care
-                  organizations and even in business and assess if a change in
-                  O&P leadership practices is indicated. If we are to maintain
-                  professionalism, improve our patient care practices, and
-                  maintain marketability, we are obligated to move outside the
-                  NUPOC definition of "research" and expand our sights to
-                  include how individuals in our organizations behave.
-                </p>
-                <p>
-                  Organizational culture sets an environment that encourages
-                  employee citizenship. This in turn, often results in the
-                  employee going “above and beyond” their specific duties to
-                  better the organization. It has been shown that these
-                  immeasurable behaviors have a direct impact on the viability
-                  of a business. It is the culture, behavior and ultimately the
-                  citizenship that we seem to admire in companies like Southwest
-                  Airlines and Apple when the economy is depressed.
-                </p>
               </p>
-
-              <br />
               <p>
-                <h4>Let's Look at the Generational Gap in Experience</h4>
+                The terms used for my literature search centered around
+                “leadership”, “mentor”, “organizational culture” and
+                “organizational behavior” in “nursing” and “physical therapy”.
+                Hundreds of potential articles specifically relating to PT and
+                Nursing were returned. A similar search with “orthotics”,
+                “prosthetics”, or “O&P” resulted in less than ten specifically
+                addressing organizational behavior and culture in O&P and very
+                few reflections or research about mentoring in the O&P
+                workplace.
               </p>
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  fontStyle: 'italic'
+                }}
+              >
+                <p>
+                  <br />
+                  <p>
+                    “These results demonstrate that very little research has
+                    been done in the O&P on its own professional culture. Other
+                    industries as well as allied medical fields, such as
+                    nursing, regularly produce research reflecting on their own
+                    practices of mentoring, examinations of workplace culture
+                    and communication, and gender dynamics.”
+                  </p>
+                  <p>Carolyn Cunningham – University of Texas Libraries</p>
+                </p>
+              </div>
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'left',
+                  fontSize: 15
+                }}
+              >
+                <p>
+                  The specific databases accessed through the University of
+                  Texas included:
+                </p>
+                <ul>
+                  <li>CINAHL Plus with Full Text</li>
+                  <li>Academic Search Complete</li>
+                  <li>Gender Studies Database</li>
+                  <li>Health Source: Nursing/Academic Edition</li>
+                  <li>MEDLINE</li>
+                  <li>PsycINFO</li>
+                  <li>SocINDEX with Full Text</li>
+                </ul>
+              </div>
+              <p>
+                Today, current managerial leadership in Orthotics and
+                Prosthetics is taught by “do as I say and sometimes do what I
+                do”. As I have learned, this method of mentoring may not be
+                appropriate for those newly entering the field. I then began to
+                wonder as I reflect on my personal experience in the field… is
+                this method of mentoring ever appropriate? Due to recent change
+                in the American health care system, it would be advisable to
+                consider the available research in health care organizations and
+                even in business and assess if a change in O&P leadership
+                practices is indicated. If we are to maintain professionalism,
+                improve our patient care practices, and maintain marketability,
+                we are obligated to move outside the NUPOC definition of
+                "research" and expand our sights to include how individuals in
+                our organizations behave.
+              </p>
+              <p>
+                Organizational culture sets an environment that encourages
+                employee citizenship. This in turn, often results in the
+                employee going “above and beyond” their specific duties to
+                better the organization. It has been shown that these
+                immeasurable behaviors have a direct impact on the viability of
+                a business. It is the culture, behavior and ultimately the
+                citizenship that we seem to admire in companies like Southwest
+                Airlines and Apple when the economy is depressed.
+              </p>
+              <br />
+              <h4>Let's Look at the Generational Gap in Experience</h4>
               <p>
                 In order to be sustainable in the future, we must change how we
                 look at research and ask ourselves how we can best serve our

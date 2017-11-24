@@ -72,7 +72,7 @@ const Whatisonp = () => {
                 As Condie mentions in his piece, “The Modern Era of Orthotics”
                 we have seen an evolution in how we practice orthotics. Since
                 1970 the field has evolved as the introduction of thermoplastics
-                became favorable to the traditional metal and leather devices.
+                became preferred over the traditional metal and leather devices.
                 With that development, there was a need for a new classification
                 system when describing our patient population and the
                 appropriate orthotic intervention. In 1975 Jacqueline Perry, a
@@ -80,13 +80,13 @@ const Whatisonp = () => {
                 physical limitations. By describing functional loss instead of
                 diagnostic labeling, we are now better able to address
                 expectations and discuss individual patient characteristics with
-                one another within O&P and with other health care professionals.
+                one another within O&P and with other healthcare professionals.
                 (Condie, 2008).
               </p>
               <p>
-                After Jacqueline Perry, there is now a recognition that patients
-                change and as a consequence, so do their needs. The
-                International Standards Organization (ISO) formalized an
+                Since Jacqueline Perry’s published work, there is a recognition
+                that patients change and as a consequence, so do their needs.
+                The International Standards Organization (ISO) formalized an
                 approach to use terminology that describes the clinical
                 objectives of an orthosis/prosthesis and the functional
                 requirements of a device needed to fulfill those objectives.
@@ -98,10 +98,9 @@ const Whatisonp = () => {
               </p>
               <p>
                 <h4>
-                  If we can see our way clear to understand that multiple
-                  patients with the same diagnosis have different needs, can we
-                  now understand the needs and motivations of O&P professionals
-                  will change over time?
+                  If we realize that multiple patients with the same diagnosis
+                  have different needs, can we now understand the needs and
+                  motivations of O&P professionals will change over time?
                 </h4>
               </p>
             </div>

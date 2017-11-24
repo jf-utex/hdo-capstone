@@ -16,21 +16,24 @@ const Intro = () => {
             Anyone searching for resources in O&P leadership, will generally
             find them difficult to locate. In my direct experience, the O&P
             profession has not offered training in leadership through our
-            education platform to our professionals. I have found that we do not
-            discuss organizational culture or organizational behavior in
-            peer-reviewed literature. In short, we are not adding to an
-            important conversation that is ongoing in other professions like
-            sales, insurance, machinery, restaurant and hospitality or even
-            other health care organizations. We are missing an opportunity to
-            add to the body of knowledge regarding how we treat one another and
-            how we can improve our interpersonal relationships in the clinic. We
-            are missing the opportunity to garner a higher engagement from our
+            education platform to our professionals. We rarely discuss
+            organizational culture or organizational behavior in peer-reviewed
+            literature. In short, we are currently not part of an important
+            conversation that is ongoing in other professions like sales,
+            insurance, machinery, restaurant and hospitality. Even other health
+            care organizations have realized that the attention paid to the
+            organization itself, and especially to leadership, plays an
+            important role in the health of the organization and in the quality
+            of service provided to clients. We are missing an opportunity to add
+            to the body of knowledge regarding how we treat one another and how
+            we can improve our interpersonal relationships in the clinic. We are
+            missing the opportunity to garner a higher engagement from our
             employees.
           </p>
           <br />
           <h3>
-            This shortcoming may extend from a cornerstone of our industry’s
-            education stated purpose of research.
+            This shortcoming appears in the education cornerstone of our
+            industry’s stated purpose of research.
           </h3>
           <div className="panel-nupoc">
             <br />
@@ -59,41 +62,54 @@ const Intro = () => {
           </div>
           <br />
           <p>
-            We, as a profession, are not looking at our culture through a
-            critical lens to isolate strengths and weaknesses. We are not
-            learning how to be good leaders, we are not mentoring in leadership
-            and we are failing to keep pace with others on understanding our own
-            organization. We encourage our patients to adapt to changing
-            technology and re-fabricated devices. Often, we change how we manage
-            a patient or fabricate a device according to new information,
-            fabrication designs progression of deformities. Shouldn't we also be
-            applying these principles to how we engage with each other outside
-            of the exam room? Our current perspective ignores the need for
-            internal examination of policies, practice, culture and leadership.
-            Without examining who we are and why we do what we do, we are
-            missing the opportunity to improve our interpersonal relationships
-            with each other and our patients. While O&P has been historically
-            excellent at examining biomechanical and anatomical principles, we
-            are forgetting to look at ways to improve our mentoring, our
-            leadership and ways to recruit talent to our field.
+            We, as a profession, need to take the opportunity to look at our
+            culture through a critical lens so as to isolate strengths and
+            weaknesses. This reflection will allow us to define what it means to
+            be an effective leader in our field and to encourage and support
+            developmental opportunities for individuals taking on leadership
+            roles. Without this leadership mentoring, we will not keep pace with
+            other fields currently developing this understanding and framework
+            of leadership in their own organizations.
+          </p>
+          <p>
+            We encourage our patients to adapt to changing technology and
+            re-fabricated devices. As a regular dynamic response to new
+            information and developing techniques, we change how we manage a
+            patient or fabricate a device, taking into account new information,
+            and the progressions of the physical realities of our patients. We
+            should improve our own interactions outside the examination room by
+            applying these very principles whose effectiveness we already know.
+          </p>
+          <p>
+            Our current perspective overlooks the need for internal examination
+            of policies, practice, culture and leadership. Without examining who
+            we are and why we do what we do, we are missing the opportunity to
+            improve our interpersonal relationships with each other and our
+            patients. While O&P has been historically excellent at examining
+            biomechanical and anatomical principles, we have neglected exploring
+            and considering ways to improve our mentoring, our leadership and
+            ways to recruit talent to our field.
           </p>
           <br />
           <div className="row">
             <div className="col-md-12">
               <p>
-                Because, we aren't adding to the body of research in these
-                areas, we fall behind our allied health colleagues. The fields
-                of nursing and physical therapy, among others, are actively
-                researching and implementing changes that allow them to move
-                forward with current available technology, harness the value of
-                incumbent human capital, attract fresh talent and engage current
-                talent. Ignoring the fact that there is a conversation being had
-                about organizational culture, organizational behavior, and
+                So far we have not expanded the body of research in these areas,
+                and we have fallen behind our allied health colleagues. The
+                fields of nursing and physical therapy, among others, are
+                actively researching and implementing changes that allow them to
+                move forward with current available technology, harness the
+                value of incumbent human capital, attract fresh talent and
+                engage current talent. Not participating in a conversation being
+                had about organizational culture, organizational behavior, and
                 employee citizenship sets us apart from our health care peers
-                and other organizations that are competing with us for new
-                talent. As long as we are not involved in this discussion, we
-                will continue to face the question of whether we are a
-                profession or a trade.
+                and other organizations in ways that our counterproductive in
+                the highly competitive environment for attracting new and
+                talented employees.. As long as we are not involved in this
+                discussion, we risk being a highly specialized and important
+                trade dedicated to providing certain devices rather than a
+                profession that is also dedicated to provide unbiased counsel
+                and service in an agile manner to clients.
               </p>
             </div>
           </div>
