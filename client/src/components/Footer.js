@@ -1,6 +1,5 @@
 import React from 'react';
 import { Grid, Nav, NavItem } from 'react-bootstrap';
-import ReactDOM from 'react-dom';
 
 function Footer(/*props*/) {
   return (

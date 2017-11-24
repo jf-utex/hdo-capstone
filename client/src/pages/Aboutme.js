@@ -7,7 +7,6 @@ const Aboutme = () => {
       <div className="panel panel-default">
         <div className="panel-body">
           <h3>About Me</h3>
-          {/* <p style={styles.p} /> */}
           <p>
             I have been a practicing orthotist for almost 30 years. I have
             worked in most environments an orthotist can work. I am not dual
@@ -19,7 +18,6 @@ const Aboutme = () => {
             of a technical career. My hope is that leadership opportunities or
             at least a more open conversation will be found.
           </p>
-
           <p>
             I have gradually become disenchanted with the leadership options and
             practices in O&P and have devoted the past year to analyzing the
@@ -32,7 +30,6 @@ const Aboutme = () => {
             phrase "the good old boy network" becomes a phrase that could not
             describe O&P.
           </p>
-
           <p>
             The positive impact of the excellent mentors I had in my career is
             evidence of the real difference that its implementation in the
@@ -75,18 +72,57 @@ const Aboutme = () => {
             fear and for seeing me through this journey. I am still working
             through a tunnel but at least now there is a light at the end.
           </p>
-        </div>
-        <div className="card">
-          <div className="row">
-            <div className="col-md-4">
-              <Link to={'/conclusions'}>Back</Link>
+          <div className="card">
+            <div className="row">
+              <div className="col-md-1 col-sm-3" />
+              <div className="col-md-9 col-sm-5">
+                <div className="card" id="email-phone">
+                  <h2 className="heading">Contact Me</h2>
+                  <span className="name">Jeannie Flaherty, CO/LO</span>
+                  <div className="category">
+                    Full Stack Developer/Front-End Design
+                  </div>
+                  <div>
+                    Email:{' '}
+                    <a
+                      href="mailto:jflaherty@utexas.edu?Subject=Hello!"
+                      className="email"
+                    >
+                      jflaherty@utexas.edu
+                    </a>
+                  </div>
+                  <div>
+                    Phone: <span className="tel">(737)222-0016</span>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-2 col-sm-3">
+                <div style={{ display: 'flex', justifyContent: 'right' }}>
+                  <div>
+                    <img
+                      src="css/img/portfoliobw.jpg"
+                      alt=""
+                      className="img-responsive img-circle"
+                    />
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="col-md-4">
-              <Link to={'/references'}>Next</Link>
-            </div>
-
-            <div className="col-md-4">
-              <Link to={'/comments'}>Tell me what YOU think!</Link>
+          </div>
+          <br />
+          <br />
+          <div className="card">
+            <div className="row">
+              <br />
+              <div className="col-md-4">
+                <Link to={'/conclusions'}>Back</Link>
+              </div>
+              <div className="col-md-4">
+                <Link to={'/references'}>Next</Link>
+              </div>
+              <div className="col-md-4">
+                <Link to={'/comments'}>Tell me what YOU think!</Link>
+              </div>
             </div>
           </div>
         </div>
