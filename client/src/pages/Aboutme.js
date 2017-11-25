@@ -63,14 +63,21 @@ const Aboutme = () => {
             change the status quo and take greater stock in the human capital
             available to them.
           </p>
+          <h3>Acknowledgements:</h3>{' '}
           <p>
-            I want to extend a big thanks to the University of Texas Human
-            Dimensions of Organizations team and classmates. I owe a huge thank
-            you to my advisor Elizabeth Richmond-Garza who heard my rantings and
-            was a rigid suporter of this project. Finaly, my sincerest, deepest
-            thanks to my supportive husband Tom for his encouragement beyond the
-            fear and for seeing me through this journey. I am still working
-            through a tunnel but at least now there is a light at the end.
+            I need to extend a tremendous thank you to the University of Texas –
+            Human Dimensions of Organizations team and classmates. Without the
+            support and the guidance from each of you, this would not have been
+            possible. I thank you, Dr. Elizabeth Richmond-Garza, for hearing my
+            rants and being a rigid supporter of this project. You were the
+            voice of calm support and encouragement in something I didn’t know I
+            had the capacity to do. To Dr. Paul Woodruff for being an
+            inspiration. Your manner of quiet leadership has touched me,
+            allowing me to see what is possible and to ask why it is not always
+            so. Finally, I give my deepest, most sincere thanks to my husband
+            Tom who has stood by the crazy and encouraged me to push past the
+            fear. I am still working through a tunnel but at least now, thanks
+            to you, there is light at the end. Thank you all.
           </p>
           <div className="card">
             <div className="row">
